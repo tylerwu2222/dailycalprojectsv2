@@ -1,0 +1,15 @@
+#logo-container {
+    padding: 20px 0px 40px;
+}
+
+#DC-logo {
+    max-width: 50vw;
+    height: auto;
+}
+
+#projects-logo {
+    position: relative;
+    left: -10px;
+    top: 30px;
+    max-width: 8vw;
+}

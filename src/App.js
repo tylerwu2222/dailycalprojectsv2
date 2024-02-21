@@ -1,24 +1,44 @@
-import logo from './logo.svg';
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+// data
+import posts from '../src/page_data/articles/articlesData.json'
+
+// components
+import SiteLogo from './components/SiteLogo/SiteLogo';
+import NavBar from './components/NavBar/NavBar';
+import ArticleTemplate from './components/ArticleTemplate/ArticleTemplate';
+
+import { urlify } from './scripts/textCleaning';
+
 import './App.css';
+import Home from './pages/Home/Home';
 
 function App() {
+  // const posts = ['p1','p2'];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="App">
+        <SiteLogo />
+        <NavBar />
+      </div>
+      <Routes>
+        <Route exact path="/" element={<Home />}></Route>
+        {/* <Route exact path="/team" element={<Team />}></Route> */}
+        {/* <Route exact path="/contact" element={<Contact />}></Route> */}
+        {posts.map(post => {
+          // console.log('post',post);
+          return (
+            <Route exact path={"/article/" + urlify(post.title)} element={<ArticleTemplate
+              postData={post}
+            />}>
+            </Route>
+          )
+        })
+        }
+      </Routes>
+    </Router>
   );
 }
 

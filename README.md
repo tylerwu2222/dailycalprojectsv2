@@ -31,6 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+### `npm run update-articles`
+
+This needs to be run to add new articles to the main page.
+
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.

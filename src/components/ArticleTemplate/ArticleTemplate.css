@@ -1,0 +1,44 @@
+
+.article-title-container,
+.article-caption-container,
+.article-authors-container,
+.article-image-container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.article-header-section,
+.outer-article-image-container{
+    padding-bottom: 35px;
+}
+
+.article-authors-container{
+    display: flex;
+    gap: 20px;
+}
+
+.outer-article-image-container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.article-image-container{
+    width: 60vw;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.article-img {
+    width: 100%;
+    height: auto;
+    border-radius: 7px;
+}
+
+.article-image-attribution-container{
+    text-align: left;
+}

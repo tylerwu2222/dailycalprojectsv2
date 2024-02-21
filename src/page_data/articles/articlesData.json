@@ -1,0 +1,746 @@
+[
+  {
+    "id": 0,
+    "fileName": "2015-11-11-public-trust.mdx",
+    "filePath": "..\\..\\articles\\2015-11-11-public-trust.mdx",
+    "date": "2015-11-11",
+    "title": "The Public Trust",
+    "byline": "By Sahil Chinoy and Chloee Weiner",
+    "subhead": "In an era of diminishing state support, what makes UC Berkeley a public institution?",
+    "featuredImage": "../images/public-trust.png",
+    "oldLink": "http://projects.dailycal.org/public-trust/#0"
+  },
+  {
+    "id": 0,
+    "fileName": "2015-11-23-crime.mdx",
+    "filePath": "..\\..\\articles\\2015-11-23-crime.mdx",
+    "date": "2015-11-23",
+    "title": "Crime on campus",
+    "byline": "By Sahil Chinoy and Thomas Kim",
+    "subhead": "How safe is UC Berkeley? The Daily Californian analyzed five years of police reports to see where and when crime occurs most often.",
+    "featuredImage": "../images/campus-crime.png",
+    "oldLink": "http://projects.dailycal.org/crime/"
+  },
+  {
+    "id": 0,
+    "fileName": "2015-12-11-lowest-grades.mdx",
+    "filePath": "..\\..\\articles\\2015-12-11-lowest-grades.mdx",
+    "date": "2015-12-11",
+    "title": "Guess the UC Berkeley department with the lowest grades",
+    "byline": "By Sahil Chinoy and Ronald Kwan",
+    "featuredImage": "../images/lowest-grades.png",
+    "oldLink": "http://projects.dailycal.org/grades/"
+  },
+  {
+    "id": 0,
+    "fileName": "2016-06-29-aff-action.mdx",
+    "filePath": "..\\..\\articles\\2016-06-29-aff-action.mdx",
+    "date": "2016-06-29",
+    "title": "Affirmative action and UC Berkeley",
+    "byline": "By Sahil Chinoy",
+    "subhead": "Breaking down the status of affirmative action at UC Berkeley",
+    "featuredImage": "../images/admission-rate.png",
+    "oldLink": "http://projects.dailycal.org/affirmative-action/"
+  },
+  {
+    "id": 0,
+    "fileName": "2016-09-20-paychecker.mdx",
+    "filePath": "..\\..\\articles\\2016-09-20-paychecker.mdx",
+    "date": "2016-09-20",
+    "title": "Professor pay-checker",
+    "byline": "By Sahil Chinoy",
+    "subhead": "The Daily Californian processed the last decade of payroll information for UC Berkeley faculty, creating the most complete, searchable database of professor and lecturer pay by campus department.",
+    "featuredImage": "../images/paychecker.png",
+    "oldLink": "http://projects.dailycal.org/paychecker/"
+  },
+  {
+    "id": 0,
+    "fileName": "2016-11-04-hacker.mdx",
+    "filePath": "..\\..\\articles\\2016-11-04-hacker.mdx",
+    "date": "2016-11-14",
+    "title": "What does a hacker look like?",
+    "byline": "By Sahil Chinoy and Chloee Weiner",
+    "subhead": "UC Berkeley's EECS program has the lowest proportion of female graduates of any degree on campus.",
+    "featuredImage": "../images/hacker.png",
+    "oldLink": "http://projects.dailycal.org/cs-gender/"
+  },
+  {
+    "id": 0,
+    "fileName": "2016-11-21-tumult.mdx",
+    "filePath": "..\\..\\articles\\2016-11-21-tumult.mdx",
+    "date": "2016-11-21",
+    "title": "Tumult at the Top",
+    "byline": "By Sahil Chinoy",
+    "subhead": "UC Berkeley has seen changes in more than half of the chancellor's cabinet",
+    "featuredImage": "../images/tumult.png",
+    "oldLink": "http://projects.dailycal.org/leadership-chart/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-02-28-sexual-misconduct.mdx",
+    "filePath": "..\\..\\articles\\2017-02-28-sexual-misconduct.mdx",
+    "date": "2017-02-28",
+    "title": "Sexual Midconduct Database",
+    "byline": "By Daily Cal Staff",
+    "subhead": "150 cases of sexual misconduct since July 1905 have involved University of California employees, according to UC Title IX investigation reports.",
+    "featuredImage": "../images/misconduct.png",
+    "oldLink": "http://projects.dailycal.org/misconduct/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-03-28-building-berkeley.mdx",
+    "filePath": "..\\..\\articles\\2017-03-28-building-berkeley.mdx",
+    "date": "2017-03-28",
+    "title": "Building Berkeley",
+    "byline": "By Ian Macgregor and Ani Vahradyan",
+    "subhead": "For our Charter Day issue, The Daily Californian has created an interactive map for readers to see the expansion of UC Berkeley since its founding in 1868.",
+    "featuredImage": "../images/building-berkeley.png",
+    "oldLink": "http://projects.dailycal.org/2018/building-berkeley/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-10-12-private-research.mdx",
+    "filePath": "..\\..\\articles\\2017-10-12-private-research.mdx",
+    "date": "2017-10-12",
+    "title": "Industry-funded research takes on a larger role on a cash-strapped campus",
+    "byline": "By Vanessa Qian and Austin Weinstein",
+    "featuredImage": "../images/private-research.png",
+    "oldLink": "http://projects.dailycal.org/2017/private-research/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-11-08-campus-meme.mdx",
+    "filePath": "..\\..\\articles\\2017-11-08-campus-meme.mdx",
+    "date": "2017-11-08",
+    "title": "The rise of the campus meme",
+    "byline": "By Sahil Chinoy and Ella Jensen",
+    "subhead": "Tracing the dramatic development of college meme groups",
+    "featuredImage": "../images/meme.png",
+    "oldLink": "http://projects.dailycal.org/2017/meme-timeline/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-11-27-where-we-cry.mdx",
+    "filePath": "..\\..\\articles\\2017-11-27-where-we-cry.mdx",
+    "date": "2017-11-27",
+    "title": "Where We Cry",
+    "byline": "By Avni Prasad and Emily Zhong",
+    "subhead": "The Daily Californian is collecting stories about students crying on campus.",
+    "featuredImage": "../images/where-we-cry.png",
+    "oldLink": "http://projects.dailycal.org/2017/where-we-cry/"
+  },
+  {
+    "id": 0,
+    "fileName": "2017-11-28-bus-delay.mdx",
+    "filePath": "..\\..\\articles\\2017-11-28-bus-delay.mdx",
+    "date": "2017-11-28",
+    "title": "Berkeley’s most unpredictable buses",
+    "byline": "By Seokhyeon Ryo",
+    "subhead": "We analyzed which buses around UC Berkeley arrive later than expected",
+    "featuredImage": "../images/bus-delay.png",
+    "oldLink": "http://projects.dailycal.org/2017/bus-delays/"
+  },
+  {
+    "id": 0,
+    "fileName": "2018-04-13-campus-sex.mdx",
+    "filePath": "..\\..\\articles\\2018-04-13-campus-sex.mdx",
+    "date": "2018-04-13",
+    "title": "Sex on campus",
+    "byline": "By Ian Macgregor",
+    "subhead": "The Daily Californian is collecting stories about sexual encounters on campus.",
+    "featuredImage": "../images/campus-sex.png",
+    "oldLink": "http://projects.dailycal.org/2018/sex-on-campus/"
+  },
+  {
+    "id": 0,
+    "fileName": "2018-04-24-great-equalizer.mdx",
+    "filePath": "..\\..\\articles\\2018-04-24-great-equalizer.mdx",
+    "date": "2018-04-24",
+    "title": "The Great Equalizer",
+    "byline": "By Editorial Board and Jacky Lu",
+    "subhead": "Can BART live up to its mission?",
+    "featuredImage": "../images/bart.png",
+    "oldLink": "http://projects.dailycal.org/2018/bart/"
+  },
+  {
+    "id": 0,
+    "fileName": "2018-04-24-rack-location.mdx",
+    "filePath": "..\\..\\articles\\2018-04-24-rack-location.mdx",
+    "date": "2018-04-24",
+    "title": "The Daily Californian’s rack locations",
+    "byline": "By Jessica Hsiao and Ming Li",
+    "subhead": "Pick up a paper today at one of our 138 locations.",
+    "featuredImage": "../images/rack-location.png",
+    "oldLink": "http://projects.dailycal.org/2018/rack-locations/"
+  },
+  {
+    "id": 0,
+    "fileName": "2018-09-22-peoples-park.mdx",
+    "filePath": "..\\..\\articles\\2018-09-22-peoples-park.mdx",
+    "date": "2018-09-22",
+    "title": "The people of People’s Park",
+    "byline": "By ALEXA ALYESHMERNI and CADE JOHNSON and IAN MACGREGOR and MALINI RAMAIYER and MILES BROWN and NAIRA KHALID and LUZ RIOJA",
+    "subhead": "As the park’s future becomes increasingly uncertain, the community within reflects on its role in their lives.",
+    "featuredImage": "../images/park.png",
+    "oldLink": "http://projects.dailycal.org/2018/people-of-peoples-park/"
+  },
+  {
+    "id": 0,
+    "fileName": "2019-03-18-berkeley-rent.mdx",
+    "filePath": "..\\..\\articles\\2019-03-18-berkeley-rent.mdx",
+    "date": "2019-03-18",
+    "title": "A Comprehensive Timeline of Rent Prices and Legislation, From 1978 to Today",
+    "byline": "By Purva Kapshika",
+    "subhead": "Reckoning with ever-rising rents and a lack of legislation",
+    "featuredImage": "../images/rent.png",
+    "oldLink": "http://projects.dailycal.org/2019/berkeley-rent-timeline/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-05-17-graduation-2020.mdx",
+    "filePath": "..\\..\\articles\\2020-05-17-graduation-2020.mdx",
+    "date": "2020-05-17",
+    "title": "Graduation Issue 2020",
+    "byline": "By Josh Yuen, Sakura Cannestra and Kaitlyn Tseng",
+    "subhead": "Light at the Tunnel's End",
+    "featuredImage": "../images/2020-grad.png",
+    "oldLink": "http://projects.dailycal.org/2020/graduation-2020/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-06-22-post-grad.mdx",
+    "filePath": "..\\..\\articles\\2020-06-22-post-grad.mdx",
+    "date": "2020-06-22",
+    "title": "Where do UC Berkeley students go?",
+    "byline": "By Alex Zhao",
+    "subhead": "A look at the lives of UC Berkeley students after graduation",
+    "featuredImage": "../images/grad.png",
+    "oldLink": "http://projects.dailycal.org/2020/uc-berkeley-students-after-grad/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-07-24-college-plans.mdx",
+    "filePath": "..\\..\\articles\\2020-07-24-college-plans.mdx",
+    "date": "2020-07-24",
+    "title": "Mapping College Plans for Fall 2020",
+    "byline": "By Alex Zhao",
+    "subhead": "How does UC Berkeley compare to its peers?",
+    "featuredImage": "../images/college-plans.png",
+    "oldLink": "http://projects.dailycal.org/2020/mapping-covid-response/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-09-13-diversity.mdx",
+    "filePath": "..\\..\\articles\\2020-09-13-diversity.mdx",
+    "date": "2020-09-13",
+    "title": "Diversity at UC Berkeley",
+    "byline": "By Alex Zhao",
+    "subhead": "Admissions, enrollment, and retention",
+    "featuredImage": "../images/diversity.png",
+    "oldLink": "http://projects.dailycal.org/2020/aff-action/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-10-12-police-stops.mdx",
+    "filePath": "..\\..\\articles\\2020-10-12-police-stops.mdx",
+    "date": "2020-10-12",
+    "title": "Police stops in Berkeley",
+    "byline": "By Alex Zhao, Purva Kapshikar, Aditya Katewa and Catherine Hsu",
+    "subhead": "Disparities in law enforcement",
+    "featuredImage": "../images/police.png",
+    "oldLink": "http://projects.dailycal.org/2020/stops/"
+  },
+  {
+    "id": 0,
+    "fileName": "2020-10-26-voting.mdx",
+    "filePath": "..\\..\\articles\\2020-10-26-voting.mdx",
+    "date": "2020-10-26",
+    "title": "Who votes at UC Berkeley?",
+    "byline": "By Alex Zhao",
+    "subhead": "Comparing voting rates",
+    "featuredImage": "../images/voting.png",
+    "oldLink": "http://projects.dailycal.org/2020/voting/"
+  },
+  {
+    "id": 0,
+    "fileName": "2021-03-01-admissions-audit.mdx",
+    "filePath": "..\\..\\articles\\2021-03-01-admissions-audit.mdx",
+    "date": "2021-03-01",
+    "title": "Admissions audit explained",
+    "byline": "By Vyoma Raman, Kaylei Nilson-Pierce and Yasmin Gehman",
+    "subhead": "Diversity and privilege in UC Berkeley undergraduate admissions",
+    "featuredImage": "../images/admissions.png",
+    "oldLink": "http://projects.dailycal.org/2021/audit/"
+  },
+  {
+    "id": 0,
+    "fileName": "2021-06-04-150-timeline.mdx",
+    "filePath": "..\\..\\articles\\2021-06-04-150-timeline.mdx",
+    "date": "2021-06-04",
+    "title": "150 Years of The Daily Californian",
+    "byline": "By Alex Zhao, Maia Alviar, Jocelyn Huang and Jordan Harris",
+    "subhead": "Examining grading trends after a year of pass/no pass policies",
+    "featuredImage": "../images/150-timeline.png",
+    "oldLink": "http://projects.dailycal.org/2021/timeline/"
+  },
+  {
+    "id": 0,
+    "fileName": "2021-06-18-uc-berkeley-pride-quantified.mdx",
+    "filePath": "..\\..\\articles\\2021-06-18-uc-berkeley-pride-quantified.mdx",
+    "date": "2021-06-18",
+    "title": "UC Berkeley Pride quantified",
+    "byline": "By Peter Zhang, Sanjana Melkote and Alex Zhao",
+    "subhead": "LGBTQ+ students by the numbers",
+    "featuredImage": "../images/pride.png",
+    "oldLink": "http://projects.dailycal.org/2021/uc-berkeley-pride-quantified/"
+  },
+  {
+    "id": 0,
+    "fileName": "2021-07-10-redlining.mdx",
+    "filePath": "..\\..\\articles\\2021-07-10-redlining.mdx",
+    "date": "2021-07-18",
+    "title": "Reading between the redlines",
+    "bylineName": [
+      "Shannon Bonet",
+      "Cameron Fozi",
+      "Veronica Roseborough"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/sbonet",
+      "https://www.dailycal.org/author/cfozi",
+      "https://www.dailycal.org/author/vroseborough"
+    ],
+    "subhead": "How 1934 redlining policies meet Berkeley's housing burdens of today",
+    "featuredImage": "../images/zip-codes.png",
+    "embeddedImages": [
+      "../images/holc.png",
+      "../images/zip-codes.png"
+    ],
+    "aboutStory": "Data for this project come from the California Office of Environmental Health Hazard Assessment's CalEnviroScreen 4.0 dataset."
+  },
+  {
+    "id": 0,
+    "fileName": "2021-08-22-berkeley-guide-orientation.mdx",
+    "filePath": "..\\..\\articles\\2021-08-22-berkeley-guide-orientation.mdx",
+    "date": "2021-08-22",
+    "title": "The Daily Californian’s Guide to Berkeley",
+    "bylineName": [
+      "Cameron Fozi",
+      "Saamya Mungamuru"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi",
+      "https://www.dailycal.org/author/smungamuru"
+    ],
+    "subhead": "Making the most of your year on campus",
+    "featuredImage": "../images/la-vals.png",
+    "imageAttribution": "Theo Wyss-Flamm | Senior Staff"
+  },
+  {
+    "id": 0,
+    "fileName": "2021-11-22-rent-shelter.mdx",
+    "filePath": "..\\..\\articles\\2021-11-22-rent-shelter.mdx",
+    "date": "2021-12-13",
+    "title": "Rising rents",
+    "bylineName": [
+      "Cameron Fozi",
+      "Veronica Roseborough"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi",
+      "https://www.dailycal.org/author/vroseborough"
+    ],
+    "subhead": "Displacement and density amid dizzying costs",
+    "featuredImage": "../images/rentshelter-feature.png",
+    "imageAttribution": "William Bennett | File",
+    "aboutStory": "Data for this project come from the California Department of Education, Berkeley's Rent Stabilization Board, the U.S. Census and EveryOne Home."
+  },
+  {
+    "id": 0,
+    "fileName": "2021-11-23-hate-crimes.mdx",
+    "filePath": "..\\..\\articles\\2021-11-23-hate-crimes.mdx",
+    "date": "2022-02-03",
+    "title": "Hate crimes in Berkeley and beyond",
+    "bylineName": [
+      "Jenny Kwon",
+      "Michelle Li"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/jkwon",
+      "https://www.dailycal.org/author/mili"
+    ],
+    "subhead": "A look at hate crime reporting over the last 25 years",
+    "featuredImage": "../images/hate.png",
+    "imageAttribution": "Aarthi Muthukumar | Senior Staff",
+    "aboutStory": "Data for this project come from the FBI Crime Data Explorer."
+  },
+  {
+    "id": 0,
+    "fileName": "2021-6-14-online-classes-suck.mdx",
+    "filePath": "..\\..\\articles\\2021-6-14-online-classes-suck.mdx",
+    "date": "2021-06-14",
+    "title": "'Online classes suck'",
+    "byline": "By Shannon Bonet, Ji Yeon Woo and Connor Lin",
+    "subhead": "Examining grading trends after a year of pass/no pass policies",
+    "featuredImage": "../images/pnp.png",
+    "oldLink": "http://projects.dailycal.org/2021/online-classes-suck/"
+  },
+  {
+    "id": 0,
+    "fileName": "2022-01-21-exodus.mdx",
+    "filePath": "..\\..\\articles\\2022-01-21-exodus.mdx",
+    "date": "2022-02-24",
+    "title": "Black exodus from Berkeley",
+    "bylineName": [
+      "Cameron Fozi",
+      "Veronica Roseborough",
+      "Annie Lin"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi",
+      "https://www.dailycal.org/author/vroseborough",
+      "https://www.dailycal.org/author/annielin"
+    ],
+    "subhead": "Amid gentrification and displacement, opportunity heads elsewhere",
+    "featuredImage": "../images/exodus-visual.JPG",
+    "imageAttribution": "Aishwarya Jayadeep | Senior Staff",
+    "aboutStory": "Data for this project come from the California Department of Education and the U.S. Census."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-03-17-gym-pac-12.mdx",
+    "filePath": "..\\..\\articles\\2022-03-17-gym-pac-12.mdx",
+    "date": "2022-03-17",
+    "title": "Cal chases conference crown",
+    "bylineName": [
+      "Jocelyn Huang",
+      "Mia Wachtel",
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/jocelynhuang",
+      "https://www.dailycal.org/author/mwachtel",
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "After posting season high, Bears enter Pac-12 championships as No. 2 seed",
+    "featuredImage": "../images/gym-nevaeh.png",
+    "imageAttribution": "Theo Wyss-Flamm | Senior Staff",
+    "imageCaption1": "Junior Nevaeh DeSouza has competed in the all-around in all of Cal’s meets this season,",
+    "imageCaption2": "posting a career-high 39.625 in the Bears’ upset win against Utah, which enters the",
+    "imageCaption3": "Pac-12 championships this weekend as the No. 1 seed.  She and her teammates will look",
+    "imageCaption4": "to replicate their performance to capture Cal’s first conference championship.",
+    "embeddedImages": [
+      "../images/gym-grace.png",
+      "../images/gym-milan.png"
+    ]
+  },
+  {
+    "id": 0,
+    "fileName": "2022-04-20-stem-enrollment.mdx",
+    "filePath": "..\\..\\articles\\2022-04-20-stem-enrollment.mdx",
+    "date": "2022-05-03",
+    "title": "Beneath enrollment trends lies point of intersection for STEM, humanities",
+    "bylineName": [
+      "Aditya Katewa",
+      "Veronica Roseborough"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/akatewa",
+      "https://www.dailycal.org/author/vroseborough"
+    ],
+    "featuredImage": "../images/stemvhumanities.png",
+    "imageAttribution": "Yoonseo Lee | File",
+    "aboutStory": "Data for this project come from UC Berkeley's Our Berkeley data dashboards."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-05-04-1921-timeline.mdx",
+    "filePath": "..\\..\\articles\\2022-05-04-1921-timeline.mdx",
+    "date": "2022-05-04",
+    "title": "The fight for 1921 Walnut St.",
+    "bylineName": [
+      "Riley Cooke",
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/rcooke",
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "A recent history of eight rent-controlled units",
+    "featuredImage": "../images/1921-protest.png",
+    "imageAttribution": "Eliana Marcu | Senior Staff",
+    "imageCaption1": "About 100 community members gathered Saturday, April 24, 2021 in opposition of campus's",
+    "imageCaption2": "plans to build new student housing on 1921 Walnut St. and People's Park."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-09-15-study-abroad.mdx",
+    "filePath": "..\\..\\articles\\2022-09-15-study-abroad.mdx",
+    "date": "2022-09-15",
+    "title": "Mapping UC Berkeley study abroad programs",
+    "bylineName": [
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "featuredImage": "../images/study-abroad.png",
+    "imageAttribution": "RVACAPINTA | Creative Commons"
+  },
+  {
+    "id": 0,
+    "fileName": "2022-09-22-artifacts.mdx",
+    "filePath": "..\\..\\articles\\2022-09-22-artifacts.mdx",
+    "date": "2022-09-22",
+    "title": "UC Berkeley’s repatriation process remains far from over",
+    "bylineName": [
+      "Paloma Torres",
+      "Nibras Suliman"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/ptorres",
+      "https://www.dailycal.org/author/nsuliman"
+    ],
+    "subhead": "More than 100,000 Native American artifacts left in limbo",
+    "featuredImage": "../images/uni-hall.png",
+    "imageAttribution": "Celine Bellegarda | Senior Staff",
+    "aboutStory": "Data for this project come from the National Park Service. Museums and federal agencies with collections subject to the Native American Graves Protection and Repatriation Act must submit inventories of human remains and objects."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-10-11-hsi.mdx",
+    "filePath": "..\\..\\articles\\2022-10-11-hsi.mdx",
+    "date": "2022-10-13",
+    "title": "In Latine-dominant California, campus demographics, resources lag",
+    "bylineName": [
+      "Paloma Torres",
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/ptorres",
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "With a troubled history, how will UC Berkeley serve its underrepresented Latine and Hispanic students?",
+    "featuredImage": "../images/HSI-Alison-Xiong-staff.png",
+    "imageAttribution": "Alison Xiong | Staff",
+    "aboutStory": "Data for this project come from CalAnswers and the California Department of Education.",
+    "embeddedImages": [
+      "../images/1999-protest-danjungfile.png"
+    ]
+  },
+  {
+    "id": 0,
+    "fileName": "2022-11-07-reddit.mdx",
+    "filePath": "..\\..\\articles\\2022-11-07-reddit.mdx",
+    "date": "2022-12-09",
+    "title": "We scraped Berkeley’s Reddit page r/berkeley",
+    "bylineName": [
+      "Isabella Borkovic",
+      "Erica Jean",
+      "Ekansh Agrawal"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/iborkovic",
+      "https://www.dailycal.org/author/ejean",
+      "https://www.dailycal.org/author/eagarwal"
+    ],
+    "subhead": "Here is what we found",
+    "featuredImage": "../images/Reddit_KGT_ss.png",
+    "imageAttribution": "Kyle Garcia Takata | Senior Staff",
+    "aboutStory": "Data for this project come from information webscraped from the r/Berkeley subreddit on Oct. 10, 2022."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-11-08-busd-gap.mdx",
+    "filePath": "..\\..\\articles\\2022-11-08-busd-gap.mdx",
+    "date": "2022-11-08",
+    "title": "Score gaps between Black and white BUSD students among highest in state",
+    "bylineName": [
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "Statewide test score data for 2022 reveal imbalance in math and English performance",
+    "featuredImage": "../images/gaps-kimberly-fong-staff.png",
+    "imageAttribution": "Kimberly Fong | Staff",
+    "aboutStory": "Data for this project come from the California Department of Education."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-11-18-turnover.mdx",
+    "filePath": "..\\..\\articles\\2022-11-18-turnover.mdx",
+    "date": "2022-12-03",
+    "title": "Is Telegraph Avenue changing?",
+    "bylineName": [
+      "Stephen Young",
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/syoung",
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "Google Maps and business owners weigh in",
+    "featuredImage": "../images/turnover-luke-jensen-staff.png",
+    "imageAttribution": "Luke Jensen | Staff",
+    "embeddedImages": [
+      "../images/blake-turnover-erica-cardozo-staff.png",
+      "../images/moe-turnover-clarissa-arceo-staff.png"
+    ]
+  },
+  {
+    "id": 0,
+    "fileName": "2022-11-22-bargaining.mdx",
+    "filePath": "..\\..\\articles\\2022-11-22-bargaining.mdx",
+    "date": "2022-11-24",
+    "title": "What are UC workers bargaining for?",
+    "bylineName": [
+      "Cameron Fozi",
+      "Sanjana Fernando",
+      "Nibras Suliman",
+      "Arfa Momin"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi",
+      "https://www.dailycal.org/author/sfernando",
+      "https://www.dailycal.org/author/nsuliman",
+      "https://www.dailycal.org/author/amomin"
+    ],
+    "subhead": "Use this Daily Californian tool for updates from bargaining units",
+    "featuredImage": "../images/bargainingLukeJensenStaff.png",
+    "imageAttribution": "Luke Jensen | Staff",
+    "aboutStory": "Information for this project come from four Google Sheets tracking the bargaining process between the UC system and various unions."
+  },
+  {
+    "id": 0,
+    "fileName": "2022-12-09-kutcher.mdx",
+    "filePath": "..\\..\\articles\\2022-12-09-kutcher.mdx",
+    "date": "2022-12-09",
+    "title": "Beneath the armor",
+    "bylineName": [
+      "Erica Jean"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/ejean"
+    ],
+    "subhead": "Kira Kutcher on her avant-garde styles",
+    "featuredImage": "../images/kutcher.png",
+    "imageAttribution": "Kira Kutcher | Courtesy"
+  },
+  {
+    "id": 0,
+    "fileName": "2023-01-31-union-vote.mdx",
+    "filePath": "..\\..\\articles\\2023-01-31-union-vote.mdx",
+    "date": "2023-01-31",
+    "title": "'Could have fought harder': Response to new contracts reveal a union divided",
+    "bylineName": [
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "UAW 2865, SRU-UAW members split on labor contracts, election practices and strike strategy",
+    "featuredImage": "../images/unions-hsi-min-chan-ss.png",
+    "imageAttribution": "Hsi-Min Chan | Senior Staff",
+    "aboutStory": "Data for this project come from UC-UAW email communications and the University of California."
+  },
+  {
+    "id": 0,
+    "fileName": "2023-03-01-rent-map.mdx",
+    "filePath": "..\\..\\articles\\2023-03-01-rent-map.mdx",
+    "date": "2023-03-01",
+    "title": "Berkeley community faces challenges with increasing rents",
+    "bylineName": [
+      "Ananya Rupanagunta",
+      "Cameron Fozi"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/arupanagunta",
+      "https://www.dailycal.org/author/cfozi"
+    ],
+    "subhead": "It is not a new experience and is especially relevant at UC Berkeley",
+    "featuredImage": "../images/rent_gavin-sagastume_staff.png",
+    "imageAttribution": "Gavin Sagastume | Staff",
+    "aboutStory": "Data for this project come from the U.S. Census."
+  },
+  {
+    "id": 0,
+    "fileName": "2023-03-10-telegraph-pedestrianized.mdx",
+    "filePath": "..\\..\\articles\\2023-03-10-telegraph-pedestrianized.mdx",
+    "date": "2023-03-10",
+    "title": "Students revive decades-old fight for a car-free Telegraph",
+    "bylineName": [
+      "Arfa Momin",
+      "Tyler Wu"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/amomin",
+      "https://www.dailycal.org/author/tylerwu"
+    ],
+    "subhead": "Is a pedestrianized Telegraph Ave. the key to a better Berkeley?",
+    "featuredImage": "../images/telegraph-pedestrianized.png",
+    "imageAttribution": "Tyler Wu | Staff",
+    "aboutStory": "Information for this project come from the Berkeley Southside Complete Streets Project."
+  },
+  {
+    "id": 0,
+    "fileName": "2023-06-30-warnme.mdx",
+    "filePath": "..\\..\\articles\\2023-06-30-warnme.mdx",
+    "date": "2023-06-30",
+    "title": "Sound the alarm: A look inside WarnMe notifications",
+    "bylineName": [
+      "Arfa Momin",
+      "Anishi Patel",
+      "Lydia Sidhom"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/author/amomin",
+      "https://dailycal.org/author/anishipatel",
+      "https://dailycal.org/author/lsidhom"
+    ],
+    "subhead": "Campus community, UCPD and the data weigh in",
+    "featuredImage": "../images/warnme.png",
+    "imageAttribution": "Esmeralda Velasquez | Staff",
+    "aboutStory": "Information for this project comes from the UCPD Daily Crime Logs."
+  },
+  {
+    "id": 0,
+    "fileName": "2023-12-20-theft.mdx",
+    "filePath": "..\\..\\articles\\2023-12-20-theft.mdx",
+    "date": "2023-12-20",
+    "title": "Bike and scooter thieves have Berkeley on lock",
+    "bylineName": [
+      "Isabella Borkovic",
+      "Clara Brownstein"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/isabella%20borkovic/",
+      "https://www.dailycal.org/users/profile/clara%20brownstein/"
+    ],
+    "subhead": "Mapping the rise in bike and scooter theft on campus",
+    "featuredImage": "../images/theft.png",
+    "imageAttribution": "Clarissa Arceo | Senior Staff",
+    "aboutStory": "Data for this project come from UCPD."
+  },
+  {
+    "id": 0,
+    "fileName": "2023-12-22-construction.mdx",
+    "filePath": "..\\..\\articles\\2023-12-22-construction.mdx",
+    "date": "2023-12-22",
+    "title": "Historic and current trends in Berkeley’s affordable housing ",
+    "bylineName": [
+      "Anishi Patel",
+      "Anika Sikka",
+      "Tyler Wu"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/anishi%20patel/",
+      "https://www.dailycal.org/users/profile/anika%20sikka/",
+      "https://www.dailycal.org/users/profile/tyler%20wu/"
+    ],
+    "subhead": "TBD",
+    "featuredImage": "../images/construction.png",
+    "imageAttribution": "Kyle Garcia Takata | Senior Staff",
+    "aboutStory": "Information for this project comes from the Levelset and Berkeley Capital projects."
+  }
+]

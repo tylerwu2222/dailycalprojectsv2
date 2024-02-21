@@ -1,0 +1,4 @@
+Using react-router-dom to navigate between pages.
+- Article routes (urls) are defined dynamically in App.js
+    - Route paths are currently: /article/urlified-title
+- Links to article routes wrap the ArticleCard

@@ -1,0 +1,1967 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {
+        "data": {
+            "allMdx": {
+                "edges": [
+                    {
+                        "node": {
+                            "id": "44e7fc69-de1b-5b7f-9f6a-6ad0fed01069",
+                            "slug": "2023-12-22-construction",
+                            "frontmatter": {
+                                "title": "Historic and current trends in Berkeley’s affordable housing ",
+                                "date": "December 22, 2023",
+                                "subhead": "TBD",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADFklEQVQozx3M7VPaBQDA8d/rXs/V6enMLUQSkbChgEBOFCaED4D4ADlBfARpqAMXxsCnhATG0mHOmewmbnfqbT2t9Lpq7XrX1V7U9fCihxf9F9/u+vwBH+H57/8Qimdp73ZTrzFitPawvBQlNDPNUmqdz77/hU+e/Uzu4IRIZh97OI9pfJHaDh/hW8csbh0zkyowntjGl9hGeP7bX/ijKQyd/cjURjpsvSyk8zh90ywsJsgUn7B5+DXpgxPC2X204xmqbWHKLweY33xE8P0ib727xXBsi4nluwg//von09EUug4HdU2tWOx9xJJZpqMrLN7c4eD0Bx589RPp/S+ZXy/QH7uLceo9ZLYgoewhS1tHzCQ/YnJll8DqLsIff//LXCKD/rLt/3DQ4yUci2DpsnA9GiZVPGXj6FsWdj4lni7gCCYpNYcoM04ylzsmkCrSfz2PO3qbscU7CJnCIybm4rSYHSi0JjxTIWbT95lYvUdy55D0/hM2j77jWrbA2yvbuGeSNDgCSM0exlfuE8nsMXojx2AwwezaHYTZpZtYHEOoWq1IlS2M+IOsHTxDNZ5j4/Ap9z7+hr3HT5ld22YktonIeYMS4xRnWn2cFSlRqNtoMffRZnHS5fQgeAMRBrx+NG2dyNUG7ENjfPjwhIHpa+QffsFodI2Z5Da9/nkaLS70g2EutDo502DkhRdFnBPLGY0sk769i3V0HiFXPGXvwWP0JjtSrQ3vyAA9bj8Kzw5Nw3lUzjimoQSNzjB1b7yJdngVle8DxOZ3KKlupUxqQOHKonLFkVrDCOuFz8ls7NCoa6deqUNrtCCWSFCqNRisdkqrXuVs6ctU1lykQt5NhcHPK11TlDcPUCJqo7RSQkWTg5deM1JWcxFB32HH3DeGyuJB3+llLLyOuS9A75WrvG4e4ZxmgKrmfqqbbUharlChcXFBZUJmdFMh76BKLEdl9aKxDiPS9iBIFBr07Ta0XWP0jMa4Gs/T5YvT7opQa55E1B2h1uCmRmdDoTNxvl7J+cZ2pMpLyBovUVWnplKmpVzcQJVMy38wUuazM22cJQAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/ce40b08a6695c673af95f27f8af7f613/43009/construction.png",
+                                                    "srcSet": "/static/ce40b08a6695c673af95f27f8af7f613/e464d/construction.png 113w,\n/static/ce40b08a6695c673af95f27f8af7f613/e434c/construction.png 225w,\n/static/ce40b08a6695c673af95f27f8af7f613/43009/construction.png 450w,\n/static/ce40b08a6695c673af95f27f8af7f613/338c6/construction.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/ce40b08a6695c673af95f27f8af7f613/349c4/construction.webp 113w,\n/static/ce40b08a6695c673af95f27f8af7f613/2fc71/construction.webp 225w,\n/static/ce40b08a6695c673af95f27f8af7f613/cc14f/construction.webp 450w,\n/static/ce40b08a6695c673af95f27f8af7f613/404fe/construction.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "b5cc3d96-eee4-5ed6-8d62-a4327e9d6e5a",
+                            "slug": "2023-12-20-theft",
+                            "frontmatter": {
+                                "title": "Bike and scooter thieves have Berkeley on lock",
+                                "date": "December 20, 2023",
+                                "subhead": "Mapping the rise in bike and scooter theft on campus",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAACTpAAAk6QFQJOf4AAAC+UlEQVQozxXMbW8aBQDAcT6Arq5ldFA6eT6eD7gDjsfjOMrBoAy6shZWqrXdbOvQaWc77VaDq7Mxdul8yJboYqIunTExSxoTE7PExEVf+FZf+Gn+xt8H+JmM2gz1Vgs9p1BSy7yxvkGzZiAlJM5rKvfv3KJ/eYAgKrjjGeZeucKN4SbddovlpYuEshrG/AJxtcLy6jqmXLHI2sYGmUQcJZXG5Q0y6PU5/PADtq6ucnfnOnqtxtmghJyfQa03SUkBXC4LmqogFXT0loGQylJudDB1LrXo9pYwtBwOhxNJFBmub7K3vc2r83N0Gg3ErIrZL+JLqhR1g5wSpV6JMjurIhV1ZhptghkNqWRgyjQFKs0GmVwUOStzoV5itL3FYGmFld4CB6PbFIw6454Q7mQBOa+TySrcH22yv7WILRAlXT5PJK/jV0qYjIUqwUQMu81OquKlNiux1l+kqpeJSUnWrqwQVVKYhRhOOUc4WUArJhiNhuxefwtRTJKrNIjkKwj/h9FUkFNjE4ydHscZsONP2RDzLvJlGY/HTbVaQpDinPHHcSayCDEZ67lpkrEE03Y7DrOVeuMCHjmLL1nA5PBacXrdWKenMLoa1TU35b4LZ9SC9ZwFMR5BkGQmBBGfXMAdjuL3e5iynEH0eHF6BBxegYCcwZ8uYkoqWVpzbSqVPKV6jcHQQG9HSUTP4vROkiuleTkkMhmSCMZT+MUEp81mglNTxIQgNreAedKGMxRD0euYtnd3uL1/h6OjEVpVo9nuMnjtEvOdBh/f3aPX7xJOZwkmFKwOH1qrQzgc5tTYS/TaZRy+AC+OW7AJEWS1ium93R329j/is88/5eCTEYuX+xiNDtmSQbN9kbyqEYknmbA7ecEhUF9c4uatHYrlEtVKmUAoQqXWZPnqNVaH72D64tEjHn77PY9/esrx0xN+PDnh8MsHvHnjJiuvX+Ptd9/n4PCIew++4ujh13zz3RN+/uVXfnv2jOPHx/xw/ITfnz/njz//4u9//uU/t/6Xt3q3jZkAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/0da006caa510dd5754b7ce2c11fa9493/43009/theft.png",
+                                                    "srcSet": "/static/0da006caa510dd5754b7ce2c11fa9493/e464d/theft.png 113w,\n/static/0da006caa510dd5754b7ce2c11fa9493/e434c/theft.png 225w,\n/static/0da006caa510dd5754b7ce2c11fa9493/43009/theft.png 450w,\n/static/0da006caa510dd5754b7ce2c11fa9493/338c6/theft.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/0da006caa510dd5754b7ce2c11fa9493/349c4/theft.webp 113w,\n/static/0da006caa510dd5754b7ce2c11fa9493/2fc71/theft.webp 225w,\n/static/0da006caa510dd5754b7ce2c11fa9493/cc14f/theft.webp 450w,\n/static/0da006caa510dd5754b7ce2c11fa9493/404fe/theft.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "ba6c11a3-5c9e-5dbf-8741-fb4ecdb07f2a",
+                            "slug": "2023-06-30-warnme",
+                            "frontmatter": {
+                                "title": "Sound the alarm: A look inside WarnMe notifications",
+                                "date": "June 30, 2023",
+                                "subhead": "Campus community, UCPD and the data weigh in",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADDklEQVQozz2QXUxbBRxHb0BdFk18WHwxRmN88IFE54No5su2um6p0N6WjblBxbKbCi0dKXbs0vZCja4MRtsNBFRm7VahH/RrQMmcGMjIXBu+ZJKxzGRmicumCTEGN+Y+OIbG+PB7+L+cnPMXarRuanVuGis8dH/g4ssambb3Far22Nn+0rPU73iR90qeoebNUiKJX0gvPCYz84Bkfo3M7EPGfqJwj84/JpG7h3BEdGLXupANbmS9jMvQwlGDgqSqRtGWsNDXyFSXRHVpCaHEdbJLEL+0WgCOLUJ2ERL5NWKX75LK3UXw7GvDW2FDFl0oWhlFbKFV56S1zMps92FuRhUmPJV4KiyER39jdBEiF/9kdGG9YJea+Yeh72+TnLjD+RsgfLJzN5etarLWetrLZQJiC35Rpq1MZrbHyeq4l4zDREA6STh9nfTcg0JiKn+f+PRfZJZh0NVPYPPTnLF5EezqSq7YVSw7TXTonTSJrdSZBjDUhsj0nuLWF4eJd37G2MgIk7lrpOfWSeXXGJxcYWT+EeNXof8tFR2CwAlBQDilf41rDjVzDonG2gE0lhTl9cNo64bZYzrLOb+X89+cZOZCnPkLGZLTKyTz90nl7pG9Con0Mv4nn6JLEPAVFyOclt7ghlPDjw4L+w6FUR3sRSeF0ZpjVJhD/Jrs5Pa5Du4kFJaSPQW7jd9Fp1ZILUHQ5qVzA1ZUjG/D0LPtbW66RL5rsqGvT6MzRyiXvkVjCvGuMchk8HP4wcvvCYVIMEEs95CxhUdEL/1Nen6d/q3bCqm+oqKCpeDbu59bip5MgwV1TZiyQ2H0dXHEujgaKUaVLUKypxv30W62Hwzx6ekrRC+uMv4zxM5M/w/aWGDTZoSvdWX80aYjaGtmlymK+FGEvQ0Zqo5MYLAk2P3hWVSmKFs1PnYYh3jHOMxxTy9LcQ+D6tJCrv+/db3yMkLqwH6W2yWcx4bQWbMYmyfYZfwK1YE+ys0xKh1TVFuH6HIHUFwD2Bv8+D5upq/JzPHntnBi0xO0P7+FY6++QOvO1/kX4Uc5fktj3K4AAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/571704a71acb258b94e4732edc353d75/43009/warnme.png",
+                                                    "srcSet": "/static/571704a71acb258b94e4732edc353d75/e464d/warnme.png 113w,\n/static/571704a71acb258b94e4732edc353d75/e434c/warnme.png 225w,\n/static/571704a71acb258b94e4732edc353d75/43009/warnme.png 450w,\n/static/571704a71acb258b94e4732edc353d75/338c6/warnme.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/571704a71acb258b94e4732edc353d75/349c4/warnme.webp 113w,\n/static/571704a71acb258b94e4732edc353d75/2fc71/warnme.webp 225w,\n/static/571704a71acb258b94e4732edc353d75/cc14f/warnme.webp 450w,\n/static/571704a71acb258b94e4732edc353d75/404fe/warnme.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5561b675-a01a-5121-a794-a86c798af113",
+                            "slug": "2023-03-10-telegraph-pedestrianized",
+                            "frontmatter": {
+                                "title": "Students revive decades-old fight for a car-free Telegraph",
+                                "date": "March 10, 2023",
+                                "subhead": "Is a pedestrianized Telegraph Ave. the key to a better Berkeley?",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAC4iAAAuIgGq4t2SAAAC90lEQVQozx3O209aBwCA8fP3LFucIKJcBW+ABeF4EDmCF/DSehC5yU1FvKCACVqto1On06ntwnrL+rJ1TdNh0qxbs2XNlr7tT/mW+PS9/fIJGwtaamk9uzkDjT0H9ewA5+tTHG/OcXh2xemrDzx69xc/3PxGo/mOxzfv+ebVB1ZLUWp7WZ5/u8Hfz7b59KTIf89XETKKit2cjsOCkYOikZMNKxdbNq4ro5xs3OO0XuJp8z1PX7/lyZsml9dHXB9vcXmQ58/GOv9eJPl1f5qfDqdplCWEueDnZCdV7C3rSYZbyd1rY2dFw3mti8uqh6v7C/z+8R+aHz/xy+ufeVSUaD4M88dZjBcFDy/XRfZTZnaSOqoLeoRJewvBvs9IjqjI+zUkvS0kZBWpsS9ZV1RUYv0cVed4+eMRjXqO7zI2GtUwD5N2nm2K3ByO8XWmh915A9szFoS7Hi0h+xcsDrezNq4jPdRCXFSjOFuIe7VE3GqUoU4iPitp2cyuYuFg3sJX8yYuFq23rUctPF4aICfrEEJ3WomIbeSDBtZCZlbGTWQCBnJBExHJyITDQCLoZs1roezSUgqYeJAY4GDBRqPoZj9i5TTVx/cFNwuiGmE5bGd5spf0qAlF1DAjGonLPWSDvUS9vcxKfeTlfsr+HipyP5UhHQ/mHZxkXRylHKyEejlOuzjLOMnJnQjZ8W4iYgcxrw5/TxsTNh0+h5aZkW7yEy5Wp4YoB22syT2s+qwsDRqo+Y1cFXzsKP2EnBoyAQvnBZnNUBdCYdzM4mgXs6KZsNNMSrYz2KcmJJko3vVSDrmoiDpKQ0a2JCMlj44lh5piwEw9LbGjOMiOGqlF7CQkDUIu2M3qrIfFsTvEfP0sTw4ScluJBgYoz/moSnp2PB1UxQ62ne0sO9TExQ7iw3oyo2bOVkaoJwfJjOhQXK0IEW8vxRnP7VlStrMSchPx2clOSdyfdlJ1a6mInWy52llyaUhIHWT8BmLDeqKDWvYVG/WU+xatKTb+Bw/s8ysSUYR2AAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/c1dd2c180ef275e5447c88e2e309f36d/43009/telegraph-pedestrianized.png",
+                                                    "srcSet": "/static/c1dd2c180ef275e5447c88e2e309f36d/e464d/telegraph-pedestrianized.png 113w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/e434c/telegraph-pedestrianized.png 225w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/43009/telegraph-pedestrianized.png 450w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/338c6/telegraph-pedestrianized.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/c1dd2c180ef275e5447c88e2e309f36d/349c4/telegraph-pedestrianized.webp 113w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/2fc71/telegraph-pedestrianized.webp 225w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/cc14f/telegraph-pedestrianized.webp 450w,\n/static/c1dd2c180ef275e5447c88e2e309f36d/404fe/telegraph-pedestrianized.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "c86c2939-b928-5004-a3b6-bc7ff46c7cda",
+                            "slug": "2023-03-01-rent-map",
+                            "frontmatter": {
+                                "title": "Berkeley community faces challenges with increasing rents",
+                                "date": "March 01, 2023",
+                                "subhead": "It is not a new experience and is especially relevant at UC Berkeley",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC/ElEQVQozz3N20/TBxjG8V/iH7DEKAi6DESKk7WUFloU6IkWWkprS48DqaVd7RERMFiO6pBtIQhZ9GIz6nTpEnezxHixJSb7B7Zku3LJliwsIUsWcQUs0ELb71Ka7E0+F++TvO8jyFpbCMWnWH+TZSOTY2MnR7pkd5+tvQPe5gpkcsX/lfatbJ6tbIF0tsBmrsDbw7xMEDfLiI3Nsb6RIQfsFCBP2Q6wuQ/b+0UyJYfPC+zlIZMtF23niqT3CrzJFvg3W0Q4LaplIJDgp1//5OunKT5ZWOTJVymeP/+Bn3/5jfV/0mzuHhwelgq39/Ks/fU3pSkUIZcvlx8Uy4TKU5X0O13cmBjjktPM9MQIyWtx4qEgoUCIYV+QRGyMm/N3WFm5z8OHKb6894hXr/7g9eYO6d0cv6+t8TqdIb2VRUiEAlwLB/hs4RYzk0n6VF14rHa+f/ECt9VJwOvjWSrF/dVVxiIJPFYboY+GCPqHiUVi+H0OurUSgj4r4+MxBLf2HAuzUabnRrjY3Yf4XREycQNLK/O4B2zY3Ua+/e4ZL1/+yNLyIpddGgYdSsJ+I6NxN3aTCoehnXG3gclBA0JLzRGuxruwfajm05tzLM/MMjCgw9DfSI+riQ86qhiKuXjyzWM8XjVejYiw9TxhswKXXsKQX49RK6azvYHRcB/CkEtFMKqjxybj6aMHzCQj6EwN6FRiJJIaakTVqE1t3FqcZ/VOkqXbN7C21SGtOkL98WNMDVvolR2jtbWBDpkcYXY0it0rx2JXc3fxY6JhF5p2ESrpWWrPVFEtOoH5oh5dl5yJK2bu3r6OQ1GHU34UdXUFo4N6untP4fQo8Xo8CNNJH/KOCix9PXxx73OiUQ8WvYK25rNUnnyH9yVn8PRbkIrfY+KyhuWEG9uFOiZt5xgxKIn5tUibj3K++yRGXxOCd6qR3iu1OCNKIuMmZNoKWjobUZk6aepoQqESYzAqqT99gh7tBS4F9PTalJgNUhwmBS6PHLWmHpm2GlH7cf4DEAUgDKwF2QcAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/ce91a739bb03e3851a1e4f8e64f26c16/43009/rent_gavin-sagastume_staff.png",
+                                                    "srcSet": "/static/ce91a739bb03e3851a1e4f8e64f26c16/e464d/rent_gavin-sagastume_staff.png 113w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/e434c/rent_gavin-sagastume_staff.png 225w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/43009/rent_gavin-sagastume_staff.png 450w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/338c6/rent_gavin-sagastume_staff.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/ce91a739bb03e3851a1e4f8e64f26c16/349c4/rent_gavin-sagastume_staff.webp 113w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/2fc71/rent_gavin-sagastume_staff.webp 225w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/cc14f/rent_gavin-sagastume_staff.webp 450w,\n/static/ce91a739bb03e3851a1e4f8e64f26c16/404fe/rent_gavin-sagastume_staff.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "8572aa73-5f2a-54e8-8bf1-4d296ba35d8b",
+                            "slug": "2023-01-31-union-vote",
+                            "frontmatter": {
+                                "title": "'Could have fought harder': Response to new contracts reveal a union divided",
+                                "date": "January 31, 2023",
+                                "subhead": "UAW 2865, SRU-UAW members split on labor contracts, election practices and strike strategy",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAACTpAAAk6QFQJOf4AAADFElEQVQozwXB6U+bBQDA4feDX4zfDDEeE2kDZdDSg7ZQVnpQevD2LrS0paUtg0oH7eJWyrkRAuqCzZZpFpotW9jSSJwTdDEQQRZHMplRMhfHtmwxxhlM/C9+Po/g93UScLaRiRgI9HRgtHkYyZ+nUFoidWqWQDSJ16MhEjYyN5Pgr1f/cPjsJaWCi8r8e3yU0uOyyDkfeZNy4g0EvU5L2KtkoE/DaEqHW9RhcYWwiUHUJyzUHpchbWpAp1fhd+vIjqU5lT/JhWIzs1kJollGcUDF9gUTNyZsCJJGNaJThaq1FoVaSrtBTovOiFSuo6FJgUQmo7G5BbVSjkWvQt/WRthvYzCgxGyopV5Sw+J4kP31K+ytVxBc1m7MHWpaGqW0atroMov0evqI+/pI+YMkQlF6RQ8DXg/pQIiox8eZdIrh/hg9nUaiXh+f5Af5/YdVdm4uIuQTSSyGTkSTFavGiGiw8mEwSsjmYjaX5Uw6w1gihd9mYySWIhdNEnA4yUb6GfL7mAx3s1Ic4On9NZ5sX0PoNxvIBEWKMQ9xh5mwo4vJkSGyIS/TiQCjySSleC8pn5102EvIaiLicjKdyxOyOxgPObn68Qx/7Fznm8oCgur9dyh69RQCXSREO1pZHUa1AmerDFOjFHu7FlGn5sbSWUq5HGGHHbdaQj7cg6tDS9ys5fDeGl9dOs3u2jJCoqmOsFTK8vQY86UC0+MnKQyn+WxhijsrZUpePU21byN2tzMYPIFoMWFpqCEfslGI9WBubuDTs0Ps3bnIo90qQqZDT0YhZ2/jKve+XuH71TK/bFXZWf+WV48fcvviFMfrXsPkrUHvfB3R9S7G+hrcZh3zuSFKuQznxuP89+xHnj+4jeA2ahB1Sh7d/46/D3/m6MUB/778jYOfdnn66z6bX1awmeqZOPcBw6ePMTVhpP7YWxi0Ki7Pz5HxG1m9PMfR4y3+PNhEWFnMo1XIuPnFEi/2N3i4dYtqZZm71c95sHGF8uwY+VSYSzNpNq9Ncrcyg7VdyWjMxepCmr4uJdfLJZ7vVTl6ss3/+H3X5/EXt9MAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b69149d20a54f48b623579a80405aa9e/43009/unions-hsi-min-chan-ss.png",
+                                                    "srcSet": "/static/b69149d20a54f48b623579a80405aa9e/e464d/unions-hsi-min-chan-ss.png 113w,\n/static/b69149d20a54f48b623579a80405aa9e/e434c/unions-hsi-min-chan-ss.png 225w,\n/static/b69149d20a54f48b623579a80405aa9e/43009/unions-hsi-min-chan-ss.png 450w,\n/static/b69149d20a54f48b623579a80405aa9e/338c6/unions-hsi-min-chan-ss.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/b69149d20a54f48b623579a80405aa9e/349c4/unions-hsi-min-chan-ss.webp 113w,\n/static/b69149d20a54f48b623579a80405aa9e/2fc71/unions-hsi-min-chan-ss.webp 225w,\n/static/b69149d20a54f48b623579a80405aa9e/cc14f/unions-hsi-min-chan-ss.webp 450w,\n/static/b69149d20a54f48b623579a80405aa9e/404fe/unions-hsi-min-chan-ss.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3f42d2ec-a18b-5825-a517-3bdfa4346238",
+                            "slug": "2022-11-07-reddit",
+                            "frontmatter": {
+                                "title": "We scraped Berkeley’s Reddit page r/berkeley",
+                                "date": "December 09, 2022",
+                                "subhead": "Here is what we found",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC6klEQVQoz32RXWxTdRjG/5jgzSRgTMQ7Q5RkiHPqgugFMSwzEDI1ARJ1YpzyMTESjSEkMugwjgvC2IAGstkhblNj1A0ZmPA1p7BuWdaRtmvX9vQUxnq6sq7ndP04O93anp/p4MIL45P8bp734n2ePOL5Z1ZTsaaUTZWbqdjwFqvKN7KuooLS0rWUlb1M2RsfUPnqCzz3dAlLlwiEECxZsRIhHmH5shLWPrty0Svy6GOPI155sZzXNm6hqnobO3fXsuXNaipf38CmqirefWcbO+vqeK+2jh0ff8KOD3fxfu1evrJYaPjmCPWHGzh9solTp61Yz7bSfv57RM+lq/QPDPFLZzN93c1cu9JN/81B+v7s5+9bdkYdIyQzBh+dcPLpGS9vfz2KfTzJf6lgmogB+xAev5/LFzr40daI0zWKxxfA4/UxGVZQFIV0JoNLjuMOqYyFVLSkjmEYZHQdXddJpzMkkynURAIx4nDgD0rcHvPg9UuoWoJkchbD0MnnF4p/MQs5wHzIYhYw8w/JYRYWyOeyZOd1xPbdTdR80UbN/g72Nl5kf/MNDlhvcbB1mHrbKIe+c2PpGOdwZwBLVxBLl0zDDzJHuoI0FL3zXg7ZXBxsdXDAakeUrN7D+q3HuD7oZtAp4ZUVAhNRpHsx7igacjiBrMwSiqQIRtJISppAOIXvXgrvxCxjIQ2nNIPDF2XIHUY8Wb6P6l1n+GvYw5AzSDgaY0bTiGsJsobB/LxBITf/oOb/qnjPI5566XPWbz1O/anLNH57jaPnbnKsc5imn25z4mc3zb+O09It0dIt09IT4mRPCOvvdzjbG6KtV8Z2SaK918e5ix7aLzgRT5R9xvZ9bQy4fPjDEhMRBSUaQ7kfJzKtEY2nuK/qTM1kCE9nuBtNEZicXVx8xBdjwDVF38gkf9hlfrvhRawo3UPNlzbsrnHuTkwSmZpiOh5D1VTiqoqqaWSzc5jFxc3cA/gX5gJmIUs+N8ecnuQfC5avCjMZiV0AAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/e4fd92f11d1a76886e3687c09f8169e8/43009/Reddit_KGT_ss.png",
+                                                    "srcSet": "/static/e4fd92f11d1a76886e3687c09f8169e8/e464d/Reddit_KGT_ss.png 113w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/e434c/Reddit_KGT_ss.png 225w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/43009/Reddit_KGT_ss.png 450w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/338c6/Reddit_KGT_ss.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/e4fd92f11d1a76886e3687c09f8169e8/349c4/Reddit_KGT_ss.webp 113w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/2fc71/Reddit_KGT_ss.webp 225w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/cc14f/Reddit_KGT_ss.webp 450w,\n/static/e4fd92f11d1a76886e3687c09f8169e8/404fe/Reddit_KGT_ss.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6242fa94-c5bd-5fde-9540-c939e1c4d5b9",
+                            "slug": "2022-12-09-kutcher",
+                            "frontmatter": {
+                                "title": "Beneath the armor",
+                                "date": "December 09, 2022",
+                                "subhead": "Kira Kutcher on her avant-garde styles",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACkUlEQVQozyXNT0vycAAA4N/FQ7cpYXosDyoZKxakCCqDaAVSdNAIyaCRx0DUrJHgxEO4ivmHZWYeZAiliRItYaE/QXSHhQUOAgu62NeIl/f5Ag+gaToajdI0zbLszc1NLpcrl8vtdhvHcbVajSDI6enp19eXoiiyLI9GI0mSRFGs1WqRSATs7u76/f5wOHxychIOhymKyufzLMsuLi4aDAa9Xm82m0VR/Pz8hBAKgvD6+vrw8MAwTCwWAxsbG+vr6yRJRqPR4+PjUCh0cXERCARWV1dRFFWr1TqdjuO4brcLIex0Oi8vL7VarVQqsSwLGIbJZDJ3d3c8z+fz+WKxyHEcQRDz8/Ozs7MzMzNardbr9UYiEY7jnp+f397eBoMBhLBarQKfzxcMBhmGOTs7KxQKEMLHx8fNzc3Dw0On02kwGKamplwu18HBQb1en0wm4/F4NBr1+31BEMDCwgKGYXa7/ejoqNFoVCqVXq9HUdTKygpBEEajUaVSEQQRj8d7vd7v7+/7+7uiKIIglEol4HA43G731tbWzs7O3t5eMpmUJKnf76MoCgBAEGR6ehrDsP39/cFgIMvy9/d3t9utVqu3t7f/ZpvNhuO42+32eDwkSfI83263Q6HQ8vKyTqfTarUajYYkSUmShsOhoijpdJrn+aurK2AymZaWlqxWq9PpXFtb8/l8qVQKQjgcDjudTjKZRFEUQRCXy5XL5T4+PlqtFs/z6XQ6kUgAo9FosVisVqvdbnc4HNvb28FgsNlsyrL88/NzeXmp1+stFovH4zk/P5ckqVKpsCybSqVomgZzc3NmsxnDsP8/juMkSYqi+PT0dH9/Px6Ps9ns9fV1q9XKZDLFYrFQKHAcR1FUIBD4A6aqPrthJMnwAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/83cd80f31617d66fa3e8ddf3e5523517/43009/kutcher.png",
+                                                    "srcSet": "/static/83cd80f31617d66fa3e8ddf3e5523517/e464d/kutcher.png 113w,\n/static/83cd80f31617d66fa3e8ddf3e5523517/e434c/kutcher.png 225w,\n/static/83cd80f31617d66fa3e8ddf3e5523517/43009/kutcher.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/83cd80f31617d66fa3e8ddf3e5523517/349c4/kutcher.webp 113w,\n/static/83cd80f31617d66fa3e8ddf3e5523517/2fc71/kutcher.webp 225w,\n/static/83cd80f31617d66fa3e8ddf3e5523517/cc14f/kutcher.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "9b00d5aa-3b5d-5175-81f1-3a62d551cd03",
+                            "slug": "2022-11-18-turnover",
+                            "frontmatter": {
+                                "title": "Is Telegraph Avenue changing?",
+                                "date": "December 03, 2022",
+                                "subhead": "Google Maps and business owners weigh in",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAC4jAAAuIwF4pT92AAADI0lEQVQozx3M7VPTBQDA8d+fUFd3+Sa766YQbCIbyMDimTX2wIC1DcbGbYzJ5mIPwhhsxmAwnhLYsMRDd5B3nISihCJlmqSSQXdQ1+XleXb2QiDwTdn7b3d9/oCP4HBFmF56wsLqDovfb3P9/g7zq9tc/m6b2bs7zNx+waU721xYekLq8xVGLtyjSq9FpZCgLErDYVRjqzmCVnEAU6UEIdI/zcqjPb5Z/4uVjX0Wf3jJtbV9Ftb2mb+/y+XVXa483GX2yzW+CoaJxMZQ1VRQUlFGbpYIS/WHuM2VWHS5aIplCCPnl7n5aI9b6/t8u/GC9c2n3N74k4UfX3Jj6xV3f3vF6u//svzgD6biAyRS8wTjF9Ho6yk6ns2xI4dQ5Euw1SopyjuKcP3hHjd/+puFe894vLnBP8+3eP74F7Y2f+XG4goz42PMJs9wa2aSpckxZj7tJtbuIth6En1pHsbiHNRyCXniQ6jlYoS5O09JXZojEfUzm4zx7OcHLE+fZ3YkztJciitT41xLTXB1apzJwSjtrgaMpRLOWMopl2bgMqhps9chz0yjQCxCcNobCdiz6bRLGOxs5ItzowwMxunr62NidBiPw8HZ0WGs1eW02WqJBh0UZr+J36JCmpnOUXEWuvIiJIdFaI6JEXqaVDRoc7DU5mOzmGhxNDEUDRH2exiJncas1TI60Eur3UyDsozOj5uxGVT0dHXwQY6U9DTJ/6FTr2HMZUBwW+1oKpSoyxQYq3Qcl8k45fLQ0tJKKBiiRlGK3eqi4SMr5+IRAm4Pek01ao2JrMMHOfDW2wS9AbxGJTGbDqG0VIc8rwRrvRWruZECeQG5hSbeldaQmW+kWu/gtL+DeCjERH+EkM9Ns8WKodaAprISqex9mkwGev1OEt2nENLfk5MhKUSWV0VhkYaCghJMWiM94SGuLnxNYmgcf7OdSLuPiNfNUFeAs/EIn/WHSUY7GO704bXVE/WfoNt/AkEkkpKWnk+GpJiD76Tz+mtvYDVbSCaSBPxt1JnqkcsLqa+z0Opx42lxEvR5iAYDdPlOEm5toTfg5hOvk/bmBv4Dx5wE9wxPs3QAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/3be94c26146605fe617064ff8c8281ea/43009/turnover-luke-jensen-staff.png",
+                                                    "srcSet": "/static/3be94c26146605fe617064ff8c8281ea/e464d/turnover-luke-jensen-staff.png 113w,\n/static/3be94c26146605fe617064ff8c8281ea/e434c/turnover-luke-jensen-staff.png 225w,\n/static/3be94c26146605fe617064ff8c8281ea/43009/turnover-luke-jensen-staff.png 450w,\n/static/3be94c26146605fe617064ff8c8281ea/338c6/turnover-luke-jensen-staff.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/3be94c26146605fe617064ff8c8281ea/349c4/turnover-luke-jensen-staff.webp 113w,\n/static/3be94c26146605fe617064ff8c8281ea/2fc71/turnover-luke-jensen-staff.webp 225w,\n/static/3be94c26146605fe617064ff8c8281ea/cc14f/turnover-luke-jensen-staff.webp 450w,\n/static/3be94c26146605fe617064ff8c8281ea/404fe/turnover-luke-jensen-staff.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "d5f8b459-bfc2-58f9-a2f8-cc263be2f095",
+                            "slug": "2022-11-22-bargaining",
+                            "frontmatter": {
+                                "title": "What are UC workers bargaining for?",
+                                "date": "November 24, 2022",
+                                "subhead": "Use this Daily Californian tool for updates from bargaining units",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAC4jAAAuIwF4pT92AAADE0lEQVQozwXB2U/aBwDA8d//0GTplqxvrp12h7FhHZ1HhhezCkWFgoIgaIFxCQhaGMql5VrFqoAHUJuKq0TX2nTRdOvq3IMvS5q1W3ay42XJ9rDsH/ju8xEcsjfxWzrYzzvJJ6KEg7NslrZZy61RubvHwq0qlXtfUiw+IFfYYWlmhs+yQXI3psgl44yqu7H2nCaifhXTYCPC/PQYQbsai3+aUGSWaGiKMZ0Wiy2A1RFg1BZmxBpAb7Qz4UsxHYiRnQkz6fiQ6UkvqgE5raI6/MMvE3c0IwwoB1GZ3ag9cQION3PpLE53GPvUMgq1keB8iVh8CYMlQCi5jsOX5kZhj4W1ElPBAEMjI2jkYgppDV5DM4JqzIc7U8Hg8uP2BUnl91FqTRjGHfQPDBFLbHJy8oJSvsDt1XXK2yfkyo+JzOeZjRVwBxdJZ3eo7P2Befw6Qlu7FNWwCbPNSyy5zsLKPTq6JDgVGkJyKeNXmllfvMndlQwryTgbleeUq9/w9Pg71suPSOWPWN16xvZ+jUSmjDBiseMLRXE7rQRm5th59D1efwSdpJ2gWUvIY8U2qiERcpFbXuXw61/59qe/+f2Xf9jaOiS3ccDDpz9zcFzjk/tHCNPhOWx6LZ7RIaS9Mkq37zPhcjKs6OKa2YHaMInVoEMnb6enuYk+2TD6sSn+qv1J8fAIub9IefcZj49/pFT5AuFKz2Xea2pEJnkX3ZAer1pGZ5sIs9XEdUUHxt5e9NphdFeVtFy6iPhCExfO11GpfIrS6KKxRUYkvUn25iJKpR7BYtIjU6hRaY3Y/REmXA7kkks8sdqo9Wt4rhii0NfPw4Ov2Nw+IBBJk9tYIZzJ8NbbFznzymkaG16jU9yEtFWEoDfI6OjupF4spW3QTJ8txGxnO6lWCWm3lye9Mj4XvcNu9ZDinV0+Xkpwa22BZDZKNJ0iV6zi9gRoFrfwxvl6hI+iMYJ+O/0aPe9fVjI47qO76wPOnWvgqqgJf30DIw2vs1ys4rBdw+MxEI77MVs1mMw6Xvz2Hz/U/uVs3VleOnWK/wFvIw76UgNcGwAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/12a7f19bf5dcb130967a7372142f885b/43009/bargainingLukeJensenStaff.png",
+                                                    "srcSet": "/static/12a7f19bf5dcb130967a7372142f885b/e464d/bargainingLukeJensenStaff.png 113w,\n/static/12a7f19bf5dcb130967a7372142f885b/e434c/bargainingLukeJensenStaff.png 225w,\n/static/12a7f19bf5dcb130967a7372142f885b/43009/bargainingLukeJensenStaff.png 450w,\n/static/12a7f19bf5dcb130967a7372142f885b/338c6/bargainingLukeJensenStaff.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/12a7f19bf5dcb130967a7372142f885b/349c4/bargainingLukeJensenStaff.webp 113w,\n/static/12a7f19bf5dcb130967a7372142f885b/2fc71/bargainingLukeJensenStaff.webp 225w,\n/static/12a7f19bf5dcb130967a7372142f885b/cc14f/bargainingLukeJensenStaff.webp 450w,\n/static/12a7f19bf5dcb130967a7372142f885b/404fe/bargainingLukeJensenStaff.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "ba3dc658-638d-5755-8c64-85fd83f987be",
+                            "slug": "2022-11-08-busd-gap",
+                            "frontmatter": {
+                                "title": "Score gaps between Black and white BUSD students among highest in state",
+                                "date": "November 08, 2022",
+                                "subhead": "Statewide test score data for 2022 reveal imbalance in math and English performance",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAACTpAAAk6QFQJOf4AAADLklEQVQozyWRb1DTBQBAfxdkWN1p5Fkg3PEluvOuyxOFLKWOCzvpxCzzIpIhJNpUrlksiOoamIwMhE2TOEdgHDdAYsL4M2QIjG2wsBYnLNj/cdwVFTEHc+Oq12kf3of35X15wqEiOe98qiTnMyWzxu9ZnOrl9+kB7MYOrDcaGe24xG+3b7BkG2R5dojl2UFWXEY8JgUXyhP44FgsVWe2knUwHknuDoRtuR+z+9Q59koq8Fr78dtv4neMEPSZWfWM4ZrQ4L2lZdVjJOg1/Y/HyJKtCZUiCXFeHG8fjmF/RgKl76chvH6yhILSSiRlX+Ge0LI8d5OAy3Cfe5HQvJm7PhMB5yghn4nQ/ASrrn46G1+h+uxWckWbeS1zM0lJ0ex7aRNCxp7nyc54mfSd26kWv8nVyg/x/qDBZW7HaVTjNrfiNLbiGW/HPd6Oz9KB26TGqivjXEkKWW/FkPlqNOmpG5Cd2YcQ8WAkCYnPIAgC+VkH+eT0UZTFIiY1FwjYugjYuvFPX8c/reHOjIbATCf+29f429nPwmQbt/qU2MdUzOgvEvilF+GxTU/y7M4XiYuJoVicT4O8iG/LCrBcqyLk6CNk1xKa6yY4pyXsGiDk1LHm0t33evlHWLRXYMFAcG6ApalOhKMnJeSeKuGF9AMcEYlQnK+gXi5F33SWldkewk4dd+19BJ16wp4R1ryjrHmG+WOqm/Olp+lpquRf3xB+Wy/L01qEN/IkVNSokJRWIKuopqVVS0/vKM2NaprlMv60agh7xwi6hgl7DQTdw/z6sxaduo7CvGw6VZUs2QZY8xlYcegRtqVmkX+8mPLyWoqkXyDKeZf3xFI+lykoyDnG5GAH/9yZZ3XRwdpfXlYWHditoxiuX0RefITGKik2Sz8Ljh/x2iwID63fyAORjxIVtYHIiHXEJySS+NTTPPF4NPGxsWTuP8DxE2LE4kIuK2uwjg/xk1nPSFcDnSo539XKaKmrpLWhFrWq5t7lKCLWPcz6RzayZUscycm7SElOIWXHdnbveo601D3sTUsj+/AhpIUn+Ka6nKtff0lbg4IedT26titoW+rQtlymq/kS/wFDhGBb1hI6sAAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/e567665d7e59489f01fd0ebe10c6bbdb/43009/gaps-kimberly-fong-staff.png",
+                                                    "srcSet": "/static/e567665d7e59489f01fd0ebe10c6bbdb/e464d/gaps-kimberly-fong-staff.png 113w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/e434c/gaps-kimberly-fong-staff.png 225w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/43009/gaps-kimberly-fong-staff.png 450w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/338c6/gaps-kimberly-fong-staff.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/e567665d7e59489f01fd0ebe10c6bbdb/349c4/gaps-kimberly-fong-staff.webp 113w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/2fc71/gaps-kimberly-fong-staff.webp 225w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/cc14f/gaps-kimberly-fong-staff.webp 450w,\n/static/e567665d7e59489f01fd0ebe10c6bbdb/404fe/gaps-kimberly-fong-staff.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "46453121-3bed-59df-87ac-2d50931b8095",
+                            "slug": "2022-10-11-hsi",
+                            "frontmatter": {
+                                "title": "In Latine-dominant California, campus demographics, resources lag",
+                                "date": "October 13, 2022",
+                                "subhead": "With a troubled history, how will UC Berkeley serve its underrepresented Latine and Hispanic students?",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAOqvAADqrwEoFbmWAAACDUlEQVQoz2WTa08TQRiF+8v9DX4hMSSIEQjtbrs7M7sz0y1UrC20pbRQyk1jrCFBRDFcekNNfMxulyLy4WRmkpkn55w3kxkayUALHlbBxEpGRvLLCHpCkN9sI3d7ePUOJ8LjzkhutWRgHmuoBZkpaKoYdqMlfa/AqfQ59VxKrkTtHGF6x6jmPifS586I9I1IIPeKoQlwmFwQjG3ARWGFo8BnW0X07Bqd0jqysYveP0a0unxQgp82dpimSpMNTAyVZJJDGnWgFd+1w+83izRlhY/lKt8addTGDmHnCLV7yLYNGck8I6tmDgfmIeEscrxeBwV+1Lb4U11iL7tEVbdZnte8nMtiiuuYzjGq3aNuQq6ly9iqqdMZVKQO760HBc6iImfVLd4+f4ZeXGZhPuLdwjIV10Nv9jCtA1T7kEoUcSkcJjE0HUhsKvPvhEdacO65RAsutVzE+9U5Dl69YKQVh66DLG5TrOxha12CxgHlqMwX32HydMrTHgehYKwF14FH33nNp7zLlSwwDn0u/RwVJ0DrFsVSC1veQVe6FM0Gfc9hnFb3GJhAfa6Ux7m7wkVhNdnfBh4TI/icXcJmS2hZx9gW1jbRax2MjJ3mkk6fAlPoMFbgMVD55BzrJvA4K2Tp5hyKjsUEDaxuEgY1+vls0uesw/9/zD3k8S+SiYvY7YW3SjkboPwtSk7I19ThX2DX0vTqx0AvAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/70632be43ca842e29deff389906ce3b2/43009/HSI-Alison-Xiong-staff.png",
+                                                    "srcSet": "/static/70632be43ca842e29deff389906ce3b2/e464d/HSI-Alison-Xiong-staff.png 113w,\n/static/70632be43ca842e29deff389906ce3b2/e434c/HSI-Alison-Xiong-staff.png 225w,\n/static/70632be43ca842e29deff389906ce3b2/43009/HSI-Alison-Xiong-staff.png 450w,\n/static/70632be43ca842e29deff389906ce3b2/338c6/HSI-Alison-Xiong-staff.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/70632be43ca842e29deff389906ce3b2/349c4/HSI-Alison-Xiong-staff.webp 113w,\n/static/70632be43ca842e29deff389906ce3b2/2fc71/HSI-Alison-Xiong-staff.webp 225w,\n/static/70632be43ca842e29deff389906ce3b2/cc14f/HSI-Alison-Xiong-staff.webp 450w,\n/static/70632be43ca842e29deff389906ce3b2/404fe/HSI-Alison-Xiong-staff.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "c94e426f-a49d-5977-b88d-382c0e319067",
+                            "slug": "2022-09-22-artifacts",
+                            "frontmatter": {
+                                "title": "UC Berkeley’s repatriation process remains far from over",
+                                "date": "September 22, 2022",
+                                "subhead": "More than 100,000 Native American artifacts left in limbo",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAACTpAAAk6QFQJOf4AAADD0lEQVQozx3Fy0/bBQDA8Z+JMfGgZktA48EQ49SELUgQp+XhxsawPJq2Q2G0XWm1FOgTRt/82kILhdHRAsV2FGoLbUctBWE8ZHNmZmYxevTgwV128d/4mnD45CMYNX3YDFrshts4R/W4LUNnXKN6PDYjHrsJh8WI2zaC6LDgd1hxm/U4h9V4LXp8Zh1Oowq7rg/bYD/Cd6Yxhs02TNZxxpyTOCdD3HF5cYkhfFNz+IJhAuE5wgtxgjN3cftDuAMR7M5JRq1j2ByTDFsm0OoM6AwmhKmlItdlA3zZ0cvK5gljgSU+utTAdHyLWO6YmUQRmyeMyeHH7g0TXs6xmD1CjGaoa5TgCCUILm4huSpFoTEhTMdzKNXD3NLbWckd4Z5J0KlUM598wL3MPpFkiYYrMt6sfodWqZxoukx0Y4/QSh5Zv55AdI3ZxAPkqiHUxnGE+VgSj2MMj8tF/P42S4kk4VCQSCxFevuQ5UwJqVJFbf1nKAZ0pLZ22Sg/IbFRJCh68IlBYqk8os+D8VstwvLqOrIeKWqVho38Pl4xQFNLK7bJKQp7x5z8fEx0PkTs3hyid4J0NsfhL/vs7Fa4VFfPoNHGWraMXK5A0tSM8MNmgebmFhYiYZ7/8RdD5nG+aLtOa5eEkfEJTh49JjI7y9Vr7VjveAlGo7QpP2Vo1EDNBxdZWIzx+/M/udHRzc3erxFOj/dQKpQUsuv89/IfQuEQilu9XGz8mE8a6sjn84heD+/XvIvoD/LwsIL0poTunq/o7O5hZzvLyxd/43O7sVrNCIVsknIxw0GlwFElx8FOlnJpnfrGWl597RXau2RYjAZu1J0nEZ3h6dNTFN+0cFlymT6tCafXTym/RuXHDIXc9wgaeRtaZTsjA52YNT3cVrad3S+7whtvvc57Fz6kuamDzy/UUEwneXayyaBKzrlz56mqqubtqmqaGmpRd0lQXmtEyMyKlJbmOEjFOLof52Fq8cyTbILKapTd9Cr72QynxU3+ffaYF78d8uvWGoW70+zEZvhpeY5KPMKjZJRMZJr/Ae7mDa+BpQjbAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/a56239a49d40bc0c9e404aa1d54eba2b/43009/uni-hall.png",
+                                                    "srcSet": "/static/a56239a49d40bc0c9e404aa1d54eba2b/e464d/uni-hall.png 113w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/e434c/uni-hall.png 225w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/43009/uni-hall.png 450w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/338c6/uni-hall.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/a56239a49d40bc0c9e404aa1d54eba2b/349c4/uni-hall.webp 113w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/2fc71/uni-hall.webp 225w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/cc14f/uni-hall.webp 450w,\n/static/a56239a49d40bc0c9e404aa1d54eba2b/404fe/uni-hall.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "0429089f-8c4c-5f36-a324-bd0d25ae2994",
+                            "slug": "2022-09-15-study-abroad",
+                            "frontmatter": {
+                                "title": "Mapping UC Berkeley study abroad programs",
+                                "date": "September 15, 2022",
+                                "subhead": null,
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADK0lEQVQozx3O2U/bBQDA8V8GlF60lEL59aDAKNR2jALdLFCu0UI5ZKMcGw2ybG6LMcNwLAjTcJWWUZCgkRniMjUZRjCLoD6grnObAzRjZMo2t+iDhkyHL/Lq29fEz1/wEXR6kZQUDa4DGTTkm3AYkyjMSMVoM3GqSkWnK4YsrZRahw6vXUuNVYbdnEi5Rca7HU7OvOSnTJ9IQ+lBavNtCJlGJWfdyYRa0rjWYmax1cRiRw7ddYVY0jUU5KVxwJFDrsOGISWFPFEgQx2LJF6KmKJA1GrQq+RYRS1FBcUI758pYLnPzfXuIh5dyOfJ4IvshMp51mfjvZNFjF69SHTex/JcC4H6F6jOT2foXBnlbiMmbTzpugT0ohp5ogppfBzCQm8li31V3Okv4fmom93xSnZHKvl7xM3uiIvlSBvBaz3MzZQRHivl1tIl2PqA3z7rYqirE++5Qc6fqKK53YM6SY1wfaCWr4friQ7X8WDIyy9jHrYHKnn2lps/Bw9xs7+a2fv3WVzqZWT2Fa6sfMzel+P89VEX38xPcejNBU43luCpKEAilyN8F27iXqiWtTEfa6EGNiabiYb8PAz7eD5Szk9vFLOyscrDaJil1XdYvfEp/3x4lp2r5wkHJ3A1BrA7csmy20lQyBGejnrZCnpZn2jk5xk/Ty4HWJ95mR8iTeyMlvFrfwlfbd4k+scjFrY3Ge7uZP5VH+1H8jBlWTiYaaDaV4LBloUkNgbh32EP20Ef61NNbM6283iune+nAvwYOcreRRf3LlRweeUTpm9EOXY6gCpGIEmViLOigcoTpzhcVYPfKaJMUCCRxCLs9ZfxONTA3YiftUk/W7PHuTsd4NtwM08n6rnUcRiTOZXsTD3GZDnewv34XDY8Hb3ktbyO0WrHYk5GIpMhk0oQfu9xshWs51aklY3Jozx4+xi3J1uJTgW40luDWVQhkcejVMTRWWoh0uZkoM6Ka78G0ZCKzqAjSZ/8/06pkCK8ViryeU8xX4RauTPVxvp0M7fHG5k+6SI7Nwu11UJSmgGzPZs+Xw59R0z0lus57jSi1SjINiSgVsaxL2YfCnk8/wH9M8I6sBzVEQAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/43009/study-abroad.png",
+                                                    "srcSet": "/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/e464d/study-abroad.png 113w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/e434c/study-abroad.png 225w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/43009/study-abroad.png 450w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/338c6/study-abroad.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/349c4/study-abroad.webp 113w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/2fc71/study-abroad.webp 225w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/cc14f/study-abroad.webp 450w,\n/static/8e6338dd8ada8d8a16c3d0b9f0bbaa7f/404fe/study-abroad.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "92d0da42-b0dc-5f73-a18f-8892f3402208",
+                            "slug": "2022-05-04-1921-timeline",
+                            "frontmatter": {
+                                "title": "The fight for 1921 Walnut St.",
+                                "date": "May 04, 2022",
+                                "subhead": "A recent history of eight rent-controlled units",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADJklEQVQozwXB7VPTBQDA8V9vu+tFZ73quq46L8mr7rAbKZMDXcKYwDZGbINN2PhtMLfBQB5ijEd5HGFbJLBpJBtDpyAgoAgMQlFxwwd8yOqIN1l3ddU/0N23z0c4U1WJS1tIe5mZk8ZS6i0VHM3IQqPI5+Ann6KSZTLaWkfUV0Oz8xAmcT/y3D1IUt9k6sYDLs1t4z+/xMj4HbxnryD0iWbKC3W0WK14Sk/gEUWyDmfwWVISMkkKNmUeXZW5WArzabKoKS3+kJTUV5Gmv8vs0nMGhhaw1/oJTmxS1zaI0G4own+yjKCznG/KTQy7HJRotBjlx8nJOEZxZjYFOiOFVU10iCJfOdI5kPoKOsNB5ld+Jjr3hNFLd7ly/SdEZxNCT7GOdrsNf5UTq76EPruDXIUai0qD7FAGolJFc2sn38+sMhUYI9BdjSTtNcrteZwfv4W7I0TXmUl6fNfILzIjDJhP4HbV43a5qa1qwFEiopQrOZ4u4+N9H6HKUdPp/ZbV+78yG9tm+d4OGn06OmMeE1cfcva7ZcJTW8ws75CZ8wWCUqEiT6XjaLaGt9/Zi7LAgLe5F0ORieQDUvYnS3F5uri3/ZLRi0usbe7iamykrMLCrfifjF3eJBBaZ2Ftl2TJYYTsfCPqIgtiRR25aiNOm4uh018z1NRDd6mTFkMFjhIraytbbK8/41liF63OhOtUK3cf/s250A+MTyaYXnzB+3v3IRQZTJhtNVjttdxcvUNzQxNzdR3M1ncRqW4jYm1kWKwidvtH7j//h19e/kdDczuetn42H/3LjbUd5lZ2CE/Gef2NPQjzC4tsJeJEzg3x9PFTRn0++jq6CU9M0j84wvBomKsjPp4sThMcDNDS4cN9uh+vP0xs4zdCl+NML+0wFt0g6b23EDq9fn5/ME9vhQF9XgH1jloqi/VkSaXYHDU8jifYjU0w02bjlCaHNIkEl72akQvXuZ34i2uLLwhH1wl5+7lQZ0ZwuDysRnpxyj9AlpKGQm4g6AugPfI5BfpKNmai/LES5Ev1MdzFevIVSjQqPZGLMRaXH+H1eDBrDQyYVUy32PgfhtQixWbv8mYAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/22702680cae26db1edd86b96f271f803/43009/1921-protest.png",
+                                                    "srcSet": "/static/22702680cae26db1edd86b96f271f803/e464d/1921-protest.png 113w,\n/static/22702680cae26db1edd86b96f271f803/e434c/1921-protest.png 225w,\n/static/22702680cae26db1edd86b96f271f803/43009/1921-protest.png 450w,\n/static/22702680cae26db1edd86b96f271f803/338c6/1921-protest.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/22702680cae26db1edd86b96f271f803/349c4/1921-protest.webp 113w,\n/static/22702680cae26db1edd86b96f271f803/2fc71/1921-protest.webp 225w,\n/static/22702680cae26db1edd86b96f271f803/cc14f/1921-protest.webp 450w,\n/static/22702680cae26db1edd86b96f271f803/404fe/1921-protest.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "0fc75246-11d1-52c0-942f-13f5439a5725",
+                            "slug": "2022-04-20-stem-enrollment",
+                            "frontmatter": {
+                                "title": "Beneath enrollment trends lies point of intersection for STEM, humanities",
+                                "date": "May 03, 2022",
+                                "subhead": null,
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABRNAAAUTQGUyo0vAAAC6ElEQVQozx3O2VJaBwCAYd6mF+lMJ73pTDtdplOnncS4UMWyHmRRoYKIouJhR+CwiyCriSDCoSpQVIwmxtSLZpK7vtHfaV/gm0+x1hvSGL/G3rnAmM6zXqvhk8/x1c4J9mTiZy8pywX69TijbIBB1s/buoR86KNTd5JqbaI/CrFbLZDcdaEQukPE1imrzS5CZI/VxhGBsx7+Zot6PctpNkR8y0fCvc0g5eMqH+KunOChmmSUF7mp7DCseBkfBRg3dlBs1o8RKzVsbRlLu0OodUSi84p4u04nvM2czcP3mw6eudLol/L04ru8KUvc11O8r6e5P0zx7lDioSTxWMmiCJ50MTb/QIhG0ack9o/3KXbKhAoJdtYlvhHzCBURe+GMKc8AryvA+2qM20OJ64MQN8UQt+Uot6UId4UoiploEmVYQhPeQ0glMGVzOKUE1iU9z4UY09E3uKojDCU/E5EwmxsxrvN+Lkp+Lqs+WplVGlkDg6aN4fEyipn5OZSqeX7V/MacTsuCoMNgWWRWreTrFwI/rd9gSP7NTCLGd2urTM3pWDRrKOSdPDTDXLzc4Lho4rQocJLXo1Cq1UyrVEwvqJhRL2AwCVhWrJgcK8zq1fww5+RbbY4ftREmlLNojRp0ZgORqJ2BvMX96yofHodcn3vpvzKimLQ5mHdvofaKqEU/1lwWZziA2+3E5XFjWLagVGv4ZXKSWZUSrUmH02Om2dxm2PNwf9Pg4+Mlf3adjLpmFNaDGiqDgReqBQSHk+2LPu7TNqagiGHFgs21htlh53ffGmJiE6kskit7kWU/fdnNX3cl/vk0ZtixM+qYUZhiKb764nOePvmM55PPKIxGSIML1lJxPPtJdmo5YkcZ0ultis0oy+tmvKENMjkXo7Od/7GPjzf0T5xc/TdcarQxBiOYI3usSGnEsz5BWcabSRCoF5Guu0Q9NjKuRRrDA36emuDJ0y9Zsqu4vQzyblxi0N1j1F3mSrbyL1p6LDcxwnlDAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/a64ed0feda7417d0c16e1b01dccfa3ed/43009/stemvhumanities.png",
+                                                    "srcSet": "/static/a64ed0feda7417d0c16e1b01dccfa3ed/e464d/stemvhumanities.png 113w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/e434c/stemvhumanities.png 225w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/43009/stemvhumanities.png 450w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/338c6/stemvhumanities.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/a64ed0feda7417d0c16e1b01dccfa3ed/349c4/stemvhumanities.webp 113w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/2fc71/stemvhumanities.webp 225w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/cc14f/stemvhumanities.webp 450w,\n/static/a64ed0feda7417d0c16e1b01dccfa3ed/404fe/stemvhumanities.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "6f660391-f506-5efe-9821-ed75a067da82",
+                            "slug": "2022-03-17-gym-pac-12",
+                            "frontmatter": {
+                                "title": "Cal chases conference crown",
+                                "date": "March 17, 2022",
+                                "subhead": "After posting season high, Bears enter Pac-12 championships as No. 2 seed",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC20lEQVQozy2RXWubdQDF/3ne8ry/JnmSptmSlHTdatbQLjqXStqmMV1noNXBaiy6WbbVjTpFZy2T1nqxoRc6vdhAEeYmSAd1CsOCqIggCOJX8Npv8ZOEXR3OgXM4nCMKnsywJ+HqMpIkIxIyiYSCJKnIioYkqyiKhqomUVQdSdW4cWmJjZV5PCNB7Mg4uoKV1AYojsWCvC/IejKFUCa0+yE6kpxECAkhqWiaiaL0uWDz/Bneffl5XFWQ8xSynoKZVDE0deAVe68GXGuozJYE47EgSoqBsd9ypjpCIRMiRGKgtU9W+eTKCpFrE7sKvpnE0VVURX1SwkT8tXmc/z6e4t/dCo93W2xfXqA3O8pqu8IH6+e4utLlUMbkxlqHg0/f5EqnxMJRQbMiMT+WYDQjY6rKYBpZVhFp06JZznDzhREO3n6G++tn+fzmXfa+ucfv397i+y+2+OPHL/n1znvsvjLLa89qnHvaZW1uiItNm96k4NSQRN558kFka1hGEk010BWDI05AqrZD+cI/LL3zC7c/3OGn/Yd89+hn1rtz9GqC8UKK9vEcy5MOZyckWkWJelYiZ8sIy3SJLJ2spxO6JrodoSZ9hJxGBG1K9TfY2f6M3/78mx8eP+LFk3lmKjrLNYN6yWRlSmGxInEiKxPbScTExAnC9GG8MItvu5hWikx6mEzoETo6CSFY6Cyz9/CAr+49YK23xGikUYzT1Msel/qHFmVKgY5tWIiXFpu056aJhspUx45RLhQxrJBsnONQPk/gBVh2wMaF8+zf2WZhfg7ftAn9FMOpgNphm5RjYJkOrmUjquNVWo063W6HeqOJnzuCGY9hp8tIVky1+hRvXWzz9WaX/VsbJA0bx/FIhRGu62M5PlEYYen9UAuRq9Q4M3mUq6tdlhanaTSnGak1qE49R/1Ui87pGW5/9DrvX+6xerpFMW0znPJIBSGm4RAEEdeub3F9axc/jPkfXXdSnPZISpgAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9015caa74e4544c4ebccfe141f116625/43009/gym-nevaeh.png",
+                                                    "srcSet": "/static/9015caa74e4544c4ebccfe141f116625/e464d/gym-nevaeh.png 113w,\n/static/9015caa74e4544c4ebccfe141f116625/e434c/gym-nevaeh.png 225w,\n/static/9015caa74e4544c4ebccfe141f116625/43009/gym-nevaeh.png 450w,\n/static/9015caa74e4544c4ebccfe141f116625/338c6/gym-nevaeh.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/9015caa74e4544c4ebccfe141f116625/349c4/gym-nevaeh.webp 113w,\n/static/9015caa74e4544c4ebccfe141f116625/2fc71/gym-nevaeh.webp 225w,\n/static/9015caa74e4544c4ebccfe141f116625/cc14f/gym-nevaeh.webp 450w,\n/static/9015caa74e4544c4ebccfe141f116625/404fe/gym-nevaeh.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "587053e2-eb50-5fce-9156-a6d73f1f1f3d",
+                            "slug": "2022-01-21-exodus",
+                            "frontmatter": {
+                                "title": "Black exodus from Berkeley",
+                                "date": "February 24, 2022",
+                                "subhead": "Amid gentrification and displacement, opportunity heads elsewhere",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/jpeg;base64,/9j/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAEA//aAAwDAQACEAMQAAABaynrSS0gCj//xAAaEAACAwEBAAAAAAAAAAAAAAACEgABAyEx/9oACAEBAAEFAh2TPEyWuwvBqlQZ/8QAFxEBAAMAAAAAAAAAAAAAAAAAAQIDEP/aAAgBAwEBPwGmS5//xAAXEQEAAwAAAAAAAAAAAAAAAAACAQMQ/9oACAECAQE/AbjBz//EABsQAAIBBQAAAAAAAAAAAAAAAAAxAQIQIUGR/9oACAEBAAY/App5JlRu6Yj/xAAcEAEAAgEFAAAAAAAAAAAAAAABABEhEDFBUWH/2gAIAQEAAT8hRkcbHEGDrtiIFjZDNQ0wL90H/9oADAMBAAIAAwAAABBbP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQQf/aAAgBAwEBPxA1HJ//xAAXEQADAQAAAAAAAAAAAAAAAAAAATEh/9oACAECAQE/EN5Kjp//xAAdEAEBAAIBBQAAAAAAAAAAAAABEQAhMUFhcYHB/9oACAEBAAE/ECIAou0uhPffAMBqdnmumu/uCRJ1G4AgII2YpdEa8pzlFYF5imf/2Q=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/2c9425a4e3b59d8ed7d84da5dcc2d695/71fe8/exodus-visual.jpg",
+                                                    "srcSet": "/static/2c9425a4e3b59d8ed7d84da5dcc2d695/7dc0d/exodus-visual.jpg 113w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/96996/exodus-visual.jpg 225w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/71fe8/exodus-visual.jpg 450w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/8e812/exodus-visual.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/2c9425a4e3b59d8ed7d84da5dcc2d695/349c4/exodus-visual.webp 113w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/2fc71/exodus-visual.webp 225w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/cc14f/exodus-visual.webp 450w,\n/static/2c9425a4e3b59d8ed7d84da5dcc2d695/404fe/exodus-visual.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "fe796ee8-d6ab-5bf6-abb4-345e7d204a9d",
+                            "slug": "2021-11-23-hate-crimes",
+                            "frontmatter": {
+                                "title": "Hate crimes in Berkeley and beyond",
+                                "date": "February 03, 2022",
+                                "subhead": "A look at hate crime reporting over the last 25 years",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAC4jAAAuIwF4pT92AAACpElEQVQozwXB608SAQAA8PsnWg/nI82FiLqFIA95irwOjwPuOO7g7kA4EE4U5KnMgZIIDh+ZzUTNV8t0mmGbpqLLrWatPvWhvvTH9PsB9x7eF4m6+HxFc4vkSYuwjdPT1MhVyFQYPSsW6aoV8U0E/DLorg15rmlHDYMvHfCFCzmnsAuPE0A9rsryQD4tCfn7dFoVjydpqO/S90MIXZaJwBOH+yTv22GjP1Ijl6yfJRW7TtMlTZz5PTXWD+AMlRtXWPR1C7numQkhQwmMeoETMyHOuLALujEndrJ2ArI9xwP7kXDKi7yfm/1ZWbtbWvheyAMOhpqIySz6eru5WdP7KM22Dzpa3yzJM3GZFVRe48ndtNnmpE1ENqVUHsNslHAWKeLWS575SMDmoTZfgscb8hFv+6ivnSGehui2k01ljOEUp57VwqFKBEIcLtSZGZPIq/OydEwe0mi/2sA9HwpALrL6zvbr3BCk2tz21iGSU0jzV4vifJK/WhTN+VEz1IdjpJ2ctPPVf071rwp6AnNXacMBgwMmgjjattx90sl7HqqldePhzp0XvWpp3dZi799bU3nUIzFhqA0lqSxPYFtDhjIGNz48sR/uP6IxAKboo2349kP/fFaYCHWszIg+bqnNusbT7b5/3+CRqNmJGHFEWybiShmxB0WnVDQeih2ktIcuBEB9vvVl0I22RBneeLgzxXbOTQrWy9LDivL3FeRNKv1aTSltoL0O9QCzUoAzCRNMRs5LxisUB8jhYGlalwhyQzQX7GsIkJxEsAMBH0u7Hxxuyl/HXEGxNZuCgnG3CsStJEGzTCAQyiY0WzYrgPmZxZLRjzcScFOa5Z69VebGOjz2Zou+4WBD/jnjmwlOBsdmR4dJu0Wg6FEnTOEcMZ0EPVK+6D+TZgMV3knyIAAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b97978db20ccaddba1aa3f4d8fca4ba5/71fe8/hate.jpg",
+                                                    "srcSet": "/static/b97978db20ccaddba1aa3f4d8fca4ba5/7dc0d/hate.jpg 113w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/96996/hate.jpg 225w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/71fe8/hate.jpg 450w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/8e812/hate.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/b97978db20ccaddba1aa3f4d8fca4ba5/349c4/hate.webp 113w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/2fc71/hate.webp 225w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/cc14f/hate.webp 450w,\n/static/b97978db20ccaddba1aa3f4d8fca4ba5/404fe/hate.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "c9777845-723d-5a06-8612-9432030c6c45",
+                            "slug": "2021-11-22-rent-shelter",
+                            "frontmatter": {
+                                "title": "Rising rents",
+                                "date": "December 13, 2021",
+                                "subhead": "Displacement and density amid dizzying costs",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7zAAAO8wEcU5k6AAACeElEQVQoz02LaU/aAABA+293oIDZZCIRNBMTOWQKKiDQchWlVCqUqy1IKadAQURpsRwKZgWPBZe47dMWlyxZ8vLepwc8iNP+zb0wmgmj2WD83L+b9cbP3eEj3xP/57ov3o4mN7cTvidyPbEjiMJABH6/fH8c91uFDJujWOaUzWVYmmw2Lvj+tDuYdv/57/C1I7ye3d7kXrz/NXsEaiTKhF1JUIf5bCm3Me7fj4BbpTTB9SZ1tt0459km12hy7c5QGD50BPFuLL48TX9+m/54mgAnB9oIZKIO7aFwOI24YlgweXLIEIlcrkhF0UPoIOSHcMRPp9NtblSuXwWPMQyPJwkyR2eBqFNPo/YoZHa63UUcjoRgHPXjsLPCZOvFbJ6IlqhYOUtWC1kymaxWirVq8aJVb7GVeq0KYA5dOmhL+fcdIJgLu6OhABlBMhh8K/Dj68szmixQsW6r9nB3kyfwStgpnAZ5wnfGUMNBD4B3PocdetSu297ZPnYYQwEQR7woaGrXSq0KzbEFvl7k6yWuUU6FvfmQbZRD+hTMJNBGhQEQcDeLBxJ+C+RxRXx71q0NxGuLHVobRSa+b0lAtlI6XqbJcpGOHTlSvt1+FjlPeJtRkEadALxljDlsEbPJsWMJGvQptda3sRGCLMJlq3ISSO0ZhKsmBfsymnXPgcluVKc1a3EPdHYaOXKagXWlanNZZVapV1bUds3aF/WqQbEEWQzX3GWVOs4Ht7kLtkwkrjDMatVr9UpQq97c1Hk8Lo7wAe8k85J56ZxU9lYyL5UvvJmTvlYm+6RYWlUqjJqPi4sK5fKyanVNLpNJ5iTv5TKpbGFBJl9RfPgD82bSnraaAkMAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9f24f5f398490f5e769f475067a27c7b/43009/rentshelter-feature.png",
+                                                    "srcSet": "/static/9f24f5f398490f5e769f475067a27c7b/e464d/rentshelter-feature.png 113w,\n/static/9f24f5f398490f5e769f475067a27c7b/e434c/rentshelter-feature.png 225w,\n/static/9f24f5f398490f5e769f475067a27c7b/43009/rentshelter-feature.png 450w,\n/static/9f24f5f398490f5e769f475067a27c7b/338c6/rentshelter-feature.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/9f24f5f398490f5e769f475067a27c7b/349c4/rentshelter-feature.webp 113w,\n/static/9f24f5f398490f5e769f475067a27c7b/2fc71/rentshelter-feature.webp 225w,\n/static/9f24f5f398490f5e769f475067a27c7b/cc14f/rentshelter-feature.webp 450w,\n/static/9f24f5f398490f5e769f475067a27c7b/404fe/rentshelter-feature.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "a19972b4-acf6-5363-821f-99b5039acdb8",
+                            "slug": "2021-08-22-berkeley-guide-orientation",
+                            "frontmatter": {
+                                "title": "The Daily Californian’s Guide to Berkeley",
+                                "date": "August 22, 2021",
+                                "subhead": "Making the most of your year on campus",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAACTpAAAk6QFQJOf4AAAChUlEQVQozwXBbVPSAAAA4NV154dK5VTAFBgzYYjC5hhzbGOTwcY7Y042GALjZQgKVmhI3lFaeXn5JfXquvMH9AP6B/2xngdQFBWjdiGUXd0g3Ai9jrGeUNRPJch8mS7qrFLLm6fpUq3S6EqdUaExKNSPVfOkZJ4G0E0gUR5gaZ3j6TAVRklih2VQhkdjWa7UjOndWLWfP7mSG/39ektsDjLGoGC+V46nBXMcokkAP/iK6x+ae2ssvb5DrGXYlTzvjCcwLh6Rc2FV4VpmsdJsl1v1hBKK5wLxPabUFUVVjolpoHc2TRsjp8sBI6F5q93l8yNBmCBgUYiEEBe2tSwQFqOaZWPZV27vgn3Z6gQ9mx4xTuiVOnDz7VKUNYsNgiDPs5lZ0I+C7rVF2yqCkY7XASSa8xH8diicSOatTs+LedsS6HfCqK5I/cE5cHvz5e3ZOcNydpt9ds5iBb2ZiomSsZmXc4J2mDNGNtCHk1GK3l1Z33LBQReMVNTy5adrtTEAIiSjVIcElUawKATCDi/CZdQdVsBZUet/jCa1BTtEUByGkSEm49+mIW9Q02q5UoOMJgCOjh1MPlO65KQ23RRsdbufAIDPC/MZKXtoknLO4odxejdAkU8Xn7t8G3he26CYVdAdzahAKp4Suyd4RWabNaesWbYSHoShhHwkJfFdTTjS8VoxK5f4tkEZBaFq0vsHZFJSOhPz4gGQxPRFr/d7aLSLOlecVIc/7ifjn6Pu/dnwfjS8ezc4bbZoVgjTYiS21xlOL64fpw9/z2//HF09AuVyq94Y1lpjJtUTmnfS9b/Om++TXlvptqSO8WsyKCXFOSu0aAO9QbLeG8dzVYJXQE/QsuT4D02+uJ4IBmmbAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9bc14a019dc753b62a5e498908da8e4c/43009/la-vals.png",
+                                                    "srcSet": "/static/9bc14a019dc753b62a5e498908da8e4c/e464d/la-vals.png 113w,\n/static/9bc14a019dc753b62a5e498908da8e4c/e434c/la-vals.png 225w,\n/static/9bc14a019dc753b62a5e498908da8e4c/43009/la-vals.png 450w,\n/static/9bc14a019dc753b62a5e498908da8e4c/338c6/la-vals.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/9bc14a019dc753b62a5e498908da8e4c/349c4/la-vals.webp 113w,\n/static/9bc14a019dc753b62a5e498908da8e4c/2fc71/la-vals.webp 225w,\n/static/9bc14a019dc753b62a5e498908da8e4c/cc14f/la-vals.webp 450w,\n/static/9bc14a019dc753b62a5e498908da8e4c/404fe/la-vals.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "41372fcc-a28c-5105-b8ed-900738a272c4",
+                            "slug": "2021-07-10-redlining",
+                            "frontmatter": {
+                                "title": "Reading between the redlines",
+                                "date": "July 18, 2021",
+                                "subhead": "How 1934 redlining policies meet Berkeley's housing burdens of today",
+                                "byline": null,
+                                "oldLink": null,
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC3UlEQVQoz22SS28bBQCE/VO4ckE9VRy4AEXiUamq4MKBVDRUoLRNYscObqGIAs0pHCqoqKpCBbQRNPRFHLuJE9vr2Puwt17vbuy1u44fu7YTO06aJkKi9PChNVcOc5zRp5nxSTmFv58aQJ8firO88NthDi2+wSt/vk26fItyOwbPKvBPh+fPd+jVRNJyjtVUhoSQIb6SRNQMrP6A0mYP31p6jUElCXSZ165y6MHrvHb7HV6MvMrXq2HKdoRSM8rm1hoHe3k6VoqVhMCtqz+xcG+B32/cJHJ/kfXOJuWtPr5kNI557fIwUK7e4c3l47wcP8rh2Fsci77LvPI9ZTdGujRHoxOnW06SeVQkJSooZomVVYFkWsRwOpR72/iykkQpHGZv+Q/2D0yOPDjOh1eO8sH1Y7wUO4J/8TS9hoDWilAfpHCNZfSqTaW7RbHRwmx3MZw2esv9j1DIiNQmQ2z6p6nMXCQa+ojBaIClr8a4HT5BOvQJ3eA5GrOXMOU5GpVVDPkRqqySyEgIokIyI5ErWVjbA3yCpGJ//iW709M4/gC7k59SH5vAnZzCHR1nP3ieJxcu0Ds5QeN8GFuJYFbX0R9XUNYt1KpNvlwlt24NKX1ZzaR0P0Y7EMY9G8A5G6D58TidM0Ha40G6E1N0xkN0PztF7/IothzFKusYJRPP6wV5K4sFHb3p4JPyGtWdv9i4OY8zcorWmB9nIkQzOEL/m/fozY4w+PYET797n91rJzFvzHD3cY6HloqkaAhSjlRWpmBvUBns4BPVIu7eM1xFw/VP4QaCDELT9H++xP7DGQ7mz7H1yxmeqHM4nWXExSvkazZa26G40aRQqw/lDTMcxUNNLAkk7t1FXbqD+OuPrHxxESMbxzKyWGoCVYySURaQ1QhSagGz6VLZ3sHqbw8P7cm7zPDYXpEetiDnEfIa6YKOZNdQ7TqFjRaFukOx2aZYd9AbbfRme2j8P3mE/wIxfsK5258hZAAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/dd4ee750e0072cec0f874b46bff095d3/43009/zip-codes.png",
+                                                    "srcSet": "/static/dd4ee750e0072cec0f874b46bff095d3/e464d/zip-codes.png 113w,\n/static/dd4ee750e0072cec0f874b46bff095d3/e434c/zip-codes.png 225w,\n/static/dd4ee750e0072cec0f874b46bff095d3/43009/zip-codes.png 450w,\n/static/dd4ee750e0072cec0f874b46bff095d3/338c6/zip-codes.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/dd4ee750e0072cec0f874b46bff095d3/349c4/zip-codes.webp 113w,\n/static/dd4ee750e0072cec0f874b46bff095d3/2fc71/zip-codes.webp 225w,\n/static/dd4ee750e0072cec0f874b46bff095d3/cc14f/zip-codes.webp 450w,\n/static/dd4ee750e0072cec0f874b46bff095d3/404fe/zip-codes.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5d5d0150-1997-52df-9417-6d73e7132f93",
+                            "slug": "2021-06-18-uc-berkeley-pride-quantified",
+                            "frontmatter": {
+                                "title": "UC Berkeley Pride quantified",
+                                "date": "June 18, 2021",
+                                "subhead": "LGBTQ+ students by the numbers",
+                                "byline": "By Peter Zhang, Sanjana Melkote and Alex Zhao",
+                                "oldLink": "http://projects.dailycal.org/2021/uc-berkeley-pride-quantified/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAABYlAAAWJQFJUiTwAAACgElEQVQozwXBaW/SYAAA4P4b/4FfjFnUmGUx8W8YjV9NZjRZ5o5sLsZghtuMEgIBUq4NWOlBj7cHlBZ7bOUqjHNAoWywgUE3lszngfiaZdh2aTLJcUHaswI6M7E3zdv90rBXH7Uao2Zj1OxfVfrXleF12bQ7bO8W1CwMD5InBgR8m3R7SlcsxvsJqCpn3Wa6U9W6NIa2NrgU+/+E3kywZllrotmXojXlrDtQMomUj9JPIMG1yoY+8/51hk/x43u+O8O0PN2aEMUG1RinijVcBJTZYq056PxlGpecNQeFPEbB1GkZ4mMR/uB1zLW2sbcLUyRVrOAswhsqCpJo7jchi7TMoiBJ6AbXHidYkm1PhIIO0jG6WIM4zRLbIx0Qx5EA5t8C6SQmkDQXS4k0aE1Ady6ZrWy5Shp5KgdIKUU2R0JJZiSUrnYgRquHeFnk+cGpVJe8CBmmJTSnxPyJkMPjSncHWE6OcQowGlwqoqZTmm5KaYIGOK+bkMO5tfzhlTfwnRSIn54dl2sTYb25PCmoFM9HWzpbJg97ZLxHwFUqfJGO3sjwIB1pscGqyEDvV99urLzRiR941k+jezi8TdPu3tWZPWtoemrIBO7Lkftm+E8VtgrRSf1wboXv7PhtNzo+x6F977cdxzaXScQZF8a7haOvXCaglGjnwcYR8Eiq/8Y+nI0TV8OjvhVv97FmD+kMEvYFMhkhEKaoccV+t7b+4uWTZ4sLX3Y/ymf4r/3lpUcP3HEnpYQ4Laifs9mGnKkrZN7EjCpjGlId6G0cYgzFCZNPnj58vrSwtPjY7V1TTpHisQ+BHaYQ5+VgMuOLywU0N2BAjcNNmqqiUh/ROrhu/AdJBfRMnX9d/gAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/1fbc70dfdb30cdca2d75e817c29bbd75/43009/pride.png",
+                                                    "srcSet": "/static/1fbc70dfdb30cdca2d75e817c29bbd75/e464d/pride.png 113w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/e434c/pride.png 225w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/43009/pride.png 450w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/338c6/pride.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/1fbc70dfdb30cdca2d75e817c29bbd75/349c4/pride.webp 113w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/2fc71/pride.webp 225w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/cc14f/pride.webp 450w,\n/static/1fbc70dfdb30cdca2d75e817c29bbd75/404fe/pride.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "f72d9a60-bda1-5d1a-8175-33989365bfe0",
+                            "slug": "2021-6-14-online-classes-suck",
+                            "frontmatter": {
+                                "title": "'Online classes suck'",
+                                "date": "June 14, 2021",
+                                "subhead": "Examining grading trends after a year of pass/no pass policies",
+                                "byline": "By Shannon Bonet, Ji Yeon Woo and Connor Lin",
+                                "oldLink": "http://projects.dailycal.org/2021/online-classes-suck/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAADGklEQVQozy3GW0xbdQDA4eP0AbfosilDiUNrCAuj2ywO2tICLS2ndy4FhjjSmeEYNUoi0URfNFETs0Sj0WQPLtHES0zUZVlkqyLq3CYjsEkYm7SwlbbAaG1P/+0pBff0MxofvuSTTkTm+Sh6i1PLcb5YW+WbdIozSobvRZZQXvBjXjCmCsbVHD+pgrG8ICQURpUMZ9N/8e3aHb5KJPgsepuTkTDSJ5EwX8ainF5dZjSVZExJ84tQuJgXXM4LJtTc/wS/q4JLecFv+Sy/CoVxJU0oleTs6jKnY0t8vbiAdD4WZzyxzMW1O0xm0lxTFGZFljmR5YYQ3Pj32SzXRZbrOcFMTnBNZJnOKlzJpLmUTHJhZYXx6BKhSATp89Fz/DBzlQsL80xGo8wm1win0yypKvH1AsvrBZIbRVYKKreVDAuZ9H8WM2nCqRRzqyvMJOJM3VpkIjyPpK05gNxipa+3i942Ly8MPc8rLwV57923OHniHU598D4T01P8cXOWYrHI3b/vslHcYF0tsFkssrmxicgK1FyOK5OXkfbsO4h2/9PoTRbMLTJWuxO77Mbhacfh8OJy+2j1deL0uRk9d4Y/528Si8coFFRi8QQ/j33HzFSIuavTvPHaCNJTxhaMVhe6+mb0Zjtmi4zN0U6rpwvZ202r24/V7mFPlRZrg54Ol4OR4BCffvwhRw8/g1VfTaDbjM/nx9hoQ3rigIkGmxddfQP6JhlTSxt2VxfNchs+fz+ezmdx+XqorNSiq9lHU50B2VBLb6sJg06L0WxlcCjI8MjL7G+WkQYGj2JsrKdaW05DczVyuw2bv4862c9eo53Gjn4s7QEqquox1Bk40tVJf083poM6SsureESjJXioFr+zll27K5E0lRru3fYAW7Ztp2TnDp6sLkXfpKHR7cbu68PtNhPsNxI84mD4cD2vvtjH0NAgw4FGfBYNLpuW1597nIEODU5TDZJ031buKXmQLVu3I5XsRLp/F4+WP4xHrmH4WCeHbBW4jKX0WMrwGsoI+qsJWB6jx7iDY86HePv4bgb8ZQT8Fbx5XMs/JmY4mM399KEAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/88725617da17d17fc04b88d3ba455599/43009/pnp.png",
+                                                    "srcSet": "/static/88725617da17d17fc04b88d3ba455599/e464d/pnp.png 113w,\n/static/88725617da17d17fc04b88d3ba455599/e434c/pnp.png 225w,\n/static/88725617da17d17fc04b88d3ba455599/43009/pnp.png 450w,\n/static/88725617da17d17fc04b88d3ba455599/338c6/pnp.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/88725617da17d17fc04b88d3ba455599/349c4/pnp.webp 113w,\n/static/88725617da17d17fc04b88d3ba455599/2fc71/pnp.webp 225w,\n/static/88725617da17d17fc04b88d3ba455599/cc14f/pnp.webp 450w,\n/static/88725617da17d17fc04b88d3ba455599/404fe/pnp.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "b4167996-8fa1-5dfb-bd64-3fa1b2459535",
+                            "slug": "2021-06-04-150-timeline",
+                            "frontmatter": {
+                                "title": "150 Years of The Daily Californian",
+                                "date": "June 04, 2021",
+                                "subhead": "Examining grading trends after a year of pass/no pass policies",
+                                "byline": "By Alex Zhao, Maia Alviar, Jocelyn Huang and Jordan Harris",
+                                "oldLink": "http://projects.dailycal.org/2021/timeline/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAACTpAAAk6QFQJOf4AAACqklEQVQozwGfAmD9AId5b7uupZaCZZKFaLaxpH5qUZGIYkIxJE4lF4JbRnFbTXpkVnxnX0c1KFE3IUUcDi0qJ5Gtq3KamCxMSQCnnpPFu7CikXyhkXu/vLGUhFyvon2fiWRHHg16Vjx2YkJ2aE5WSTc9NiVhUzY7Lh1JZWCbwcJbgn07T0oAurGkva+etaedoJB+ta2anYRgsJ15p5FkXDYfbWBMY19Dam9eZ2pQXW5SlJZzX19QR2FdeZSLV3h1d4eCAK2bg3ZYN5aDb6adiaykkrGol7esnamahKaRdqeZhqKYgZ6Yg6mok6avn5ugjYOGdHuLhWqFcVx0blthVwCBdGBUSDdcT0Gonomro5GzrJ3AuKuDe3JXU0vBu7PMxblwbGNcXlyWl5NjYVFYUT6SlIlieW83TkRfX1QAcE4sc1U8XUIroJeBqaCNsamYs6ubqp+UbV5NurCk7Ofita6ilo+Curq7dG5ia2tZsLi6rrKyfYR1ydLWAGUzE1wgCF05I5WKb6OYga2jkK6kk7eoloRnSIRvWczAsqOUe5aEX8rGu3dsW3BZMqSglLOurGRdRoSMgABcOCZiPjFXNiGEd1aajHGmmYKpnIqzo5C2ooivmHyzoIesmX2tmXzAs5uZg2xWGABUGgdKGgs7EAJuYE0APBAISSABVy0AZ0AojoJknY5zn5B3wruy4d7a1tPM0s/I0s7Gz8zFvb+zfWJFTAsARhQFRBIEQA4BPTAnADINBFYdBl8fBW8mBIFdNJCEZpeIbL62ppaJebCkjbage6iOYp2AXKycf5V/a3U7JIRZQnlPPE4YCFdAMQAPCghAEARMEwRqJQZzLghdPiNoWzKBdVpSPCOpg0mbdDd/ZTVWQCrKtqCKemxrOR1oMxZZKBZDHQ81FQljsymmpXaNBgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b17a088eebbdd9975662b23feae2a3af/71fe8/150-timeline.jpg",
+                                                    "srcSet": "/static/b17a088eebbdd9975662b23feae2a3af/7dc0d/150-timeline.jpg 113w,\n/static/b17a088eebbdd9975662b23feae2a3af/96996/150-timeline.jpg 225w,\n/static/b17a088eebbdd9975662b23feae2a3af/71fe8/150-timeline.jpg 450w,\n/static/b17a088eebbdd9975662b23feae2a3af/8e812/150-timeline.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/b17a088eebbdd9975662b23feae2a3af/349c4/150-timeline.webp 113w,\n/static/b17a088eebbdd9975662b23feae2a3af/2fc71/150-timeline.webp 225w,\n/static/b17a088eebbdd9975662b23feae2a3af/cc14f/150-timeline.webp 450w,\n/static/b17a088eebbdd9975662b23feae2a3af/404fe/150-timeline.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "075cac0b-3feb-581e-b4aa-3719afdbf89a",
+                            "slug": "2021-03-01-admissions-audit",
+                            "frontmatter": {
+                                "title": "Admissions audit explained",
+                                "date": "March 01, 2021",
+                                "subhead": "Diversity and privilege in UC Berkeley undergraduate admissions",
+                                "byline": "By Vyoma Raman, Kaylei Nilson-Pierce and Yasmin Gehman",
+                                "oldLink": "http://projects.dailycal.org/2021/audit/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAADBklEQVQoz13Lz09bBQDA8XfVg4uih0VtFmYCCRPHlMVkGwvEaUx0/shwWaGUtlDoa3ktr6/Q19K1paWsa7vOlqKD6rBFKiRQBiPABnYq2ZwBRkcXf3BZ/Ee+Zh48ePgk38tXcP+ww+VihdBimdDCDuHiDiPFXcLFXUL/M1J8xOitR8SWyySWdgnfyKJIzXgtL2K58ALBnkMIU2u/kJ3+nujsPRKrvxNf2Se+tEt8+dm495/48h7Xbu+RXCmTWn1MZr3CtcJtHNI5JGMdRu1JIo5ahKebKZYyCsOqjVQ6SWbpPpnNA9LrFdKrZdJrZcbWHv/rWY/f2efruxUmSwd8NTfH1VSAK9Fehl0NxH0nEFZSIklfN3aLjhvBbsIBF4mbBbLr22R/OmCi9AcTG/tkNyssPqhws/SEb3+sMHXvCflSmYlcglToNKLhGJ0X6xFmMgFiES+iaMbvtmE1t2EXO4iFFPL5LIX1n8lv/cXs/T/Z3siRv/OAwq9PmXv4N9NzX5IcqmFstInx4eME7PUIHo+Cy+dH2/Ep0YiKvqsTg6kdq1mLz64jFRDJTSRYvbvCb4sJ5kvbTM+PMTM/Rm4mRmqkmanEWaLuI6i21xGuR1TC/s+IKBrUoV6MohV5sJ++vm4cNgNuqQO/o53JkJnZ6zILG1vMTX5IyqPBbGigt1ODs+c1LrUeQTQcRnArHYSVekacbxC8rKdPdWMflJEH7AyqMl5Vwqf2Meqz8U1cYTzh4buQhqRche6TOt6pr6KlpRFdawPaj6oQPv+ihWGliZByih6bGbPsRBqQcQ5KDHhkXG4HXq9MKOgiNqriH+ojKr3MQuAYy8Hz5Cxv0tZ8lNMNh9B9oEE4895hjO11mPSNBCMBOkxGRFlG6reiuOzIrn6UwX58Q07CASc9Yhc+Yy0PrzSyFWmhFHkX6cJLGM4/x8dnn0eofusVao6/yttNJ9AaDLR1dWOyWDB1XsQqdiHZRfplG5K9F4/qxGC6ROv7R7lqrKXgOUXaUY1qqEbWn0R/roZ/AJSWI/3EwiJaAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b5091a239877441f8907e1e9d7d5f5d2/43009/admissions.png",
+                                                    "srcSet": "/static/b5091a239877441f8907e1e9d7d5f5d2/e464d/admissions.png 113w,\n/static/b5091a239877441f8907e1e9d7d5f5d2/e434c/admissions.png 225w,\n/static/b5091a239877441f8907e1e9d7d5f5d2/43009/admissions.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/b5091a239877441f8907e1e9d7d5f5d2/349c4/admissions.webp 113w,\n/static/b5091a239877441f8907e1e9d7d5f5d2/2fc71/admissions.webp 225w,\n/static/b5091a239877441f8907e1e9d7d5f5d2/cc14f/admissions.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4599ee29-846a-56ce-a4ce-433938f357f6",
+                            "slug": "2020-10-26-voting",
+                            "frontmatter": {
+                                "title": "Who votes at UC Berkeley?",
+                                "date": "October 26, 2020",
+                                "subhead": "Comparing voting rates",
+                                "byline": "By Alex Zhao",
+                                "oldLink": "http://projects.dailycal.org/2020/voting/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAC4jAAAuIwF4pT92AAACqklEQVQozwGfAmD9ALWZes+3oMO4t6CVk5CMkqGuy8TV97/E1evv9fP2/OXl6/////Dw9MnEuLCaaa6tssvS49nX2NXe68HR3AC1srvg4OX0+P/Mx8Wnl47SysrgzbzYxLLGx8/T2OLm6Ova7vbI2d6trqOci1qqrraqvNbCxs7k7v3K4vMA293l1dja9fb54djStrPHzryu7NzIyLqxnpeQvs7Jwc/Ywej/t9rphpSZhnZJlp6urbrRu77F4ez/rMriAIeSmpeclM7V4tzMw6mfqr+6utPU1qWlrJ+nsaG/xaizvZN+c2paTYONkKydddna4rm+wLGws+Pu/6m70QCljXyqqqfV09OObFWylIPr5N7ZyLPXxK7j18bEq43cyrXjx6zav6bp3c3y59H+9OP359H65Mjd3+qUrtAA69St//XVzr6en3RKo3tW/Pbj/+nP/+DA/+C9w4lRx5hv//fh/vjm//Tf//Tg/vDa/ezV/+vKu7e2WHynADQkFGtfRI2IW9risenVo/Xew+Cve+Gsd92ue8+lc9epevrfwvrq1/vr1v7s1vzr1PfiyP/kwLaqoY6KjAA0IQ8NBAKEjFWVmGDlz5Lxx5y6jU2whkWxhUWHYy6qf0r51LL56dX15M/26tX/8tv55MzmyaiMemvQnFoAJxwOFAgDaHBBfUMO0X452apximYvhWAsf2A0gUocvG8y7cun/+zUy7agdkY3XDMzR0I8GRgYZk8zxZVLAE8xCwAAAEA/JEw4FmY5Fn1gPGxLI2xKJGtMKYI8FK1GAuexgurZxJmQglVIRCgGAyQXCgAAAFJEI1lAGwA3IAQAAAAmJxZxZS5/SxBsRx1xTSd2UilxTSdTLhNbOyJeVU01OTopHhdPNiNXOjE0JhkaDwUWFg0YDQFJ2JcaaDOIFwAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/679a467479ee635e6db2ebefeac0a3bb/71fe8/voting.jpg",
+                                                    "srcSet": "/static/679a467479ee635e6db2ebefeac0a3bb/7dc0d/voting.jpg 113w,\n/static/679a467479ee635e6db2ebefeac0a3bb/96996/voting.jpg 225w,\n/static/679a467479ee635e6db2ebefeac0a3bb/71fe8/voting.jpg 450w,\n/static/679a467479ee635e6db2ebefeac0a3bb/8e812/voting.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/679a467479ee635e6db2ebefeac0a3bb/349c4/voting.webp 113w,\n/static/679a467479ee635e6db2ebefeac0a3bb/2fc71/voting.webp 225w,\n/static/679a467479ee635e6db2ebefeac0a3bb/cc14f/voting.webp 450w,\n/static/679a467479ee635e6db2ebefeac0a3bb/404fe/voting.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "28631a89-af47-529e-a004-dfb96f808dee",
+                            "slug": "2020-10-12-police-stops",
+                            "frontmatter": {
+                                "title": "Police stops in Berkeley",
+                                "date": "October 12, 2020",
+                                "subhead": "Disparities in law enforcement",
+                                "byline": "By Alex Zhao, Purva Kapshikar, Aditya Katewa and Catherine Hsu",
+                                "oldLink": "http://projects.dailycal.org/2020/stops/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9AGxtaW1qXGliVoqJhqejmnhuX4N7bJySgY6EcNnTw+/r5PXx6fXz7e/6++/9//L9//H8/+z3/+74/+35/wBoZVxoY1x5dnGAfHSakYGFfm+akoLNxLXEvKvSzLza1cHm4dD79u709fDz+vr19fL69Oj78d756NL68NwAnpuVr62niYV/YVVJkod3dm1fg3hnk4h3opeCwLWYr6WEw76j2dvWwsXF1c/E7+HB/ua0/uW7/ebF9OXCAJuNe93Z0bKpnsC4rsrDtrGnl56Vh6ykkpSQe4iHcoubnYKSnl1remV7jIWUo621td3ToPXdl97Mp7etiQCdi3rAvLawp57g4N2xr6eLh3+FhYGPko1yfHR7i4prfpJMWGVkaGqCh4iprKmNj5mkq7PdzJjmx53Yx68Ac2tic2hdREE8KSklQ0JBfoOKnaGkgGtbPTs9P0VQSlJgQENIjo+LubOkqJ+OeXNra2dlsqiV0L6LzL2iADo0LGRUQyUmJR4dG1pcX5edpYeGhDozLRgYGB8fHhsaGiAcGISBeqadiZOKd3RxbDkyLHNpXcSzmZKIfgBNQzdeVEgWFhYgHRlCQD9jY2NFQz8UFhcUExMgHx4fHhwPDw5GSEetrqmNjYhUUU0yLitiWlSCgIF9e3oAQDsxTUdAGBcVKCEcQj47X1xZR0ZDGBcXGhoZJSUjMSwoJyIeJCMhKywpFhYVHx4eJSQjUk9NcnJwcXFxAIp4XVdINx4cGhgXFj06OU1KRi0rKBoaGRoaGSglIj42MTEpJRYVEyEgHDw7NVVSTWFfW2ppZ25tbG5vbwDrwI+3lG9MQjYrJyInJCAeHRoWFRMSERAYFhQfHhsdGRYxLChPS0RoZV5xbmhycGxxcG5ubWxsbGxra2xlqjZED5rrfgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/95a1b649e0c37a99490673d3114b2ded/71fe8/police.jpg",
+                                                    "srcSet": "/static/95a1b649e0c37a99490673d3114b2ded/7dc0d/police.jpg 113w,\n/static/95a1b649e0c37a99490673d3114b2ded/96996/police.jpg 225w,\n/static/95a1b649e0c37a99490673d3114b2ded/71fe8/police.jpg 450w,\n/static/95a1b649e0c37a99490673d3114b2ded/8e812/police.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/95a1b649e0c37a99490673d3114b2ded/349c4/police.webp 113w,\n/static/95a1b649e0c37a99490673d3114b2ded/2fc71/police.webp 225w,\n/static/95a1b649e0c37a99490673d3114b2ded/cc14f/police.webp 450w,\n/static/95a1b649e0c37a99490673d3114b2ded/404fe/police.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "fb7d1681-2882-5995-8f3a-2d0c7752f3f5",
+                            "slug": "2020-09-13-diversity",
+                            "frontmatter": {
+                                "title": "Diversity at UC Berkeley",
+                                "date": "September 13, 2020",
+                                "subhead": "Admissions, enrollment, and retention",
+                                "byline": "By Alex Zhao",
+                                "oldLink": "http://projects.dailycal.org/2020/aff-action/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9AAkOAwYJAgsOBAkLBg8TBg0XCAsSBAoaBxwqExwpDyc6DWp4Wefw/7G5uIKNkOf0/9rm8KGzwba9x3R4ZQAIDQEIDAMKCwUSFgYYIggTGwUdKQslMRIcKRYhMBInMQ9WYyqZqZyPlYtpc3DM2ePo7fCSmpSvsqaak24ABw0FBg0DFhUPFRkKEx4FHywJJTYJNjwcKi8YHy8YMD8jTWIxV3Q9b39oZnJxlKKy7O7slZBvpJh8ppppAAkMBgUJAh8aFxwdEQsSARclBiYuFSAjGxEXDxomGiY4IjhPKUhjLWqBUlNjYHKCo9fc1p2bc7eoe5WOWQAODwsLDQkbGRcdHxIMEAMeKAkpMBkTGQ8NEgolMCEwPCUgMxg7UiZbcD1cZ1JxemSYn2uVj1uWjWGMiVcAGBgWJy4nKCYhJCIZGxsNISATLSsgLjIgPTwlOz8cS1QoPkgeO0spSFlCiZJeh49TgIlJopl72sm1p5x9AC4xMiEkHxYTG15fLFZgHVFNLWxqRG91U5WJRYF8L5WVQKGgQm9yWDdBR3uHVH+LWoGKVX2LVomSaa2mlQAlJisQEBMSEBNHRDBAQStaUERbV0xsbGtYWVBRSzhaWE1NSjhXU1phaGs8Uz8xTDxUa2F0iIJYbGRgemYAGhogAQIFEQ4MJyg2LzlBUFBdS0tZcGh3XT1LNS0zVlZpR0tfNDdUZ3WEL0o2K0szNFZDMFFDLEs7IkErADs4OhUUFAoHCDk7QE9TWlBRVUtISmVhZXteYUlLVldfdFRgdy04WCsySUtcZjhZRiE5Mxs5JhY2IRc0IQAvMjohICEMCw06OkBITVxKUF9TV2VYXm1SXXJOV25OWXQ+TGoeKT4JER4kLkFIWW4lNT4pQEAkOzgjNzWdbb5Y69Q9swAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/77d99ba4fe6030af31b9d2c0b2089414/71fe8/diversity.jpg",
+                                                    "srcSet": "/static/77d99ba4fe6030af31b9d2c0b2089414/7dc0d/diversity.jpg 113w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/96996/diversity.jpg 225w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/71fe8/diversity.jpg 450w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/8e812/diversity.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/77d99ba4fe6030af31b9d2c0b2089414/349c4/diversity.webp 113w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/2fc71/diversity.webp 225w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/cc14f/diversity.webp 450w,\n/static/77d99ba4fe6030af31b9d2c0b2089414/404fe/diversity.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "7fad65f3-80fb-5e72-80de-55173e23f3c1",
+                            "slug": "2020-07-24-college-plans",
+                            "frontmatter": {
+                                "title": "Mapping College Plans for Fall 2020",
+                                "date": "July 24, 2020",
+                                "subhead": "How does UC Berkeley compare to its peers?",
+                                "byline": "By Alex Zhao",
+                                "oldLink": "http://projects.dailycal.org/2020/mapping-covid-response/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9ALTC1bjF2LvI2bzJ2r3K277L3MDM3MLM3MXN3MjP3cvS3c/V3tLX3tjd48zM0l1dWJqamjg1MSAcGGZlYAC+ytvBy9jCztzEz97Ez97Fz93I0N/L0t/M097P1d/S19/W2uHX2uDq6/GSkZEZFxArKyU2My8mIiAlIx0Aw83Zp5yZx87ZzNXg09rm1Nzoz9bg0Nff09ng1dvg2Nzi3N/j3+Dj7e3wgn9+OTUwMC0pKigkKSckGBYRAMjO1KGOhdPa4be7wHJwboyNjNHX3Nfc4drd4d3f4+Di5OTk5enp6efl5F1YUz87NXp1b0hCPSolISYiHQDQz867pJiytrhlY2E/OzVJRT/LzMzf4eHe3t/i4uHm5ePq6OXr5+X8+PR1cGg1MCiFfXJxaF07MyxaUUcAxryxyrGikZCLPzs3TklGNzQvr6yk9vTr8e7k9fHn9/Hp/fbs///08u3iWVBEPTUsTUM1eGtYUEY5Sz4wAGhPN6KIdXRqXExEPUtDPS0pJJGCcNnFt7Gflc+6q9zGs62fkrWmm8CtnltNPikeFko6K5F6YndgSy0jGQA2KRkiHhUWEgovJRktJRwYFxNBNyt+ZFd6aWRzaWdjW1tORUdkWFZIPjkuKiYTDwsXEw4eFxEXEg0NDAgAExEMEhEMExIOFhMOGRcRGBgTEhMOQi8ZTz4wSUpGPj46LSsjTkg9NjEsPjo3FBIMFREMGBcTDg0JDgsHAA8OCg8PCg4OCRUTDhQSDh0bGBcVEFpWVF9YVichHCEbFRsVDxsVDRoXDx8eExMSDBEMCRUSDA4NCA4MBwANDAgPDgoPDgoPDgsQDwwVFBEPDwssKyI9PCoTEQ0TEA0UEA4VFBAZFhEZFhARDwoNCQcRDgoODgoLCgR0vRzqetaBJgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/df134a38f04092a0ea18af170f7a2007/71fe8/college-plans.jpg",
+                                                    "srcSet": "/static/df134a38f04092a0ea18af170f7a2007/7dc0d/college-plans.jpg 113w,\n/static/df134a38f04092a0ea18af170f7a2007/96996/college-plans.jpg 225w,\n/static/df134a38f04092a0ea18af170f7a2007/71fe8/college-plans.jpg 450w,\n/static/df134a38f04092a0ea18af170f7a2007/8e812/college-plans.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/df134a38f04092a0ea18af170f7a2007/349c4/college-plans.webp 113w,\n/static/df134a38f04092a0ea18af170f7a2007/2fc71/college-plans.webp 225w,\n/static/df134a38f04092a0ea18af170f7a2007/cc14f/college-plans.webp 450w,\n/static/df134a38f04092a0ea18af170f7a2007/404fe/college-plans.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "40b56f4c-f189-5801-98f4-aa2e8f07a16e",
+                            "slug": "2020-06-22-post-grad",
+                            "frontmatter": {
+                                "title": "Where do UC Berkeley students go?",
+                                "date": "June 22, 2020",
+                                "subhead": "A look at the lives of UC Berkeley students after graduation",
+                                "byline": "By Alex Zhao",
+                                "oldLink": "http://projects.dailycal.org/2020/uc-berkeley-students-after-grad/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC7ElEQVQozx3S229aBQCA8ZNMKONSruVygEJ74HApUC4tPUA5nAKlXORStrFWmXNxl9ZN51waOx7strjMzqgzbnsyGh9NfDfGP2vT18+EP+CXfA+f4LKacVkt2Kw2nHYHPqsTs8WKw27D43aRiEloyjqi6Ef0B2ipJVpKHr/PixQSaeQlZpMe353e4dnsPoLbbsVpt7NotmAxm+cwshJGLebIrMlspCN0tU36LYUb+zsU0glEzxLZWBivw0Z1K8R0uMPn1w65PWwguBwO/IEgPtFLPC5T17bnYNxQ2FHWKWZTuJdc5OIB2pUs9w5H5JMygiCg110gsSaj1qpEQkGu1tIIxUqF9mjApck+jVqZtlYik5BIRpfRSgWK6SiroQDjfpeD/TZ1ZYPP+irNgkRVq9EfjWjutlhLRBj0+gjtfo9Wr8Pl9jbTcYd+d4/pqMXN90scDzXqdQ2t0+Xx6Ve8Pv2YrOxnUIlz9yBLOJZitz9ieuMWSknFE4gjfP/khOcvnlHbyvLr2TEn1xvcuVLlaFxEVdbRuiOURosfX/7E2//+5eeXT3kwDhEPLWIy26iVimRScSIRGYvdjfD0y5v8/WrGQa/CyafXmPSKXN0vcf71B/hXoiSzeUJRmelH1/nrj9/55dW3TPYSOJxWpFCYN4+OeHR8gG95lWBwGeFeXeOLy0POzx/z7t1bnp+dMh602WnUySvb9Joqn1zp8sM3M0S3j6EqM+iU2SqXEcMSUixBJJZkY1ujWd1E0JJZVFVht17m4d1j8tkMriUPmWKZZDJBoZjjnz9/4+zhETqznVHJw2QvRaW0ieGiCb1ej8XpZ/ZgTKteQIgm4kSkMD6PG73BON/B5nQhhlbw+nx8eDjhyf1bGA0LRCKr1DZirKckNgtpjBY7hosGBOECty9FkQMWBJdXZNHhQrdgxGha5D2dHp1+AbtriXAwQCouz79c0OvZKubQlBS5jES7qeAXvZjNpnnEYWeFZa+J/wGMx28/eO3L6QAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/97341f10c51bc86f600d5a2af8de9b16/43009/grad.png",
+                                                    "srcSet": "/static/97341f10c51bc86f600d5a2af8de9b16/e464d/grad.png 113w,\n/static/97341f10c51bc86f600d5a2af8de9b16/e434c/grad.png 225w,\n/static/97341f10c51bc86f600d5a2af8de9b16/43009/grad.png 450w,\n/static/97341f10c51bc86f600d5a2af8de9b16/338c6/grad.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/97341f10c51bc86f600d5a2af8de9b16/349c4/grad.webp 113w,\n/static/97341f10c51bc86f600d5a2af8de9b16/2fc71/grad.webp 225w,\n/static/97341f10c51bc86f600d5a2af8de9b16/cc14f/grad.webp 450w,\n/static/97341f10c51bc86f600d5a2af8de9b16/404fe/grad.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "2e245c07-f8c7-5d3e-be10-d4befa53ac17",
+                            "slug": "2020-05-17-graduation-2020",
+                            "frontmatter": {
+                                "title": "Graduation Issue 2020",
+                                "date": "May 17, 2020",
+                                "subhead": "Light at the Tunnel's End",
+                                "byline": "By Josh Yuen, Sakura Cannestra and Kaitlyn Tseng",
+                                "oldLink": "http://projects.dailycal.org/2020/graduation-2020/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAC4jAAAuIwF4pT92AAAC80lEQVQoz0WO229TBQDGz3+gT2IiwoIiAbp29t7u9JyeS3tGT7u29DLY2jm61gDOYSdLRpSQEH1ZjMbLUIkZEEM0YrwQeFlIXEJge1AfSHzAJYKMbLChzuDMsnNOf4YZ45d8+fK9/PIT4lInndEg4ZCPkN9DNOAmo3TQ2+VhT8xFXvPQq+8iF9nCyP4o4yN5Th5McijroaJs40DyWY6U/BTV3YieNgRDi7NHjyGLQWIRH2LQgxx5npwepJLyMdYw+HRilOtXJlm4Nc3DP26ytrrM6soSczdmuHj+fZpVDTO8FcXXhrA3rVEwFcykhCaH0OUAaT1CIh6hbPi5evkDbOcu8DtwD1gG/gYc/stffz7g5YpBeOcmhHI2wV5TI23EMZQIKe0RLMqrgyZ3Ljdg4QIt7mOt/4rjLOI4Szj2fRxnGdtewbLWgBZjQ1Xatz6GUMokyKfiJLUYhhLG0ERGalnmLtRxZg/y8HqT1trihknL+d/qEaTVcnAce+O9NnwAd9vjCLmURkKVUOUouipxtJ7jx8kBFi4OcufrGitTNW7NTLI0/xOwjm1bWOtrG2vb/8KwVjn6Yg+eZ55AMHQFTZFIJnUafWmuftTP7S8H+fmzAea/ajD1Xh+jNZ35qSa3527wxoljnJ54i8/PvItlObSAs+OHKUg7CLi2IShyJ8lEgqGKyTfHTWbfKfLDRA/fnyozc7pKrxmgnHSz+N0on3z4Jm2bNxEL7qKQigK/gXWXoV4ZLbgd386nEVKGRjlncO54lm/HS1x6ex/TH7/AtXMNps/UmT5bZ/Z8jV+uNHmlnmDL5qdIKR0ooptrl47xxakBmpUoptyO/7knEXq6dSp5lZf6NY7UDcaGspwYKXFytMzrw3nGDmUY7k9Q7AoiBnYjBlzIIRe62E61O8T+dIByyr9R1bsdYZ8ZppYLU81GKRQ0isUkpZxKsVulS+1El8JIYR9S2Isc9ZJWOujLBOjPeKlnvTR7/BzOe6hn3aRFF/8AuRwYORz2dbIAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/5893eb11689b5824389225911e5a13ca/43009/2020-grad.png",
+                                                    "srcSet": "/static/5893eb11689b5824389225911e5a13ca/e464d/2020-grad.png 113w,\n/static/5893eb11689b5824389225911e5a13ca/e434c/2020-grad.png 225w,\n/static/5893eb11689b5824389225911e5a13ca/43009/2020-grad.png 450w,\n/static/5893eb11689b5824389225911e5a13ca/338c6/2020-grad.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/5893eb11689b5824389225911e5a13ca/349c4/2020-grad.webp 113w,\n/static/5893eb11689b5824389225911e5a13ca/2fc71/2020-grad.webp 225w,\n/static/5893eb11689b5824389225911e5a13ca/cc14f/2020-grad.webp 450w,\n/static/5893eb11689b5824389225911e5a13ca/404fe/2020-grad.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "0cd6cd28-cbb2-5427-8f54-5fe71d1bb219",
+                            "slug": "2019-03-18-berkeley-rent",
+                            "frontmatter": {
+                                "title": "A Comprehensive Timeline of Rent Prices and Legislation, From 1978 to Today",
+                                "date": "March 18, 2019",
+                                "subhead": "Reckoning with ever-rising rents and a lack of legislation",
+                                "byline": "By Purva Kapshika",
+                                "oldLink": "http://projects.dailycal.org/2019/berkeley-rent-timeline/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqElEQVQozyWNbU8SAQCA709UX5puvpAOBI6QFwlCw6WZQ0VFeRGaLxkY4MtaLTEFEdZya840y3Q6J2I6tTRRI0SOOyHkPO5AhAPFX9LM7dnz4fnyAFDkDEYTEJoIoAnoNOm/AUv5MRKKkjCeRvA0jKfhaDpEkCGCPMbJIJ4KR1N/o0ngNE4S5xk8kcHPL/DkJZG8jKUuY6ksQV4R5FWcvDojsze+jqkskcxiiQs0ngnHMoA7gB8gsT2E2IXxHQjfOsI2vOi2H/MEY95Q3BuK+8Jn/pPEYThxGD5DsGQklkHjaTSevj5PrEHjK76JNWhqE5n9eTy/Exxf8Y2veD9vQnPbyPw2vLQbXNwNLu+FNrwnBzDmQaK//9sTwIDZ9cOFraPlnYDzF7z4A1pzw+v7xxuekNt/sg9F3P7IPoQeBE59wWggjAdRAongSASHw9E/SAQwjn4dcMz1O+b6HPPGsW9vPiyYPy6NfnLZplz26VXLpNMy6RydcjlmvttnVt9/WXXMuOzTrrFpl2XSCbTohxQ9w4qedy36IbluUK4zt/VaNX02lXFEaRhWGi1Ko0VlsipNVlWvTdtvV/faVKYx2XOzymAFOBJpZYP2cXP7k9YOqVrfqDGougbkHf3al287DYOtna+6+0a6TWZ110CTWieukklqZAqtXirvbH1mAHKozAJmaVEpn8YTCyprK2vlDxtU9YquZo1ertEptS/qmtrYwqoiJp/BLmNxhTwuvwTkFNB5ORQqkA+COVR6HoOZS2UWgCy6kFfME4gk1dXSxvIqKVtQQedw7vO4FCpYxuOXi8UskF3zSFgh4OYVFgL5zJK7xbRcGoMCgnkljHssZhGLRWGwaDw+VySS1T0VPOAWU2miMvbr9nq9skZRK9K3SCo4jNt3bv0DD4dmvzC/4iUAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/2379fddc098377f0c8b8784b7b9e3b65/71fe8/rent.jpg",
+                                                    "srcSet": "/static/2379fddc098377f0c8b8784b7b9e3b65/7dc0d/rent.jpg 113w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/96996/rent.jpg 225w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/71fe8/rent.jpg 450w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/8e812/rent.jpg 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/2379fddc098377f0c8b8784b7b9e3b65/349c4/rent.webp 113w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/2fc71/rent.webp 225w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/cc14f/rent.webp 450w,\n/static/2379fddc098377f0c8b8784b7b9e3b65/404fe/rent.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "819523ea-5670-5f82-a458-2359b0c7831c",
+                            "slug": "2018-09-22-peoples-park",
+                            "frontmatter": {
+                                "title": "The people of People’s Park",
+                                "date": "September 22, 2018",
+                                "subhead": "As the park’s future becomes increasingly uncertain, the community within reflects on its role in their lives.",
+                                "byline": "By ALEXA ALYESHMERNI and CADE JOHNSON and IAN MACGREGOR and MALINI RAMAIYER and MILES BROWN and NAIRA KHALID and LUZ RIOJA",
+                                "oldLink": "http://projects.dailycal.org/2018/people-of-peoples-park/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAC8ElEQVQozy2S60+adwCFf4BTKQZtXyY2KvblMouwV6yXVryh4AVTLdg5GgpWVzqTrrEuZtpNVxVbUcygFEVqS3XVGbNkybYs24elf9uziPvwfH3OOckRkxM+Hgx0cUUtEELQLlUw67IQdV6j6/IlJtztHOZfcXb8jsODLG+ySfKZ7f9JkklukIwv8+LHRVz2WsRUcBCv1VSUGcpLWB1oJjXh4bn/FnM9Cn2GS7jNJrLJOKdHeXKpTfbTCXLpBPuvtsgk46QSa3z7eJrrVgNi0ttJq1GiXAjqqip4EezlzfQoT/tbGGtqwG+uxlEqcNUa2Vld5DCf5nVyjb3UJnvpcxJkf9pkZeEb7LKEmLozSEedkUohuFkrsTHoYvcLN0sdMrM3LMy0yHgMWsxC0GaTOchscbC7Q+rlSrHdbmqTzM4GhXyGqS9vI8a9nXgsDdQIgV3SE1WsbI/d5IdeB+ONJsL2Wu43VtMraYuhQ33dnL7PFSdnd+Kkt9ZIb61y8vNbEusriHBwGK+zEZO2jBptGU9uNbH/MMjrqJ+lLjvL3hb2nkRYvjvMfDSM2+1mfWmBj//8wcd//+akkCtOPyrkOCocIO6Ne7jb04FTp0XR60gEujl9FmMvMkQ2PEQq4GbRbWVCNjBiM9Fus6LIMhG/j9x2nF8+vOX46Jx3/Hp2ioiGRokFhrFpy/hUo2be20rhqzG+73UQ71d46VOYMVcxpZhZnw7xdDLI80cPGe3pxlpZwfLsDL+dnfDXn79fCL+bi7HwKEyf9RqSWkVbfTXDcg0ek5FnvjaWOj9jzlVP2HyFsas6nKUCo1qgUV389vwditnE4wdhPhTyiFjIw3Q4QGx8hCa9joFmO4FmJ/5GC4HWz5nvdjDfUs99i8SoUUdDiaooUgk1Qqgo0WiQ1Bfi0Eg/QqerJBwKcfw+R8TXxb3rFhZ6OojYGrhjuszXSh2xphqCdXpc5WoqhEAj1OhVej4RZVRpS+mXr+KWKrl9w8F/b7uiPdq+fZIAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/4096a5dad5ff8406962901870ae96fe2/43009/park.png",
+                                                    "srcSet": "/static/4096a5dad5ff8406962901870ae96fe2/e464d/park.png 113w,\n/static/4096a5dad5ff8406962901870ae96fe2/e434c/park.png 225w,\n/static/4096a5dad5ff8406962901870ae96fe2/43009/park.png 450w,\n/static/4096a5dad5ff8406962901870ae96fe2/338c6/park.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/4096a5dad5ff8406962901870ae96fe2/349c4/park.webp 113w,\n/static/4096a5dad5ff8406962901870ae96fe2/2fc71/park.webp 225w,\n/static/4096a5dad5ff8406962901870ae96fe2/cc14f/park.webp 450w,\n/static/4096a5dad5ff8406962901870ae96fe2/404fe/park.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5b2598d8-c988-53d4-a753-111072d62f0f",
+                            "slug": "2018-04-24-great-equalizer",
+                            "frontmatter": {
+                                "title": "The Great Equalizer",
+                                "date": "April 24, 2018",
+                                "subhead": "Can BART live up to its mission?",
+                                "byline": "By Editorial Board and Jacky Lu",
+                                "oldLink": "http://projects.dailycal.org/2018/bart/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAC4jAAAuIwF4pT92AAACzklEQVQoz2WQ21MaBxTG96/sQx8yk7bT6eShyUOnTacdWx+iY6NJSNK0KRq8IKjxArqIu1wEV4IoyG1ZVm2JgGKWDXe8TMb468BTZvLwzXk533e+3xHq9QqNxhnN5jtaLYPz8yYfP15zc3PDhw9XXF2d02wa/Z1a7fQzmWYZwyjSapl0uw2EqnlCtVqmUilQq/WCTdqdGt1unc4ns9U2+8G9Aq1WtX/AMI773kaj2i/SDwyuz+IXpwmITtbm/+pLXJogKDtJxn1ouQi6FqVU1Oi0a1xcdLm+7hHA5WUX0zyl0TDodOp0u02Ek2KG9L4P0yiwG10lElpAcr1gwf4HLudjxMVnSOLfRMKzvHZamJl8Sun4gMuLJt1e68YZjfoJ7ZZBp20i5NIbxCJLZJMeosoce9EF9nbcREIzKMEpfB4ri/aHLNmGcYwPs7JoIabMo2V85FWZQy2IrgbQMl5yaQ9C4d891LTEka6Q2V8jve8lm/KTiLnIJGXyapiQfwZ5w8aifZSxwXt8/9UXWMYGcC2/IhR0o4RFYtF1knEvQuX0kExSIp/b7f/sSN9GTXpIJzbQsgEO9TDxHQ9bbjt/3v2ase9u8dOdLxn4+Rse/H6HRyM/8PzJb7yyjjJje4xwmA/3keMxN6m4CzXl5SAfQlMl9qOrrDueMv9oAOfwfRyWQVZmRwnIE0ieSaYnhng4dI9ffrzN4K/fsrvjQygVs7z9L85xIcHZWQ49v4kiTbJgHWL5xQN8jmdIK/8gr9sI+ntysBW0k8sqpBJeXK8tTI6P4Fqeol4rIxxoIY4LSTRtj22/iGfCgmgdYctj4408jX/VRkCeQva85E14Fj0XJOS3k1N3eFfRCco2YlEZNaNQKqYQtFyCNdHOysshLHdvs+WyEvXb2fbakN1WlE07m1IPcZx0Yo0eUTgwx0lZx6y+JRKeI53aplw+4r1Z4n8i2deW6oeOIwAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/b4311745c3271dee594fd3c7a623a86d/43009/bart.png",
+                                                    "srcSet": "/static/b4311745c3271dee594fd3c7a623a86d/e464d/bart.png 113w,\n/static/b4311745c3271dee594fd3c7a623a86d/e434c/bart.png 225w,\n/static/b4311745c3271dee594fd3c7a623a86d/43009/bart.png 450w,\n/static/b4311745c3271dee594fd3c7a623a86d/338c6/bart.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/b4311745c3271dee594fd3c7a623a86d/349c4/bart.webp 113w,\n/static/b4311745c3271dee594fd3c7a623a86d/2fc71/bart.webp 225w,\n/static/b4311745c3271dee594fd3c7a623a86d/cc14f/bart.webp 450w,\n/static/b4311745c3271dee594fd3c7a623a86d/404fe/bart.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "646067d5-5fcc-5bc3-98ac-34083d85e23f",
+                            "slug": "2018-04-24-rack-location",
+                            "frontmatter": {
+                                "title": "The Daily Californian’s rack locations",
+                                "date": "April 24, 2018",
+                                "subhead": "Pick up a paper today at one of our 138 locations.",
+                                "byline": "By Jessica Hsiao and Ming Li",
+                                "oldLink": "http://projects.dailycal.org/2018/rack-locations/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACBUlEQVQozz1T227TQBD1//8OEuJSVIRAgoJKShq1SezYsdex936z3fbpoBlTHlazGs3OnMtsobSGcw7OO9B9lBLWWVhLx8BYA+csvHd8QvDwySNMEXnOSJligs8eLjoU1IAKY4rw3nMTipSjQXSPMWAYBoQQeJgJFj4H5Cnh+XnBy8sT0pTgskfx+pAe9ZcLN1gbrWisczhWNXaPexhj+GhnVnQpIsTALHJOWJYZBdExRjMyaroOeM1Z5Jzx5v0V3n68RtN2GMYRnRCIU2SKOlhYkiN6Rl2wXs5CKYVRKkilWE+KNJmmEhKlJOrzGXVzZvopJ6SZaDr4KUAGDeGGlTILHTxEf0EnehyrCqMcEfNKyToDFxwOVYXydEJV10zRBgcTLWs3eAVhRhTUjIxp2hb7Y8laNV2HkCOU1VBG41CWOLctlmWC1AptJ3BqGgYxasUmkQQUi+A9tNYrRaOZ3sOxxGgVpNXQRqMVHcSlZ5raakZPCGOMjJyMfFpmqGhQtL2AC57FFn2Ph/0BddtiXiZei91+j2N1wmZ7j0GOCNHjUFZ4/MdmNS79l41NIRMIJdGmomnO0N6w4zTk1+0G7z59xma7Q3mq8fX7DaqmwSAlvzN2rR2kWk1JKfHKtEJAG8P69MOF95Lyd9sdPlx/we3dFt9+/MTvP/ec5z0Mnn8YmUdr8xfCvTUgGQLahgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/01a7c2508bb7e613d82875f540d35848/43009/rack-location.png",
+                                                    "srcSet": "/static/01a7c2508bb7e613d82875f540d35848/e464d/rack-location.png 113w,\n/static/01a7c2508bb7e613d82875f540d35848/e434c/rack-location.png 225w,\n/static/01a7c2508bb7e613d82875f540d35848/43009/rack-location.png 450w,\n/static/01a7c2508bb7e613d82875f540d35848/338c6/rack-location.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/01a7c2508bb7e613d82875f540d35848/349c4/rack-location.webp 113w,\n/static/01a7c2508bb7e613d82875f540d35848/2fc71/rack-location.webp 225w,\n/static/01a7c2508bb7e613d82875f540d35848/cc14f/rack-location.webp 450w,\n/static/01a7c2508bb7e613d82875f540d35848/404fe/rack-location.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "423ddb36-2e80-57ce-8e24-4af1dfe4289c",
+                            "slug": "2018-04-13-campus-sex",
+                            "frontmatter": {
+                                "title": "Sex on campus",
+                                "date": "April 13, 2018",
+                                "subhead": "The Daily Californian is collecting stories about sexual encounters on campus.",
+                                "byline": "By Ian Macgregor",
+                                "oldLink": "http://projects.dailycal.org/2018/sex-on-campus/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACTUlEQVQozyWTSW4USRSG86ocgiNwAKSWEAuQaEAyve0FyCBADbahUYMBU8am7RpczsiMecqsLIP4UASL2EV87/1DNNoYrsbAH7vH3Nt9z39ngktlcc7inSUGR7kjjcIESxoSIXpSikzTyDRtyDkRc8QnT2OswXuHVJIL0XH94Ttev5+hleTLXLAQhuAdxtr6IOVUYSEEhjEzjpkQPOM4MAyZRmuFUgpjNDF6zpZrWiEIVvLXwYKd/UVVYIzBeosNDuMsJhhctNz4e8bh6YppTOQh0VhrsdYQYySmWCdNm4HTtWJnf06nNMrYesqmKXk2m4AOhjAE/nxxxOHpN1TSrE1HU/QXycOQuJoyIQZ+TJFzoXn0ZsVm8Nz9Z8mTjy0/p8DJWvH4c0/IHh0t4xSwyXJpO1rX06SU6oZFRnl41hoOTnv2TgSb0bPsDPNWsRKK7Rj5X3ju7y2RXleQjg4VynaCCy1onPc1teLNk09r1krzctbxaiaYLSU3n85R1lbjiyVDjsCE9wYhe3SwNX1pNdpZml4rpNOspWCIv+uyHQM/t5EP5z1fLwr0nLcnLWMO1cdnR4KPC4VxGqk12+2GPGZ6r2h6pVDeoJ1BWkMeIscrVWG3ni84nEvOhaKVug77vh15sLfk2p13fF0sSTHUHvro6Lwskl2ll1DykJmGwIujlp2DFTn97l9OvsKU0Sit8M6w++8xl21bYcUOH3ztZlNSLQZfTYm33yS3n89ppaq/o0BE1yG6nl5KrNEURaLvib7Y42o/C7CXirbr+QVMjzEQGrkGlAAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/43009/campus-sex.png",
+                                                    "srcSet": "/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/e464d/campus-sex.png 113w,\n/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/e434c/campus-sex.png 225w,\n/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/43009/campus-sex.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/349c4/campus-sex.webp 113w,\n/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/2fc71/campus-sex.webp 225w,\n/static/34fcbe8b30741a3dec7f3fa3f3f0f70c/cc14f/campus-sex.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "d17b9818-36d0-5670-998c-0b2f276affdf",
+                            "slug": "2017-11-28-bus-delay",
+                            "frontmatter": {
+                                "title": "Berkeley’s most unpredictable buses",
+                                "date": "November 28, 2017",
+                                "subhead": "We analyzed which buses around UC Berkeley arrive later than expected",
+                                "byline": "By Seokhyeon Ryo",
+                                "oldLink": "http://projects.dailycal.org/2017/bus-delays/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACeklEQVQoz2WSW2/TQBCF/X95QlwkKBcJfkQptJQ2aUsrEBJFIO60FBD0liZRkxLS4BTqJnXs2F7ba6/tD7zAEyOdeTkzZ3bmrAFQ63e4++UF6+/XmJ+dYmlhloXqLNX5aZaXqogwJElTKpuveFb7xMOlKtXKNJW5GY17dyfZeL9WSmGUaa/fofL5JatPVzU5P3ebyswkC/emuH+/guf7xDLmwe46T7c/UJ2bpjo/xdzMLaozt1is3GFjY42sKDBSpcjzXKsnQkDBfyHTRENHLCFNIf9LFn8aylxuYWR5juc6HNUbHO7W6Nf2cPZbCG+MkDEiFMSJRErJaa9Hv31A7+CAoWkSnAw0r+F7pCrFUJnCtiyc0YihbXPQ6dBpNHHrTaI40mJJphCOo+u8wOfYsmg0mxz3viOsE6JEEoWCJI4xysmu7xEmqW6OpcTxPMaDIcJ1Nefap4zHY/wwYBwIoiTRd/WFIA1DhO/jeWNkEGDkRUEcCcZWj2ajTm1ni73dbTa3PvPx4watVguZSL1OohSRO+DY7FLfq9Fs1Nit7WCPbMrTqSzDyArwbIv2mxUmrl1iYuI8169d5OaV81w6d4aVlWV98CgOiVSGVX/H48U7TFy5wI2r57h89gzbO9u6phxsKKVIipwwjBjut8iOfpKMHHKltHsZBZGMtctJrgj8AP/UJpeSLMu0y2mmCGX8x5Sywfvxg6PnLzFfvcV88ZrBo1Wc9Q8EoxHhX2NKQftrB3NzC7PeYLDfxu8earO0Kf8EyxeefuviuA5uKOifnGB+6zJ89AT30xdCESBVSuA4WL0ew5FNzzTZb7c57h4SdA8JfV+Lpr//4S+46RwU4hE/hgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/0c0849b8ff370c6aad7a919bb303fb07/43009/bus-delay.png",
+                                                    "srcSet": "/static/0c0849b8ff370c6aad7a919bb303fb07/e464d/bus-delay.png 113w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/e434c/bus-delay.png 225w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/43009/bus-delay.png 450w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/338c6/bus-delay.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/0c0849b8ff370c6aad7a919bb303fb07/349c4/bus-delay.webp 113w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/2fc71/bus-delay.webp 225w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/cc14f/bus-delay.webp 450w,\n/static/0c0849b8ff370c6aad7a919bb303fb07/404fe/bus-delay.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "b6c12d34-2a85-56bd-bdf2-9967fc2456c0",
+                            "slug": "2017-11-27-where-we-cry",
+                            "frontmatter": {
+                                "title": "Where We Cry",
+                                "date": "November 27, 2017",
+                                "subhead": "The Daily Californian is collecting stories about students crying on campus.",
+                                "byline": "By Avni Prasad and Emily Zhong",
+                                "oldLink": "http://projects.dailycal.org/2017/where-we-cry/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACMElEQVQozzWTSW8UMRSE+9cjceTKASEuXNgOHFgkdlBIIBFRAhlmiGYy093e/Wz3ZBCLPmQDJ1t65ap61dWd9YEr9w75vFgSY8SHyFSE23trDs81OQeCRCQJIQZSEqJEchamkrncFqaSGI3GiqeT6OmHgVEpphTYFsE6x7nSLNWID74J3Nnf8GGh29zFQAie398zx0vL4+MREYdxjm6tHNZHSgq8/TJwurLE6ElFkCzELJSSWI0W5QK5JHIR1trxYWFY9I69maJUfBK6a49OePpxxs+t8Ohozd5Zz5SFPCV+/di2tYzz3D9Yo13Ae4dzlrOV5u77C4K3pOgoWVoc3Xw1sOkHkggpOLy3XE6Zs43h+enQyF0IvDjZ0GuL1oosDvePOEXP0TfN/f0VEizd7nJqLnwIDMZirGW3zcz7wJNPfcsvilDEo5RicTHw8HDTXHvvCd7xZqY5mOvmtnMS+LErvJsprj89bQ8reU6RbY6EENhmaY+NMSx7xZPjvhHmJIzWc/XBEZu+bx+w086y2xXON5r9k0UjqoO60qgN2hg+rwyjcY1AUmSaIjGENquNuOiHVqlpKnR1xVoBaw0x+AZyzjEqjbMGkcjNV0tma0NJfx3/PyuuCtce1nvOia4q1KGqRN43xXZay2qomXqS/O1dJZpvDDdfL6n9rWYqTvuAsq6570KMzWr89xdUUHWVJXDrzYpP56rda4b/Mzv4OjaBWuQsnhsv5zw7mvN9m/kDfBAxcIrx5DsAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/e84fbc43af1012510d6cceec6503a876/43009/where-we-cry.png",
+                                                    "srcSet": "/static/e84fbc43af1012510d6cceec6503a876/e464d/where-we-cry.png 113w,\n/static/e84fbc43af1012510d6cceec6503a876/e434c/where-we-cry.png 225w,\n/static/e84fbc43af1012510d6cceec6503a876/43009/where-we-cry.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/e84fbc43af1012510d6cceec6503a876/349c4/where-we-cry.webp 113w,\n/static/e84fbc43af1012510d6cceec6503a876/2fc71/where-we-cry.webp 225w,\n/static/e84fbc43af1012510d6cceec6503a876/cc14f/where-we-cry.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "ef2579e9-e81d-5b9c-8240-572989ecabad",
+                            "slug": "2017-11-08-campus-meme",
+                            "frontmatter": {
+                                "title": "The rise of the campus meme",
+                                "date": "November 08, 2017",
+                                "subhead": "Tracing the dramatic development of college meme groups",
+                                "byline": "By Sahil Chinoy and Ella Jensen",
+                                "oldLink": "http://projects.dailycal.org/2017/meme-timeline/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABzklEQVQoz3WSbW+iQBCA+f9/ql+a3FXNadrGVkV5XXZlQQRBQIXnwmpM2/MmeTLzZZ6d2V2LW/R9f88/oe9ZPf9Cun/oagedBgRhiOsE+LaH3rhUgUcpQqyHgi/iIY77guXoibxY43k+Yumwc1wOnssx9ClFQCIiIpVi8SDu0q4zOXZtXPs3oe2y3zhUoU8WCtJIoaIYsc2IsiPbosWqqgopJUopoigiy7Jv0u7cYb8/E3y8Ufg+iZBXwa40ElW0xEVDXNQGS2vNeDxmMpkwm82Yz+cMh8BVqKM18/ET20Ahkvw2SWMk+iYxwvKEyhusYaqXlxcjHY1Gps7z/Lbyhdn4iY0r75PoQ0N8aI1gWFHtG2RSokRM4rlYw6qD6PX11Uw4nU4py8oInc8p7x8L0hojUXmL3B2RKkVFW+LhHv01hVjR6hX9wcWK49hIBuHAYrGgrSvsjzc+7Q266pFJgZKKJHTIxYpG25xSmy5fwzGEWkCroFZYl8uF0+lkOJ/PZOmO+ecKTx+I8xYtXEq15JzZUAXX5kbd6WtJfxyIDP98G7VNkHFKtg0o5JIu31xPf9D8FYZcyx8fe3jVcMMpXdCXPjTRVfSfZlPX8ht/AdJhP3sNUNe8AAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/dc63e67396441a5ca69c7a0aeeab398a/43009/meme.png",
+                                                    "srcSet": "/static/dc63e67396441a5ca69c7a0aeeab398a/e464d/meme.png 113w,\n/static/dc63e67396441a5ca69c7a0aeeab398a/e434c/meme.png 225w,\n/static/dc63e67396441a5ca69c7a0aeeab398a/43009/meme.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/dc63e67396441a5ca69c7a0aeeab398a/349c4/meme.webp 113w,\n/static/dc63e67396441a5ca69c7a0aeeab398a/2fc71/meme.webp 225w,\n/static/dc63e67396441a5ca69c7a0aeeab398a/cc14f/meme.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "ce51701b-837a-506e-bf01-87982123816d",
+                            "slug": "2017-10-12-private-research",
+                            "frontmatter": {
+                                "title": "Industry-funded research takes on a larger role on a cash-strapped campus",
+                                "date": "October 12, 2017",
+                                "subhead": null,
+                                "byline": "By Vanessa Qian and Austin Weinstein",
+                                "oldLink": "http://projects.dailycal.org/2017/private-research/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB7ElEQVQoz01SXW+jMBDM//89fb6nVrqHk6I7pW1KE8BgPgw2AUPMZ5hqNyG6lRZb9jI7M94dHtFWPd5/C5iqhNYaTdOg6zo45zCOI+Z5xrIsvJ+mCbd1RRgK7Pd7SCmR5znX7OhyXma4doQ8adi2QVVVMMYwaNu2vFLS2eVygbUNisoiShREGCJNU65jwLIsEUkB7xDi7eUdR+8Dnx+fEELA8zz4vo8oihAEAcIwhIgiyFjg31eEKG/QtfdGxJxit0me+gW5qNB1LXe7Xq+8bkyttXxG6dwVTetQmhrmYQ/VruuKHX0oXDegTGr0g+OfqWgDVUqxDXRGkutLhVw3+PZjnM8nvie/meEd7wb/KPH6ckCqJDzvm80myUmSsGSSS3tVFNBlAZFonESGLE3gXI+N2JMhxeAmNpZykzcMA/tDL0wsrCU7Otiuh0xzZkjsKemBH4ArLtoiPCo0bX2XVdecNELkYxzHKIidMShUjnOkIFKDvr9iHCduervd7oDD6BB6Cf788qCKjKVlWcbzRSNBQARIsmnebFMj1zWPzrLM+D+er4z1IXm5S6aONNR937NUSgLONsCyRmEs5nliZpQMSJtA+Djsv/D31UepFbNLkpRfj+aUpWrNLH0/gNElZF7hFCTsYSzlcw5/ADJvQbhxyLRAAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/83e7ec39f77fe04208a9bb2f0517d9f4/43009/private-research.png",
+                                                    "srcSet": "/static/83e7ec39f77fe04208a9bb2f0517d9f4/e464d/private-research.png 113w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/e434c/private-research.png 225w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/43009/private-research.png 450w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/338c6/private-research.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/83e7ec39f77fe04208a9bb2f0517d9f4/349c4/private-research.webp 113w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/2fc71/private-research.webp 225w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/cc14f/private-research.webp 450w,\n/static/83e7ec39f77fe04208a9bb2f0517d9f4/404fe/private-research.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "72de4c58-4dc5-53aa-afdf-342bf8353cb5",
+                            "slug": "2017-03-28-building-berkeley",
+                            "frontmatter": {
+                                "title": "Building Berkeley",
+                                "date": "March 28, 2017",
+                                "subhead": "For our Charter Day issue, The Daily Californian has created an interactive map for readers to see the expansion of UC Berkeley since its founding in 1868.",
+                                "byline": "By Ian Macgregor and Ani Vahradyan",
+                                "oldLink": "http://projects.dailycal.org/2018/building-berkeley/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACFUlEQVQoz0VTTW8TMRDd//83OEAvcOgRocABVNGEpFWTbomaRKTdXXvtGX+snYQgPeTZFg5P8s7OvDd+M66893DegT3BkJUzMQmU1tB9Dx88YgwS897BsgUFBjvGMESJvaKy1oKZBBIMDpYsmq6D0j2YGfunPbbbDdg5OMcoTRRCigwX/pOxZ1TGGBCRFIbg4Z2DtUbOm80Gv/Z7KK2ge43z+fdYyCSimowQW0egQLCRUBHZkcgHKKPQmgY5Z6ScUNf32O12SGnAbDbFZDLB6XSE8+NVSw55HvHSceWcw+l0wPF4QEoRLhLiEHE4JCleLu+wWMxRP9SYfJ4gxCACXddidb9EzBFxCODIsOG1w+gx383Q9E/IKaE3PdrmGUWsVR0MGclJx4Re9zj/OeNx84iLi3fiuR+8wHiLypbkELDYzvB9fQXLJBMtNhjXo2eDMAQ4ZjTNM67m33B7cwNLJN3mPMhgCplcuSgU9fKzdwTjCC4wcsy4XLzH249vEFxEpxssV0vc/lyIn8RW1ul4zAJlR/GqjFrYPY3TKh2mgIf7Glerr/iy+gRixvZpg6ZtUNc1rqfXMpRxhZz4X3wsVlWFeaef0fYKTITiadkzbTtsu0dczj/gx90M1lgMeYA2Cuv1+p8thTQfkhAbtqgaq6C4lw/ZK//yGqyBsi00K1HudAcfR4LymqbTa2itkHMSFAFjDf4Cbis32CC6p0QAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/5a38409a602edfb671214a81f1296acc/43009/building-berkeley.png",
+                                                    "srcSet": "/static/5a38409a602edfb671214a81f1296acc/e464d/building-berkeley.png 113w,\n/static/5a38409a602edfb671214a81f1296acc/e434c/building-berkeley.png 225w,\n/static/5a38409a602edfb671214a81f1296acc/43009/building-berkeley.png 450w,\n/static/5a38409a602edfb671214a81f1296acc/338c6/building-berkeley.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/5a38409a602edfb671214a81f1296acc/349c4/building-berkeley.webp 113w,\n/static/5a38409a602edfb671214a81f1296acc/2fc71/building-berkeley.webp 225w,\n/static/5a38409a602edfb671214a81f1296acc/cc14f/building-berkeley.webp 450w,\n/static/5a38409a602edfb671214a81f1296acc/404fe/building-berkeley.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "270bc50f-ea88-5ecf-9a14-5267be70b6fd",
+                            "slug": "2017-02-28-sexual-misconduct",
+                            "frontmatter": {
+                                "title": "Sexual Midconduct Database",
+                                "date": "February 28, 2017",
+                                "subhead": "150 cases of sexual misconduct since July 1905 have involved University of California employees, according to UC Title IX investigation reports.",
+                                "byline": "By Daily Cal Staff",
+                                "oldLink": "http://projects.dailycal.org/misconduct/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABqUlEQVQoz4VTzavBQRT9/VOIDWJpg6IUZSdLC5QsrC3sKCWKhShFSTayscDaAimFUPJVIl/nNbdmzO+l9+5mztxmzj33zB0Ff8T7/ab19XoJ/N95Rb7I4nQ64fl8EuYrj8fjIfBqtcLhcBBEnEORN61WCz6fD/f7nfbj8RhOpxP1eh3NZhPT6ZSKpFIpLJdL1Go1VKtVVRekkBHs93skk0kYjUahYjKZIBaLweVyIZ1OUy6fz8Pv9xMejUYwm83YbreCVJFbKZVKsFgsgnA+n9N6PB5Fzuv1IhwOE2YqdToddcYtopa5V6y6TNjpdDCbzdBut5FIJKiwzWZDNBoVPmo0GhSLReGxSqFMyAqt12tBbjKZkMlk4Ha7EYlEBKFWq0W5XP6usFAowGq1ql6W+cLCbrcjHo8jGAwiFApRbrFYQK/Xo9frfQhlhblcDgaDgfButyO/uI/M/H6/j0qlAo/HQ7nhcAiHw4Hb7faZQz4yjJR5EQgEsNlsqBrzrdvtEhEfDzYR2WyWJqDRaGAwGKg6UeTf8G2AL5cLrtcrfn+A8/kszvG7TOEPwhcDED9937oAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/9a57ee091cb6da35a813430a0a27b0da/43009/misconduct.png",
+                                                    "srcSet": "/static/9a57ee091cb6da35a813430a0a27b0da/e464d/misconduct.png 113w,\n/static/9a57ee091cb6da35a813430a0a27b0da/e434c/misconduct.png 225w,\n/static/9a57ee091cb6da35a813430a0a27b0da/43009/misconduct.png 450w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/9a57ee091cb6da35a813430a0a27b0da/349c4/misconduct.webp 113w,\n/static/9a57ee091cb6da35a813430a0a27b0da/2fc71/misconduct.webp 225w,\n/static/9a57ee091cb6da35a813430a0a27b0da/cc14f/misconduct.webp 450w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "347d3f45-3325-5ccb-819d-ca285e1109c3",
+                            "slug": "2016-11-21-tumult",
+                            "frontmatter": {
+                                "title": "Tumult at the Top",
+                                "date": "November 21, 2016",
+                                "subhead": "UC Berkeley has seen changes in more than half of the chancellor's cabinet",
+                                "byline": "By Sahil Chinoy",
+                                "oldLink": "http://projects.dailycal.org/leadership-chart/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACcElEQVQoz02SSW/bVhRG+f+3BQoE6KaLbuw6lRo3HuN60mDZsuQ6jiVZ1mhREkVx5uMj3yNPESYN+gFn9d2LOxr8UIHWGqU1kPM4Sti7sDn7J+f8M5x04f41L+OKgv/xLe8/GbcvBc1+QW+uybIUpb6ami/TjI+tiNP7mJN2zHE7pTvKkUlMEAREYUgUBiQiJktThBBYloVxdF/w1x20Bhqt1Y9KN88Rv3ww2TkP2PnbYe9acjeEIjEJtyMiZ4y3GSG8OUWe8LbccHBwiLFf21C92tAZpqgswfe2RKHDZOHS6TsM3xLaQ83RXUTtMWSycJitBU6QASnkCVkqkTLFdV2MswfFSUeX4yjpsZo9ltVz8UYWjEEveXhNeH8tqNYFu5cRv9c0zT4UeU6aZkgpUSqjKHKMytWW/VbGw7hgvRXUu0vu+x6dgU9nEDE0Fd2XiOrlisPmlrNOxElb8DQrKHKNjCwC+xXfHuFZQ4xPbZ/Dlk9vrhguUn49tNi9CNi7itm5FFx8huaXkN+OTN5fOuw3BdWGpP369eA5jhewXG1Yre0S449azM5FTKOnkEnIerXAXExZLedI4SMij1QVyExj25sS13VIZQw64fjW46fdKe8qc37em2CcdwM+tQOepopcxZC7gP+d4DsF6JBcmGixBLX55isX0wp5Htn0xzaDqYNRaUh2rySNXl6+TX+W0Hj0aD0H3Dx53PYTLB/GpuDgesrpzRvHjSmnrVW5pthbYE66LMYP+NYLxmg8YTyZsbWtssP6k6RST/jQiPmzHlFppAxM6M2z8h+rNY/KtUulFnPTz5GxR+ivCb01vrPkXwwzKXZkLhTSAAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/27274872b5b5e6dee011f26a888a114f/43009/tumult.png",
+                                                    "srcSet": "/static/27274872b5b5e6dee011f26a888a114f/e464d/tumult.png 113w,\n/static/27274872b5b5e6dee011f26a888a114f/e434c/tumult.png 225w,\n/static/27274872b5b5e6dee011f26a888a114f/43009/tumult.png 450w,\n/static/27274872b5b5e6dee011f26a888a114f/338c6/tumult.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/27274872b5b5e6dee011f26a888a114f/349c4/tumult.webp 113w,\n/static/27274872b5b5e6dee011f26a888a114f/2fc71/tumult.webp 225w,\n/static/27274872b5b5e6dee011f26a888a114f/cc14f/tumult.webp 450w,\n/static/27274872b5b5e6dee011f26a888a114f/404fe/tumult.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "3d9ecb99-898f-542b-956c-ee92a727cf5f",
+                            "slug": "2016-11-04-hacker",
+                            "frontmatter": {
+                                "title": "What does a hacker look like?",
+                                "date": "November 14, 2016",
+                                "subhead": "UC Berkeley's EECS program has the lowest proportion of female graduates of any degree on campus.",
+                                "byline": "By Sahil Chinoy and Chloee Weiner",
+                                "oldLink": "http://projects.dailycal.org/cs-gender/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABZElEQVQoz62RyW7cMBBEiyLFTdJooaQZRBrbJ8NIECDbKTEcZEF+IP//LRWwNVYCH+KLDwUCZOOxqhoA+MICLQq+w8wTKjpodnDy2MJxQpS7GpYehgUUA8wOKApFazWd2yRAD83fuOV3XPELFn7AUYZfI/EnrvkRR3m7wyCzn7HsQO8Np7ESpSH8dTgiyHADyxlR3GUpgBVKcR1hZC4h7MDs7jjX7PvAw8FtwBwhO/mBa3Fxj5XfcCVnhmTAJ5zE2Vec5f4RWJYFl1cN+86z6/wG1FDiJrs4IsoHuTsL/ewScm856pgipzE+RtZ8i4nvMfMXbviAlW+QpIrngMEbAW49XoC7lLqcFwHSodw/1T+Ru9YLtGnsBixNwbYLdMtCmwbaaaRfVsa2Yt86miHRrSvLlOjPZ9rTaYfGWHKeKnpnOPSXLedfpIMUeGgsozcMXkvRSv0/stZKNlxXlnVtn0R+Af0BGvTudNdDC6YAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/99a17be19b9e16e87a6e48ab785c2b86/43009/hacker.png",
+                                                    "srcSet": "/static/99a17be19b9e16e87a6e48ab785c2b86/e464d/hacker.png 113w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/e434c/hacker.png 225w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/43009/hacker.png 450w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/338c6/hacker.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/99a17be19b9e16e87a6e48ab785c2b86/349c4/hacker.webp 113w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/2fc71/hacker.webp 225w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/cc14f/hacker.webp 450w,\n/static/99a17be19b9e16e87a6e48ab785c2b86/404fe/hacker.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "4189dd25-0b74-54e3-9558-9a7d4762c05b",
+                            "slug": "2016-09-20-paychecker",
+                            "frontmatter": {
+                                "title": "Professor pay-checker",
+                                "date": "September 20, 2016",
+                                "subhead": "The Daily Californian processed the last decade of payroll information for UC Berkeley faculty, creating the most complete, searchable database of professor and lecturer pay by campus department.",
+                                "byline": "By Sahil Chinoy",
+                                "oldLink": "http://projects.dailycal.org/paychecker/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABQUlEQVQoz32S2a6DMAxE+///18e+VKUsIZAFQsjCVHZL2lvRG8lCceTjGeMTAKSUMI4jf+nknKHUCNF1cG7G0dm2DXvt+XyGMYbvpxgCvPdo25ahIQSs64pWSFR1B2NtyX0G1VDeWouqqiCl5CanGCNyTuj7HnVdI6aELWcMk0c9Oizr852UfAcBlFJ/gX4N/CiEQNM0oAZ0l8bhLicsnt4j57/jOZov4N69AFNiRdIsuA8T1OQPFRJwV3i73dghA/fuBGTL1JkaaMdAPfsCOFJIc79er2+F4WXx0zIpEsqh147nGdOxQgJqrdlyURjCMbBTM5pxPlR2NMMCpOLdcgGmhMEusG5FjC9FPxQSkOqEKDN8/5QyQ1oj7TDapQD/s0x1wzC895AWlRK07bw2McLMniP8sEtLTUCqu1wuDCXgA/QlVmprpE11AAAAAElFTkSuQmCC"
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/19d89958a50574ccb09d1c7558ea0a74/43009/paychecker.png",
+                                                    "srcSet": "/static/19d89958a50574ccb09d1c7558ea0a74/e464d/paychecker.png 113w,\n/static/19d89958a50574ccb09d1c7558ea0a74/e434c/paychecker.png 225w,\n/static/19d89958a50574ccb09d1c7558ea0a74/43009/paychecker.png 450w,\n/static/19d89958a50574ccb09d1c7558ea0a74/338c6/paychecker.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/19d89958a50574ccb09d1c7558ea0a74/349c4/paychecker.webp 113w,\n/static/19d89958a50574ccb09d1c7558ea0a74/2fc71/paychecker.webp 225w,\n/static/19d89958a50574ccb09d1c7558ea0a74/cc14f/paychecker.webp 450w,\n/static/19d89958a50574ccb09d1c7558ea0a74/404fe/paychecker.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "5152f0f2-b680-5d76-8de5-b221c78235b7",
+                            "slug": "2016-06-29-aff-action",
+                            "frontmatter": {
+                                "title": "Affirmative action and UC Berkeley",
+                                "date": "June 29, 2016",
+                                "subhead": "Breaking down the status of affirmative action at UC Berkeley",
+                                "byline": "By Sahil Chinoy",
+                                "oldLink": "http://projects.dailycal.org/affirmative-action/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABJ0lEQVQoz52TjWrDMAyE8/7vWGjXjTWxmyb+jW0530hK1zZjY5tAIMlwuhPnBmCeZ0SEW33Lbb+d3erHWVNqWsFCCJ8Ptdb/A9a5kMtEjJFtbMF+BThODjs5vPccX47s93t2ux1a6/8xDDJhol0lK6Xouo62bdcF37H8aUlDLiD184Z/jeXeT4DGRaxxxBBxNqDOPZdhwNkB7y05F6QIOWemEJl8REqlZEGkPsleolnKlMvKUIczymo6ozleOg76nUP3xqt+Q10UyvS0pqXtT+hB0w8942jIISIxklOiWWlLxXlHqtMXSTJXUhVsDpjkSbLUnjFZLnHkZE4or+n9GdWrK+Diw0Xyow/rl6Nf8+6pa59FKLUSSmJM7g74aOyffsrz+3YLfADiAmD11eARtgAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/6c7e46c99bc57d28013b45fc1a7c242a/43009/admission-rate.png",
+                                                    "srcSet": "/static/6c7e46c99bc57d28013b45fc1a7c242a/e464d/admission-rate.png 113w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/e434c/admission-rate.png 225w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/43009/admission-rate.png 450w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/338c6/admission-rate.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/6c7e46c99bc57d28013b45fc1a7c242a/349c4/admission-rate.webp 113w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/2fc71/admission-rate.webp 225w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/cc14f/admission-rate.webp 450w,\n/static/6c7e46c99bc57d28013b45fc1a7c242a/404fe/admission-rate.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "23a17819-0837-5541-9bf1-0420621084f9",
+                            "slug": "2015-12-11-lowest-grades",
+                            "frontmatter": {
+                                "title": "Guess the UC Berkeley department with the lowest grades",
+                                "date": "December 11, 2015",
+                                "subhead": null,
+                                "byline": "By Sahil Chinoy and Ronald Kwan",
+                                "oldLink": "http://projects.dailycal.org/grades/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB+UlEQVQoz1WT2W7bQAxF/f9f05eiQAN0QRtkMRAghuO4XmLLjtYZSpY3WespZkZp0ocLDqkhRfLeGXSdQJcCDp09a7pOAXvgAORA1uMtdqBDczr7NI3uc4XBW5GqVjSNsklZtmK7GeN5I7z1iDCcEr4+sTG+N2K9HuH7E7QsXaFG97kpA3cQ25XDDpEFs9k98/mQ0egXy/kdi/k90+c7JpMbnsbX1pp7kFCXIXSuy0FdJ1xKIc9TzkVKvk+oqoxLmVOWOVW9p6xyqmpH3eR25Lo5cCkzLpeUw1GsPR1dHTtyGGsexwGzRcLWT4hixcrT+IEwmWoWLw5Pz5o40cyXmulMs1wJ623C85+I8TgizRQDSwqOiOMpIE6EXZ5aq5VCaUWaCYkSGzNnSYXXICGMtI1XtavRVpHpUHgvmrLyElabEKWFIFC2260veBvBDx3WXspqEzGdByitew7Ekvuvw3wvBJHQdkJda4pzxOmsKS5ODgZtK5xOQtP2rHYpx0PEufggG3PJOLOF5tNnxeNYeHhUfP0W8uO38TW3Q831rdmhMHxQDB9CvlzF3Nxrrr4rfl6bdaW2y4H7uxvXFK/rlKKMyXYhdZ1Z/3gSikKoKgOjBkWsIorCTWAYLorEyebj/twueluFVIVP1+vrv2+8vyw6RVuFtK0T9l/yeUEMQyavOQAAAABJRU5ErkJggg=="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/41ab9f7116a1a50cf2a87ef5ee0e605c/43009/lowest-grades.png",
+                                                    "srcSet": "/static/41ab9f7116a1a50cf2a87ef5ee0e605c/e464d/lowest-grades.png 113w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/e434c/lowest-grades.png 225w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/43009/lowest-grades.png 450w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/338c6/lowest-grades.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/41ab9f7116a1a50cf2a87ef5ee0e605c/349c4/lowest-grades.webp 113w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/2fc71/lowest-grades.webp 225w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/cc14f/lowest-grades.webp 450w,\n/static/41ab9f7116a1a50cf2a87ef5ee0e605c/404fe/lowest-grades.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "fd17b430-2263-5634-9511-3868b139177f",
+                            "slug": "2015-11-23-crime",
+                            "frontmatter": {
+                                "title": "Crime on campus",
+                                "date": "November 23, 2015",
+                                "subhead": "How safe is UC Berkeley? The Daily Californian analyzed five years of police reports to see where and when crime occurs most often.",
+                                "byline": "By Sahil Chinoy and Thomas Kim",
+                                "oldLink": "http://projects.dailycal.org/crime/",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACw0lEQVQozyXP227aBgCAYd51F5s6ae2qtpqqVqrSog5NyXrYSGnTrltOW0e0Ng45sEALJBgwGNvY+ISx8RHCkl3sAf5J2wt80pcLggDLsjBNk44o0u8P0DSdwLMI/QmO7aCpGk4QksQ+gdPDdidYpsnYMPD9KZ7nEYYhjuuSi6MIVVUZyjJdaYDWrGC0a/jBmKmnMVR1NLXH+FAg+ukR8+oqE7WN6XoMZBnbsumIHUzXZSaek/N9/z9QURSGwyE9sU5wvslUajCVZGyzT9r8QLxyDT//BdmfJebWIYmtkjgT5plL4I2JkpTYn5FzJxMUTUdTuriTEVLrlKz1I16pQPToa/6pfs/V2l0u36+Q7eSJ8rfIhKdkey+4VM6YLxekiznLv5ZczANypj5CadRRjt/RbrWoHlfQ918T779jflAkqe1yUXlOtHWPZeku2dtvuCrdJl2/jysdk5lNFlOHsdTg7PRXcucfP+FU3jJol6mdfEA82EB7tc6V8ARn9xnmzmvS+kuih9e52Mmz3CuQvLhDUl7D8c/o7xSxtp9jn//O1HH+Lw8VBdcUkbtVRp92Cd0jFmcljPcvUcQmfuEe0c3Pmb1ZxWxUmW2XSLbuk9WK+LKAY0rE2Zw0S8nNggB9pKOoQ8yxTK+xRzh8hbn3LfrWE7w/nuHc+oygcANHeIov/cyFWCQeC4RH62jdOpalM3E9ojAgF4YzDMOg1+1gGBLa4IhIeoO9uYL52yr2yS942w8IV78iFvIka7dJNu4w0SrMrQOUfo+J55CkUy5nTXKRJzM2LCqCgKoq2JbEtLeJ0Sojt/bxnVNi4THp42ukxZvEhevED79k1K1hjAe4gYXTrnLZFcgWKbkkScgyn/Z5HUmS6YkfkVtldLXJqFlmrNcxT3dZVL4jPSzwd+cHZsIGo56IoimEjootD7BPyrhKi38Bwrba07FPUB4AAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/a88fef9cb149a9ce12c34f789f6246b1/43009/campus-crime.png",
+                                                    "srcSet": "/static/a88fef9cb149a9ce12c34f789f6246b1/e464d/campus-crime.png 113w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/e434c/campus-crime.png 225w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/43009/campus-crime.png 450w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/338c6/campus-crime.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/a88fef9cb149a9ce12c34f789f6246b1/349c4/campus-crime.webp 113w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/2fc71/campus-crime.webp 225w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/cc14f/campus-crime.webp 450w,\n/static/a88fef9cb149a9ce12c34f789f6246b1/404fe/campus-crime.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "node": {
+                            "id": "092582f0-041e-5c91-ada3-81d90517055c",
+                            "slug": "2015-11-11-public-trust",
+                            "frontmatter": {
+                                "title": "The Public Trust",
+                                "date": "November 11, 2015",
+                                "subhead": "In an era of diminishing state support, what makes UC Berkeley a public institution?",
+                                "byline": "By Sahil Chinoy and Chloee Weiner",
+                                "oldLink": "http://projects.dailycal.org/public-trust/#0",
+                                "featuredImage": {
+                                    "childImageSharp": {
+                                        "gatsbyImageData": {
+                                            "layout": "constrained",
+                                            "placeholder": {
+                                                "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACcklEQVQoz31SS0iyURD9ttLKJITeaC7ygT2VsJJQyQx8UAQlKkFYLqTSCHpo4CJLEYna/LpJwb0SSNCy2rZzEYgu3Iil0LrHiRlo+1/4uHfmmztnzjlXWFlZweLiIuLxOL6+vkDr5+cH/1t//7+/v3nP5XIwm81YWFiA4HK5YDKZEI1G8fHxgVqthre3N7TbbXQ6HVQqFZRKJRSLRTw+PqLRaKDZbPL++vqKarWK6+tr7rG5uQnB5/PBaDTi6OiI0dbW1pBMJPj8/v6O+/t77O7u4vDwkFm0Wi18fn7yfwKt1+u4ubnB7OwsDg4OIFDx9PQ0X3p5eUFPTw+0Wi2en59RKBSQTCYRCAQQi8WQyfxjeg8PD3h6emKwbDbLYDMzMzg+PoZAwdTUFLa2trCzs4Ouri7Mzc2BJne73bi4uGAqVquVG4TDYdze3iKfz3P+7u6OJ6Mee3t7EIg/JYjq8vIyBgYGMDo6CofDgbGxMczPzzO6x+OB3+9n4KurK9Y8k8mgXC7D6/VifHwcwWAQQjqdxtnZGVZXV2Gz2TA4OIje3l6kUinWVa1WQ6VScUzNyU36KE/0I5EILBYLN7Tb7RASiQQuLy+xvr4Ocryvrw8jIyOsB01CTfR6PTY2NhiI6vb39xEKhXBycgJ6duSwTqdjRsL5+TlOT0+ZImkmlUohl8vhdDq5kAyiWKlUQiKRYGlpid+twWBgM2UyGU9IZ5JGICNIH6JLGg4NDUGhUDAaXRoeHkZ3dzcmJyd5p4sTExPQaDQMStSpjkyhKQUKqICobW9vM12iRjTJIHpGIpEI/f39DEIN/vJisZjBqZYako6/23D3y0M88VgAAAAASUVORK5CYII="
+                                            },
+                                            "images": {
+                                                "fallback": {
+                                                    "src": "/static/5e604bfc9e443d22dad5550d44028f82/43009/public-trust.png",
+                                                    "srcSet": "/static/5e604bfc9e443d22dad5550d44028f82/e464d/public-trust.png 113w,\n/static/5e604bfc9e443d22dad5550d44028f82/e434c/public-trust.png 225w,\n/static/5e604bfc9e443d22dad5550d44028f82/43009/public-trust.png 450w,\n/static/5e604bfc9e443d22dad5550d44028f82/338c6/public-trust.png 900w",
+                                                    "sizes": "(min-width: 450px) 450px, 100vw"
+                                                },
+                                                "sources": [
+                                                    {
+                                                        "srcSet": "/static/5e604bfc9e443d22dad5550d44028f82/349c4/public-trust.webp 113w,\n/static/5e604bfc9e443d22dad5550d44028f82/2fc71/public-trust.webp 225w,\n/static/5e604bfc9e443d22dad5550d44028f82/cc14f/public-trust.webp 450w,\n/static/5e604bfc9e443d22dad5550d44028f82/404fe/public-trust.webp 900w",
+                                                        "type": "image/webp",
+                                                        "sizes": "(min-width: 450px) 450px, 100vw"
+                                                    }
+                                                ]
+                                            },
+                                            "width": 450,
+                                            "height": 250
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "pageContext": {}
+    },
+    "staticQueryHashes": [
+        "3000541721",
+        "764694655"
+    ]
+}
