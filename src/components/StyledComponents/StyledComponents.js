@@ -1,4 +1,4 @@
-import { Card, Typography } from "@mui/material";
+import { Card, Typography, FormControl } from "@mui/material";
 
 import { styled } from "@mui/material/styles";
 import { DC_site_fonts } from "../../styles/DC_site_fonts";
@@ -80,3 +80,9 @@ export const StyledArticleCard = styled(Card)({
         border: '1px solid black',
     }
 });
+
+//  viz form control
+export const StyledFormControl = styled(FormControl)({
+    margin: '1%',
+    minWidth: 120,
+  });

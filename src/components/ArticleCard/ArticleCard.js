@@ -7,7 +7,6 @@ import './ArticleCard.css'
 const ArticleCard = ({
   title, date, image, url = "/"
 }) => (
-
   <StyledArticleCard>
     <Link to={url} style={{ textDecoration: 'none' }}>
       <div className='article-card-img-container'>

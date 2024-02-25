@@ -3,6 +3,7 @@
     "id": 0,
     "fileName": "2015-11-11-public-trust.mdx",
     "filePath": "..\\..\\articles\\2015-11-11-public-trust.mdx",
+    "visuals": "",
     "date": "2015-11-11",
     "title": "The Public Trust",
     "byline": "By Sahil Chinoy and Chloee Weiner",
@@ -11,9 +12,10 @@
     "oldLink": "http://projects.dailycal.org/public-trust/#0"
   },
   {
-    "id": 0,
+    "id": 1,
     "fileName": "2015-11-23-crime.mdx",
     "filePath": "..\\..\\articles\\2015-11-23-crime.mdx",
+    "visuals": "",
     "date": "2015-11-23",
     "title": "Crime on campus",
     "byline": "By Sahil Chinoy and Thomas Kim",
@@ -22,9 +24,10 @@
     "oldLink": "http://projects.dailycal.org/crime/"
   },
   {
-    "id": 0,
+    "id": 2,
     "fileName": "2015-12-11-lowest-grades.mdx",
     "filePath": "..\\..\\articles\\2015-12-11-lowest-grades.mdx",
+    "visuals": "",
     "date": "2015-12-11",
     "title": "Guess the UC Berkeley department with the lowest grades",
     "byline": "By Sahil Chinoy and Ronald Kwan",
@@ -32,9 +35,10 @@
     "oldLink": "http://projects.dailycal.org/grades/"
   },
   {
-    "id": 0,
+    "id": 3,
     "fileName": "2016-06-29-aff-action.mdx",
     "filePath": "..\\..\\articles\\2016-06-29-aff-action.mdx",
+    "visuals": "",
     "date": "2016-06-29",
     "title": "Affirmative action and UC Berkeley",
     "byline": "By Sahil Chinoy",
@@ -43,9 +47,10 @@
     "oldLink": "http://projects.dailycal.org/affirmative-action/"
   },
   {
-    "id": 0,
+    "id": 4,
     "fileName": "2016-09-20-paychecker.mdx",
     "filePath": "..\\..\\articles\\2016-09-20-paychecker.mdx",
+    "visuals": "",
     "date": "2016-09-20",
     "title": "Professor pay-checker",
     "byline": "By Sahil Chinoy",
@@ -54,9 +59,10 @@
     "oldLink": "http://projects.dailycal.org/paychecker/"
   },
   {
-    "id": 0,
+    "id": 5,
     "fileName": "2016-11-04-hacker.mdx",
     "filePath": "..\\..\\articles\\2016-11-04-hacker.mdx",
+    "visuals": "",
     "date": "2016-11-14",
     "title": "What does a hacker look like?",
     "byline": "By Sahil Chinoy and Chloee Weiner",
@@ -65,9 +71,10 @@
     "oldLink": "http://projects.dailycal.org/cs-gender/"
   },
   {
-    "id": 0,
+    "id": 6,
     "fileName": "2016-11-21-tumult.mdx",
     "filePath": "..\\..\\articles\\2016-11-21-tumult.mdx",
+    "visuals": "",
     "date": "2016-11-21",
     "title": "Tumult at the Top",
     "byline": "By Sahil Chinoy",
@@ -76,9 +83,10 @@
     "oldLink": "http://projects.dailycal.org/leadership-chart/"
   },
   {
-    "id": 0,
+    "id": 7,
     "fileName": "2017-02-28-sexual-misconduct.mdx",
     "filePath": "..\\..\\articles\\2017-02-28-sexual-misconduct.mdx",
+    "visuals": "",
     "date": "2017-02-28",
     "title": "Sexual Midconduct Database",
     "byline": "By Daily Cal Staff",
@@ -87,9 +95,10 @@
     "oldLink": "http://projects.dailycal.org/misconduct/"
   },
   {
-    "id": 0,
+    "id": 8,
     "fileName": "2017-03-28-building-berkeley.mdx",
     "filePath": "..\\..\\articles\\2017-03-28-building-berkeley.mdx",
+    "visuals": "",
     "date": "2017-03-28",
     "title": "Building Berkeley",
     "byline": "By Ian Macgregor and Ani Vahradyan",
@@ -98,9 +107,10 @@
     "oldLink": "http://projects.dailycal.org/2018/building-berkeley/"
   },
   {
-    "id": 0,
+    "id": 9,
     "fileName": "2017-10-12-private-research.mdx",
     "filePath": "..\\..\\articles\\2017-10-12-private-research.mdx",
+    "visuals": "",
     "date": "2017-10-12",
     "title": "Industry-funded research takes on a larger role on a cash-strapped campus",
     "byline": "By Vanessa Qian and Austin Weinstein",
@@ -108,9 +118,10 @@
     "oldLink": "http://projects.dailycal.org/2017/private-research/"
   },
   {
-    "id": 0,
+    "id": 10,
     "fileName": "2017-11-08-campus-meme.mdx",
     "filePath": "..\\..\\articles\\2017-11-08-campus-meme.mdx",
+    "visuals": "",
     "date": "2017-11-08",
     "title": "The rise of the campus meme",
     "byline": "By Sahil Chinoy and Ella Jensen",
@@ -119,9 +130,10 @@
     "oldLink": "http://projects.dailycal.org/2017/meme-timeline/"
   },
   {
-    "id": 0,
+    "id": 11,
     "fileName": "2017-11-27-where-we-cry.mdx",
     "filePath": "..\\..\\articles\\2017-11-27-where-we-cry.mdx",
+    "visuals": "",
     "date": "2017-11-27",
     "title": "Where We Cry",
     "byline": "By Avni Prasad and Emily Zhong",
@@ -130,9 +142,10 @@
     "oldLink": "http://projects.dailycal.org/2017/where-we-cry/"
   },
   {
-    "id": 0,
+    "id": 12,
     "fileName": "2017-11-28-bus-delay.mdx",
     "filePath": "..\\..\\articles\\2017-11-28-bus-delay.mdx",
+    "visuals": "",
     "date": "2017-11-28",
     "title": "Berkeley’s most unpredictable buses",
     "byline": "By Seokhyeon Ryo",
@@ -141,9 +154,10 @@
     "oldLink": "http://projects.dailycal.org/2017/bus-delays/"
   },
   {
-    "id": 0,
+    "id": 13,
     "fileName": "2018-04-13-campus-sex.mdx",
     "filePath": "..\\..\\articles\\2018-04-13-campus-sex.mdx",
+    "visuals": "",
     "date": "2018-04-13",
     "title": "Sex on campus",
     "byline": "By Ian Macgregor",
@@ -152,9 +166,10 @@
     "oldLink": "http://projects.dailycal.org/2018/sex-on-campus/"
   },
   {
-    "id": 0,
+    "id": 14,
     "fileName": "2018-04-24-great-equalizer.mdx",
     "filePath": "..\\..\\articles\\2018-04-24-great-equalizer.mdx",
+    "visuals": "",
     "date": "2018-04-24",
     "title": "The Great Equalizer",
     "byline": "By Editorial Board and Jacky Lu",
@@ -163,9 +178,10 @@
     "oldLink": "http://projects.dailycal.org/2018/bart/"
   },
   {
-    "id": 0,
+    "id": 15,
     "fileName": "2018-04-24-rack-location.mdx",
     "filePath": "..\\..\\articles\\2018-04-24-rack-location.mdx",
+    "visuals": "",
     "date": "2018-04-24",
     "title": "The Daily Californian’s rack locations",
     "byline": "By Jessica Hsiao and Ming Li",
@@ -174,9 +190,10 @@
     "oldLink": "http://projects.dailycal.org/2018/rack-locations/"
   },
   {
-    "id": 0,
+    "id": 16,
     "fileName": "2018-09-22-peoples-park.mdx",
     "filePath": "..\\..\\articles\\2018-09-22-peoples-park.mdx",
+    "visuals": "",
     "date": "2018-09-22",
     "title": "The people of People’s Park",
     "byline": "By ALEXA ALYESHMERNI and CADE JOHNSON and IAN MACGREGOR and MALINI RAMAIYER and MILES BROWN and NAIRA KHALID and LUZ RIOJA",
@@ -185,9 +202,10 @@
     "oldLink": "http://projects.dailycal.org/2018/people-of-peoples-park/"
   },
   {
-    "id": 0,
+    "id": 17,
     "fileName": "2019-03-18-berkeley-rent.mdx",
     "filePath": "..\\..\\articles\\2019-03-18-berkeley-rent.mdx",
+    "visuals": "",
     "date": "2019-03-18",
     "title": "A Comprehensive Timeline of Rent Prices and Legislation, From 1978 to Today",
     "byline": "By Purva Kapshika",
@@ -196,9 +214,10 @@
     "oldLink": "http://projects.dailycal.org/2019/berkeley-rent-timeline/"
   },
   {
-    "id": 0,
+    "id": 18,
     "fileName": "2020-05-17-graduation-2020.mdx",
     "filePath": "..\\..\\articles\\2020-05-17-graduation-2020.mdx",
+    "visuals": "",
     "date": "2020-05-17",
     "title": "Graduation Issue 2020",
     "byline": "By Josh Yuen, Sakura Cannestra and Kaitlyn Tseng",
@@ -207,9 +226,10 @@
     "oldLink": "http://projects.dailycal.org/2020/graduation-2020/"
   },
   {
-    "id": 0,
+    "id": 19,
     "fileName": "2020-06-22-post-grad.mdx",
     "filePath": "..\\..\\articles\\2020-06-22-post-grad.mdx",
+    "visuals": "",
     "date": "2020-06-22",
     "title": "Where do UC Berkeley students go?",
     "byline": "By Alex Zhao",
@@ -218,9 +238,10 @@
     "oldLink": "http://projects.dailycal.org/2020/uc-berkeley-students-after-grad/"
   },
   {
-    "id": 0,
+    "id": 20,
     "fileName": "2020-07-24-college-plans.mdx",
     "filePath": "..\\..\\articles\\2020-07-24-college-plans.mdx",
+    "visuals": "",
     "date": "2020-07-24",
     "title": "Mapping College Plans for Fall 2020",
     "byline": "By Alex Zhao",
@@ -229,9 +250,10 @@
     "oldLink": "http://projects.dailycal.org/2020/mapping-covid-response/"
   },
   {
-    "id": 0,
+    "id": 21,
     "fileName": "2020-09-13-diversity.mdx",
     "filePath": "..\\..\\articles\\2020-09-13-diversity.mdx",
+    "visuals": "",
     "date": "2020-09-13",
     "title": "Diversity at UC Berkeley",
     "byline": "By Alex Zhao",
@@ -240,9 +262,10 @@
     "oldLink": "http://projects.dailycal.org/2020/aff-action/"
   },
   {
-    "id": 0,
+    "id": 22,
     "fileName": "2020-10-12-police-stops.mdx",
     "filePath": "..\\..\\articles\\2020-10-12-police-stops.mdx",
+    "visuals": "",
     "date": "2020-10-12",
     "title": "Police stops in Berkeley",
     "byline": "By Alex Zhao, Purva Kapshikar, Aditya Katewa and Catherine Hsu",
@@ -251,9 +274,10 @@
     "oldLink": "http://projects.dailycal.org/2020/stops/"
   },
   {
-    "id": 0,
+    "id": 23,
     "fileName": "2020-10-26-voting.mdx",
     "filePath": "..\\..\\articles\\2020-10-26-voting.mdx",
+    "visuals": "",
     "date": "2020-10-26",
     "title": "Who votes at UC Berkeley?",
     "byline": "By Alex Zhao",
@@ -262,9 +286,10 @@
     "oldLink": "http://projects.dailycal.org/2020/voting/"
   },
   {
-    "id": 0,
+    "id": 24,
     "fileName": "2021-03-01-admissions-audit.mdx",
     "filePath": "..\\..\\articles\\2021-03-01-admissions-audit.mdx",
+    "visuals": "",
     "date": "2021-03-01",
     "title": "Admissions audit explained",
     "byline": "By Vyoma Raman, Kaylei Nilson-Pierce and Yasmin Gehman",
@@ -273,9 +298,10 @@
     "oldLink": "http://projects.dailycal.org/2021/audit/"
   },
   {
-    "id": 0,
+    "id": 25,
     "fileName": "2021-06-04-150-timeline.mdx",
     "filePath": "..\\..\\articles\\2021-06-04-150-timeline.mdx",
+    "visuals": "",
     "date": "2021-06-04",
     "title": "150 Years of The Daily Californian",
     "byline": "By Alex Zhao, Maia Alviar, Jocelyn Huang and Jordan Harris",
@@ -284,9 +310,10 @@
     "oldLink": "http://projects.dailycal.org/2021/timeline/"
   },
   {
-    "id": 0,
+    "id": 26,
     "fileName": "2021-06-18-uc-berkeley-pride-quantified.mdx",
     "filePath": "..\\..\\articles\\2021-06-18-uc-berkeley-pride-quantified.mdx",
+    "visuals": "",
     "date": "2021-06-18",
     "title": "UC Berkeley Pride quantified",
     "byline": "By Peter Zhang, Sanjana Melkote and Alex Zhao",
@@ -295,9 +322,16 @@
     "oldLink": "http://projects.dailycal.org/2021/uc-berkeley-pride-quantified/"
   },
   {
-    "id": 0,
+    "id": 27,
     "fileName": "2021-07-10-redlining.mdx",
     "filePath": "..\\..\\articles\\2021-07-10-redlining.mdx",
+    "visuals": [
+      "data.js",
+      "dataKey.js",
+      "map-materials",
+      "ScatterPlot.js",
+      "scatterplots"
+    ],
     "date": "2021-07-18",
     "title": "Reading between the redlines",
     "bylineName": [
@@ -319,9 +353,13 @@
     "aboutStory": "Data for this project come from the California Office of Environmental Health Hazard Assessment's CalEnviroScreen 4.0 dataset."
   },
   {
-    "id": 0,
+    "id": 28,
     "fileName": "2021-08-22-berkeley-guide-orientation.mdx",
     "filePath": "..\\..\\articles\\2021-08-22-berkeley-guide-orientation.mdx",
+    "visuals": [
+      "GuideCoordinates.js",
+      "GuideMap.js"
+    ],
     "date": "2021-08-22",
     "title": "The Daily Californian’s Guide to Berkeley",
     "bylineName": [
@@ -337,9 +375,16 @@
     "imageAttribution": "Theo Wyss-Flamm | Senior Staff"
   },
   {
-    "id": 0,
+    "id": 29,
     "fileName": "2021-11-22-rent-shelter.mdx",
     "filePath": "..\\..\\articles\\2021-11-22-rent-shelter.mdx",
+    "visuals": [
+      "AlamedaShelter.js",
+      "BerkeleyAlamedaLunch.js",
+      "BerkeleyAlamedaRent.js",
+      "BerkeleyShelter.js",
+      "rentShelterData.js"
+    ],
     "date": "2021-12-13",
     "title": "Rising rents",
     "bylineName": [
@@ -356,9 +401,14 @@
     "aboutStory": "Data for this project come from the California Department of Education, Berkeley's Rent Stabilization Board, the U.S. Census and EveryOne Home."
   },
   {
-    "id": 0,
+    "id": 30,
     "fileName": "2021-11-23-hate-crimes.mdx",
     "filePath": "..\\..\\articles\\2021-11-23-hate-crimes.mdx",
+    "visuals": [
+      "data.js",
+      "HateBar.js",
+      "HateLine.js"
+    ],
     "date": "2022-02-03",
     "title": "Hate crimes in Berkeley and beyond",
     "bylineName": [
@@ -375,9 +425,10 @@
     "aboutStory": "Data for this project come from the FBI Crime Data Explorer."
   },
   {
-    "id": 0,
+    "id": 31,
     "fileName": "2021-6-14-online-classes-suck.mdx",
     "filePath": "..\\..\\articles\\2021-6-14-online-classes-suck.mdx",
+    "visuals": "",
     "date": "2021-06-14",
     "title": "'Online classes suck'",
     "byline": "By Shannon Bonet, Ji Yeon Woo and Connor Lin",
@@ -386,9 +437,16 @@
     "oldLink": "http://projects.dailycal.org/2021/online-classes-suck/"
   },
   {
-    "id": 0,
+    "id": 32,
     "fileName": "2022-01-21-exodus.mdx",
     "filePath": "..\\..\\articles\\2022-01-21-exodus.mdx",
+    "visuals": [
+      "BerkACBlackCensus.js",
+      "berkACData.js",
+      "BlackEnrollmentBUSD.js",
+      "BlackPopulationCensus.js",
+      "district-map-materials"
+    ],
     "date": "2022-02-24",
     "title": "Black exodus from Berkeley",
     "bylineName": [
@@ -407,9 +465,17 @@
     "aboutStory": "Data for this project come from the California Department of Education and the U.S. Census."
   },
   {
-    "id": 0,
+    "id": 33,
     "fileName": "2022-03-17-gym-pac-12.mdx",
     "filePath": "..\\..\\articles\\2022-03-17-gym-pac-12.mdx",
+    "visuals": [
+      "GymBars.js",
+      "GymBeam.js",
+      "gymData.js",
+      "GymFloor.js",
+      "GymTotals.js",
+      "GymVault.js"
+    ],
     "date": "2022-03-17",
     "title": "Cal chases conference crown",
     "bylineName": [
@@ -435,9 +501,13 @@
     ]
   },
   {
-    "id": 0,
+    "id": 34,
     "fileName": "2022-04-20-stem-enrollment.mdx",
     "filePath": "..\\..\\articles\\2022-04-20-stem-enrollment.mdx",
+    "visuals": [
+      "STEMLine.js",
+      "STEMLineData.js"
+    ],
     "date": "2022-05-03",
     "title": "Beneath enrollment trends lies point of intersection for STEM, humanities",
     "bylineName": [
@@ -453,9 +523,12 @@
     "aboutStory": "Data for this project come from UC Berkeley's Our Berkeley data dashboards."
   },
   {
-    "id": 0,
+    "id": 35,
     "fileName": "2022-05-04-1921-timeline.mdx",
     "filePath": "..\\..\\articles\\2022-05-04-1921-timeline.mdx",
+    "visuals": [
+      "1921Timeline.js"
+    ],
     "date": "2022-05-04",
     "title": "The fight for 1921 Walnut St.",
     "bylineName": [
@@ -473,9 +546,13 @@
     "imageCaption2": "plans to build new student housing on 1921 Walnut St. and People's Park."
   },
   {
-    "id": 0,
+    "id": 36,
     "fileName": "2022-09-15-study-abroad.mdx",
     "filePath": "..\\..\\articles\\2022-09-15-study-abroad.mdx",
+    "visuals": [
+      "StudyAbroadCoordinates.js",
+      "StudyAbroadMap.js"
+    ],
     "date": "2022-09-15",
     "title": "Mapping UC Berkeley study abroad programs",
     "bylineName": [
@@ -488,9 +565,14 @@
     "imageAttribution": "RVACAPINTA | Creative Commons"
   },
   {
-    "id": 0,
+    "id": 37,
     "fileName": "2022-09-22-artifacts.mdx",
     "filePath": "..\\..\\articles\\2022-09-22-artifacts.mdx",
+    "visuals": [
+      "ArtifactsBarChart.js",
+      "artifactsData.js",
+      "ArtifactsPieChart.js"
+    ],
     "date": "2022-09-22",
     "title": "UC Berkeley’s repatriation process remains far from over",
     "bylineName": [
@@ -507,9 +589,13 @@
     "aboutStory": "Data for this project come from the National Park Service. Museums and federal agencies with collections subject to the Native American Graves Protection and Repatriation Act must submit inventories of human remains and objects."
   },
   {
-    "id": 0,
+    "id": 38,
     "fileName": "2022-10-11-hsi.mdx",
     "filePath": "..\\..\\articles\\2022-10-11-hsi.mdx",
+    "visuals": [
+      "HSIData.js",
+      "HSILineChart.js"
+    ],
     "date": "2022-10-13",
     "title": "In Latine-dominant California, campus demographics, resources lag",
     "bylineName": [
@@ -529,9 +615,21 @@
     ]
   },
   {
-    "id": 0,
+    "id": 39,
     "fileName": "2022-11-07-reddit.mdx",
     "filePath": "..\\..\\articles\\2022-11-07-reddit.mdx",
+    "visuals": [
+      "DailyCommentCount.js",
+      "dailyCommentCountData.js",
+      "PostsPerDayBarChart.js",
+      "postsPerDayData.js",
+      "PostsPerFlairBarChart.js",
+      "postsPerFlairData.js",
+      "PostsPerHourBarChart.js",
+      "postsPerHourData.js",
+      "SubscriberCount.js",
+      "subscriberCountData.js"
+    ],
     "date": "2022-12-09",
     "title": "We scraped Berkeley’s Reddit page r/berkeley",
     "bylineName": [
@@ -550,9 +648,14 @@
     "aboutStory": "Data for this project come from information webscraped from the r/Berkeley subreddit on Oct. 10, 2022."
   },
   {
-    "id": 0,
+    "id": 40,
     "fileName": "2022-11-08-busd-gap.mdx",
     "filePath": "..\\..\\articles\\2022-11-08-busd-gap.mdx",
+    "visuals": [
+      "gapDataELA.js",
+      "gapDataMath.js",
+      "GapStackedBarChart.js"
+    ],
     "date": "2022-11-08",
     "title": "Score gaps between Black and white BUSD students among highest in state",
     "bylineName": [
@@ -567,9 +670,13 @@
     "aboutStory": "Data for this project come from the California Department of Education."
   },
   {
-    "id": 0,
+    "id": 41,
     "fileName": "2022-11-18-turnover.mdx",
     "filePath": "..\\..\\articles\\2022-11-18-turnover.mdx",
+    "visuals": [
+      "Turnovercoordinates.js",
+      "TurnoverMap.js"
+    ],
     "date": "2022-12-03",
     "title": "Is Telegraph Avenue changing?",
     "bylineName": [
@@ -589,9 +696,21 @@
     ]
   },
   {
-    "id": 0,
+    "id": 42,
     "fileName": "2022-11-22-bargaining.mdx",
     "filePath": "..\\..\\articles\\2022-11-22-bargaining.mdx",
+    "visuals": [
+      "BargainingColorMap.js",
+      "BargainingNumberMap.js",
+      "InfoAR.js",
+      "InfoASE.js",
+      "InfoPostdocs.js",
+      "InfoSR.js",
+      "ProposalsAR.js",
+      "ProposalsASE.js",
+      "ProposalsPostdocs.js",
+      "ProposalsSR.js"
+    ],
     "date": "2022-11-24",
     "title": "What are UC workers bargaining for?",
     "bylineName": [
@@ -612,9 +731,13 @@
     "aboutStory": "Information for this project come from four Google Sheets tracking the bargaining process between the UC system and various unions."
   },
   {
-    "id": 0,
+    "id": 43,
     "fileName": "2022-12-09-kutcher.mdx",
     "filePath": "..\\..\\articles\\2022-12-09-kutcher.mdx",
+    "visuals": [
+      "kutcher-images",
+      "KutcherTimeline.js"
+    ],
     "date": "2022-12-09",
     "title": "Beneath the armor",
     "bylineName": [
@@ -628,9 +751,15 @@
     "imageAttribution": "Kira Kutcher | Courtesy"
   },
   {
-    "id": 0,
+    "id": 44,
     "fileName": "2023-01-31-union-vote.mdx",
     "filePath": "..\\..\\articles\\2023-01-31-union-vote.mdx",
+    "visuals": [
+      "TimeDoctorateBarChart.js",
+      "timeDoctorateData.js",
+      "UnionVoteBarChart.js",
+      "unionVoteData.js"
+    ],
     "date": "2023-01-31",
     "title": "'Could have fought harder': Response to new contracts reveal a union divided",
     "bylineName": [
@@ -645,9 +774,14 @@
     "aboutStory": "Data for this project come from UC-UAW email communications and the University of California."
   },
   {
-    "id": 0,
+    "id": 45,
     "fileName": "2023-03-01-rent-map.mdx",
     "filePath": "..\\..\\articles\\2023-03-01-rent-map.mdx",
+    "visuals": [
+      "universityRentData.js",
+      "UniversityRentMap.js",
+      "UniversityRentMapCSS.css"
+    ],
     "date": "2023-03-01",
     "title": "Berkeley community faces challenges with increasing rents",
     "bylineName": [
@@ -664,9 +798,16 @@
     "aboutStory": "Data for this project come from the U.S. Census."
   },
   {
-    "id": 0,
+    "id": 46,
     "fileName": "2023-03-10-telegraph-pedestrianized.mdx",
     "filePath": "..\\..\\articles\\2023-03-10-telegraph-pedestrianized.mdx",
+    "visuals": [
+      "Optionwidths.css",
+      "OptionWidths.js",
+      "OptionWidths2.js",
+      "optionWidthsData.js",
+      "optionWidthsData2.js"
+    ],
     "date": "2023-03-10",
     "title": "Students revive decades-old fight for a car-free Telegraph",
     "bylineName": [
@@ -683,9 +824,13 @@
     "aboutStory": "Information for this project come from the Berkeley Southside Complete Streets Project."
   },
   {
-    "id": 0,
+    "id": 47,
     "fileName": "2023-06-30-warnme.mdx",
     "filePath": "..\\..\\articles\\2023-06-30-warnme.mdx",
+    "visuals": [
+      "data.js",
+      "WarnMeHistogram.js"
+    ],
     "date": "2023-06-30",
     "title": "Sound the alarm: A look inside WarnMe notifications",
     "bylineName": [
@@ -704,9 +849,22 @@
     "aboutStory": "Information for this project comes from the UCPD Daily Crime Logs."
   },
   {
-    "id": 0,
+    "id": 48,
     "fileName": "2023-12-20-theft.mdx",
     "filePath": "..\\..\\articles\\2023-12-20-theft.mdx",
+    "visuals": [
+      "Biketheftmap.css",
+      "BikeTheftMap.js",
+      "bikeTheftMapData.js",
+      "bikeTheftMapDataByYear.js",
+      "BikeTheftTips.js",
+      "PopularTheftLocationsBarChart.js",
+      "popularTheftLocationsData.js",
+      "theftsPerHourData.js",
+      "TheftsPerHourLineChart.js",
+      "TheftsPerYearBarChart.js",
+      "theftsPerYearData.js"
+    ],
     "date": "2023-12-20",
     "title": "Bike and scooter thieves have Berkeley on lock",
     "bylineName": [
@@ -723,9 +881,18 @@
     "aboutStory": "Data for this project come from UCPD."
   },
   {
-    "id": 0,
+    "id": 49,
     "fileName": "2023-12-22-construction.mdx",
     "filePath": "..\\..\\articles\\2023-12-22-construction.mdx",
+    "visuals": [
+      "data",
+      "ProjectsByFundingBar.css",
+      "ProjectsByFundingBar.js",
+      "ProjectsByValuationMap.css",
+      "ProjectsByValuationMap.js",
+      "RHNABarChart.css",
+      "RHNABarChart.js"
+    ],
     "date": "2023-12-22",
     "title": "Historic and current trends in Berkeley’s affordable housing ",
     "bylineName": [

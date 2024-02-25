@@ -1,35 +1,76 @@
 import React, { useState, useEffect, lazy, Suspense } from 'react'
-import Markdown from 'react-markdown';
-
+// import Markdown from 'react-markdown';
+import Markdown from 'markdown-to-jsx';
+import { MDXProvider } from '@mdx-js/react';
 import { HeaderTypography, SubheaderTypography, BylineTypography } from '../StyledComponents/StyledComponents';
 
 import './ArticleTemplate.css';
 
-import reddit from '../../articles/2022-11-07-reddit.mdx'
+// import articles from '../../page_data/articles/articlesData.json';
+// import reddit from '../../articles/2022-11-07-reddit.mdx';
+import PostsPerHourBarChart from '../../visuals/2022-11-07-reddit/PostsPerHourBarChart';
+// import * as matter from 'gray-matter';
+
 
 export default function ArticleTemplate({
     postData
 }) {
-
-    const [articleText, setArticleText] = useState('');
+    // raw article MDX
+    const [articleMDX, setArticleMDX] = useState('');
+    // components to import
+    const [articleComponents, setArticleComponents] = useState({});
+    // markdown-to-jsx component override options
+    const [articleComponentOverrides, setArticleComponentOverrides] = useState({});
 
     console.log('navigated to article:', postData.title);
-    console.log(postData);
+    // console.log('articleData', postData);
 
+    // import article
+    const importArticle = async () => {
+        const { fileName, visuals } = postData;
+        // first get article text from markdown
+        try {
+            // 0) Use dynamic import() to import the module
+            const article_import = await import(`../../articles/${fileName}`);
+            // get content from loaded module
+            const static_article = article_import.default;
+
+            // 1) fetch article text from /static/media --> setMDX text
+            fetch(static_article)
+                .then(res => res.text())
+                .then(text => {
+                    // clean text
+                    // console.log('article text', text);
+                    const content = text.split('---')[2];
+                    // console.log('article gray', content);
+                    // set text for article
+                    setArticleMDX(content);
+                });
+
+            // 2) update visual components
+            console.log('visual comps', visuals);
+            for (const v of visuals) {
+                const visual_import = await import(`../../visuals/${v}`);
+                console.log(visual_import)
+            };
+            setArticleComponents({ PostsPerHourBarChart: PostsPerHourBarChart })
+            setArticleComponentOverrides({
+                PostsPerHourBarChart: {
+                    component: PostsPerHourBarChart,
+                }
+            });
+
+        } catch (error) {
+            console.error(`Error importing module ${fileName}:`, error);
+        }
+        // then import visualizations needed for article
+        const visuals_folder = fileName.split('.mdx')[0];
+    }
 
     // fetch text from mdx file
     useEffect(() => {
-        // const mdxFile = "# Test markdown content";
-        // const mdxFilePath = ;
-        const mdxFilePath = lazy(() => import(postData.filePath));
-        // <Suspense></Suspense>
+        importArticle();
 
-        // fetch(mdxFilePath).then(
-        //     res => {
-        //         console.log('mdx res',res)
-        //         return res.text()}
-        //     ).then(text => setArticleText(text))
-        fetch(reddit).then(res => res.text()).then(text => setArticleText(text))
     }, [postData]);
 
     return (
@@ -73,7 +114,15 @@ export default function ArticleTemplate({
             {/* content area */}
             <div className="article-content">
                 {/* <Markdown children={mdxFile} /> */}
-                <Markdown children={articleText} />
+                <MDXProvider
+                    components={articleComponents}>
+                    <Markdown
+                        children={articleMDX}
+                        options={{
+                            overrides: articleComponentOverrides,
+                        }}
+                    />
+                </MDXProvider>
             </div>
             {/* about area */}
             <div className="article-content"></div>
