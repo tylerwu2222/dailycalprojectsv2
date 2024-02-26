@@ -132,7 +132,7 @@ const formatter = new Intl.NumberFormat('en-US', {
 
 const valuationFormat = (valuation) => formatter.format(valuation);
 
-function ProjectsByValuation() {
+function ProjectsByValuationMap() {
   const [filterSelected, setFilterSelected] = useState(false);
   const [currentSelectedCategory, setCurrentSelectedCategory] = useState('');
   // const [isMobile, setIsMobile] = useState(false);
@@ -441,4 +441,4 @@ function ProjectsByValuation() {
   );
 }
 
-export default ProjectsByValuation;
+export default ProjectsByValuationMap;

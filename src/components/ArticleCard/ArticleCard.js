@@ -5,10 +5,10 @@ import { StyledArticleCard, CardHeaderTypography, BylineTypography } from '../St
 import './ArticleCard.css'
 
 const ArticleCard = ({
-  title, date, image, url = "/"
+  title, date, image, url = "/", target="_blank"
 }) => (
   <StyledArticleCard>
-    <Link to={url} style={{ textDecoration: 'none' }}>
+    <Link to={url} target ={target} style={{ textDecoration: 'none' }}>
       <div className='article-card-img-container'>
         {image ? <img className='article-card-img' src={image} ></img> : <></>}
       </div>

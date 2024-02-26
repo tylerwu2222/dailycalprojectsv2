@@ -62,7 +62,7 @@ function createIcon(vehicleType, size) {
   return null;
 }
 
-function MarkerClusterMap() {
+function BikeTheftMap() {
   const minLat = 37.8503526;
   const maxLat = 37.899434;
   const minLong = -122.3256618;
@@ -716,4 +716,4 @@ function MarkerClusterMap() {
   );
 }
 
-export default MarkerClusterMap;
+export default BikeTheftMap;

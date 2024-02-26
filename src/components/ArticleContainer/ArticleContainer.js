@@ -14,12 +14,23 @@ export default function ArticleContainer({ posts }) {
     return (
         <div className='articles-container'>
             {posts.map(post => {
+                let url;
+                let target;
+                if ('oldLink' in post) {
+                    url = post['oldLink']
+                    target = '_blank'
+                }
+                else {
+                    url = '/article/' + urlify(post.title);
+                    target = '_self'
+                }
                 return (
                     <ArticleCard
                         title={post.title}
                         date={post.date}
                         image={post.featuredImage}
-                        url={"/article/" + urlify(post.title)}
+                        url={url}
+                        target={target}
                     >
                     </ArticleCard>
                 )

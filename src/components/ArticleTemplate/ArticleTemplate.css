@@ -42,3 +42,7 @@
 .article-image-attribution-container{
     text-align: left;
 }
+
+.article-content>div>p{
+    padding: 0 20vw;
+}
