@@ -674,7 +674,7 @@
     "fileName": "2022-11-18-turnover.mdx",
     "filePath": "..\\..\\articles\\2022-11-18-turnover.mdx",
     "visuals": [
-      "Turnovercoordinates.js",
+      "turnoverCoordinates.js",
       "TurnoverMap.js"
     ],
     "date": "2022-12-03",
@@ -779,8 +779,8 @@
     "filePath": "..\\..\\articles\\2023-03-01-rent-map.mdx",
     "visuals": [
       "universityRentData.js",
-      "UniversityRentMap.js",
-      "UniversityRentMapCSS.css"
+      "UniversityRentMap.css",
+      "UniversityRentMap.js"
     ],
     "date": "2023-03-01",
     "title": "Berkeley community faces challenges with increasing rents",
@@ -802,7 +802,7 @@
     "fileName": "2023-03-10-telegraph-pedestrianized.mdx",
     "filePath": "..\\..\\articles\\2023-03-10-telegraph-pedestrianized.mdx",
     "visuals": [
-      "Optionwidths.css",
+      "OptionWidths.css",
       "OptionWidths.js",
       "OptionWidths2.js",
       "optionWidthsData.js",
@@ -853,7 +853,7 @@
     "fileName": "2023-12-20-theft.mdx",
     "filePath": "..\\..\\articles\\2023-12-20-theft.mdx",
     "visuals": [
-      "Biketheftmap.css",
+      "BikeTheftMap.css",
       "BikeTheftMap.js",
       "bikeTheftMapData.js",
       "bikeTheftMapDataByYear.js",
@@ -882,8 +882,40 @@
   },
   {
     "id": 49,
-    "fileName": "2023-12-22-construction.mdx",
-    "filePath": "..\\..\\articles\\2023-12-22-construction.mdx",
+    "fileName": "2024-02-18-internal-audit.mdx",
+    "filePath": "..\\..\\articles\\2024-02-18-internal-audit.mdx",
+    "visuals": [
+      ".Rhistory",
+      "DepartmentBarChart.js",
+      "departmentBarChartData.js",
+      "InternalAuditBarChart.js",
+      "internalAuditData.js"
+    ],
+    "date": "2024-02-18",
+    "title": "Look inside: Internal audit of The Daily Californian",
+    "bylineName": [
+      "Adriana Temprano"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/Adriana%20Temprano/"
+    ],
+    "graphicsName": [
+      "Anika Sikka",
+      "Cameron Fozi"
+    ],
+    "graphicsUrl": [
+      "https://www.dailycal.org/users/profile/Anika%20Sikka/",
+      "https://www.dailycal.org/users/profile/Cameron%20Fozi/"
+    ],
+    "subhead": "",
+    "featuredImage": "../images/audit.png",
+    "imageAttribution": "Kyle Garcia Takata | Senior Staff",
+    "aboutStory": "Data for this project come from an internal survey shared to fall 2023 staffers."
+  },
+  {
+    "id": 50,
+    "fileName": "2024-02-29-construction.mdx",
+    "filePath": "..\\..\\articles\\2024-02-29-construction.mdx",
     "visuals": [
       "data",
       "ProjectsByFundingBar.css",
@@ -893,7 +925,7 @@
       "RHNABarChart.css",
       "RHNABarChart.js"
     ],
-    "date": "2023-12-22",
+    "date": "2024-02-29",
     "title": "Historic and current trends in Berkeley’s affordable housing ",
     "bylineName": [
       "Anishi Patel",
@@ -905,7 +937,7 @@
       "https://www.dailycal.org/users/profile/anika%20sikka/",
       "https://www.dailycal.org/users/profile/tyler%20wu/"
     ],
-    "subhead": "TBD",
+    "subhead": "How Berkeley is addressing housing needs",
     "featuredImage": "../images/construction.png",
     "imageAttribution": "Kyle Garcia Takata | Senior Staff",
     "aboutStory": "Information for this project comes from the Levelset and Berkeley Capital projects."

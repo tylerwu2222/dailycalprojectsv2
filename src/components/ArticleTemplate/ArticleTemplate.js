@@ -1,4 +1,4 @@
-import React, { useState, useEffect, lazy, Suspense } from 'react'
+import React, { useState, useEffect } from 'react'
 // import Markdown from 'react-markdown';
 import Markdown from 'markdown-to-jsx';
 import { MDXProvider } from '@mdx-js/react';
@@ -23,7 +23,7 @@ export default function ArticleTemplate({
     const [articleComponentOverrides, setArticleComponentOverrides] = useState({});
 
     console.log('navigated to article:', postData.title);
-    // console.log('articleData', postData);
+    console.log('articleData', postData);
 
 
 
@@ -88,7 +88,7 @@ export default function ArticleTemplate({
     // fetch text from mdx file
     useEffect(() => {
         importArticle();
-    }, [postData]);
+    },[postData]);
 
     return (
         <div className='article-container'>
@@ -121,7 +121,7 @@ export default function ArticleTemplate({
             {/* image area */}
             <div className='outer-article-image-container'>
                 <div className='article-image-container'>
-                    <img src={postData.featuredImage} className='article-img'></img>
+                    <img src={postData.featuredImage} className='article-img' alt='feature-image'></img>
                     <div className='article-image-attribution-container'>
                         <BylineTypography>{postData.imageAttribution}</BylineTypography>
                     </div>

@@ -187,6 +187,8 @@ function ProjectsByValuationMap() {
     // size: valuation_to_size(d.Valuation),
   }));
 
+  console.log('v data', valuationData);
+
   // reset legend items to all
   const resetItems = () => {
     const allPaths = document.querySelectorAll('.leaflet-interactive');

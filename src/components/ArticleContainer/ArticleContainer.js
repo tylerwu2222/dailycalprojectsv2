@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, createContext } from 'react'
 // router
 import { Routes, Route, Link } from "react-router-dom";
 
@@ -10,10 +10,13 @@ import './ArticleContainer.css';
 
 export default function ArticleContainer({ posts }) {
     // const [selectedArticle, setSelectedArticle] = useState(null);
+    
 
+    const posts_reversed = [...posts].reverse();
     return (
         <div className='articles-container'>
-            {posts.map(post => {
+            {posts_reversed.map(post => {
+                // {posts.map(post => {
                 let url;
                 let target;
                 if ('oldLink' in post) {
