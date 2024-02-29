@@ -3,7 +3,7 @@ import {
   MapContainer, Popup, CircleMarker, TileLayer, Tooltip,
 } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
-import turnoverCoordinates from './TurnoverCoordinates';
+import turnoverCoordinates from './turnoverCoordinates';
 
 const TurnoverMap = () => {
   const centerLat = (turnoverCoordinates.minLat + turnoverCoordinates.maxLat) / 2;
