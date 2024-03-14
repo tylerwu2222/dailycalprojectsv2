@@ -11,6 +11,19 @@ import './ArticleTemplate.css';
 // import PostsPerHourBarChart from '../../visuals/2022-11-07-reddit/PostsPerHourBarChart';
 // import * as matter from 'gray-matter';
 
+function formatDate(inputDate) {
+    // Parse the input date string into a Date object
+    const date = new Date(inputDate);
+  
+    // Format the date as "Month day, year"
+    const formattedDate = date.toLocaleDateString('en-US', { 
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    });
+  
+    return formattedDate;
+  }
 
 export default function ArticleTemplate({
     postData
@@ -105,7 +118,7 @@ export default function ArticleTemplate({
                         Array.isArray(postData.bylineName) ?
                             postData.bylineName.map((n, i) => {
                                 return (<span>
-                                    <a href={postData.bylineUrl[i]} target="_blank">
+                                    <a className='article-author' href={postData.bylineUrl[i]} target="_blank">
                                         <BylineTypography>{n}</BylineTypography>
                                     </a>
                                 </span>)
@@ -114,7 +127,7 @@ export default function ArticleTemplate({
                     }
                 </div>
                 <div className='article-caption-container'>
-                    <BylineTypography>{postData.date}</BylineTypography>
+                    <BylineTypography>{formatDate(postData.date)}</BylineTypography>
                 </div>
             </div>
 

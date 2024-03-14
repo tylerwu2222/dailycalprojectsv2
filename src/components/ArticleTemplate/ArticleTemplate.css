@@ -1,24 +1,30 @@
-
 .article-title-container,
 .article-caption-container,
 .article-authors-container,
-.article-image-container{
+.article-image-container {
     text-align: center;
     align-items: center;
     justify-content: center;
 }
 
 .article-header-section,
-.outer-article-image-container{
+.outer-article-image-container {
     padding-bottom: 35px;
 }
 
-.article-authors-container{
+.article-authors-container {
+    padding-top: 20px;
     display: flex;
     gap: 20px;
 }
 
-.outer-article-image-container{
+.article-author {
+    text-decoration: underline;
+    text-decoration-color: #0E141B;
+    /* Change to your desired color */
+}
+
+.outer-article-image-container {
     display: flex;
     margin-left: auto;
     margin-right: auto;
@@ -26,7 +32,7 @@
     justify-content: center;
 }
 
-.article-image-container{
+.article-image-container {
     width: 60vw;
     height: auto;
     overflow: hidden;
@@ -39,10 +45,18 @@
     border-radius: 7px;
 }
 
-.article-image-attribution-container{
+.article-image-attribution-container {
     text-align: left;
 }
 
-.article-content>div>p{
-    padding: 0 20vw;
+.article-content>div>p {
+    padding: 0 5vw;
+    text-align: justify;
+}
+
+@media only screen and (min-width: 1024px) {
+    .article-content>div>p {
+        padding: 0 20vw;
+        text-align: left;
+    }
 }

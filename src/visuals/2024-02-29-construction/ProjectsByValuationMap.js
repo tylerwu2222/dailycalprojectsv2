@@ -97,28 +97,28 @@ const valuationToColor = (valuation, type) => {
   return color;
 };
 
-// const valuationToOpacity = (valuation) => {
-//   let opacity;
-//   for (const valueThreshold in valuationOpacityDict) {
-//     if (valuation <= valueThreshold) {
-//       opacity = valuationOpacityDict[valueThreshold];
-//       break;
-//     }
-//   }
-//   return opacity;
-// };
-
 const valuationToOpacity = (valuation) => {
   let opacity;
-
-  Object.keys(valuationOpacityDict).forEach((valueThreshold) => {
+  for (const valueThreshold in valuationOpacityDict) {
     if (valuation <= valueThreshold) {
       opacity = valuationOpacityDict[valueThreshold];
+      break;
     }
-  });
-
+  }
   return opacity;
 };
+
+// const valuationToOpacity = (valuation) => {
+//   let opacity;
+
+//   Object.keys(valuationOpacityDict).forEach((valueThreshold) => {
+//     if (valuation <= valueThreshold) {
+//       opacity = valuationOpacityDict[valueThreshold];
+//     }
+//   });
+
+//   return opacity;
+// };
 
 // const valuation_to_size = (valuation) => {
 //   const size = Math.min(Math.max(5, Math.pow(valuation, 0.15)), 25);
@@ -133,6 +133,7 @@ const formatter = new Intl.NumberFormat('en-US', {
 const valuationFormat = (valuation) => formatter.format(valuation);
 
 function ProjectsByValuationMap() {
+
   const [filterSelected, setFilterSelected] = useState(false);
   const [currentSelectedCategory, setCurrentSelectedCategory] = useState('');
   // const [isMobile, setIsMobile] = useState(false);
@@ -212,7 +213,7 @@ function ProjectsByValuationMap() {
       resetItems();
     } else {
       // initial click or click after reset --> filter for category
-    // else if(currentSelectedCategory == "") {
+      // else if(currentSelectedCategory == "") {
       // first reset any previous classes
       resetItems();
       // if category type is project type, match all fills in that project type
@@ -236,209 +237,211 @@ function ProjectsByValuationMap() {
   };
 
   return (
-    <div>
+    <div className="valuation-map-container">
       {valuationData
-                && (
-                <div className="valuation-map-div">
-                  {/* TITLE [ROW1, COL1 & COL2] */}
-                  <div className="vm-title-div">
-                    <h4>
-                      Berkeley construction projects by valuation
-                    </h4>
-                  </div>
-                  {/* LEGEND + DESCRIPTION [R2, C1] */}
-                  {/* <div className='vm-legend-note-div'> */}
-                  {/* LEGEND */}
+        && (
+          <div className="valuation-map-div">
+            {/* TITLE [ROW1, COL1 & COL2] */}
+            <div className="vm-title-div">
+              <h4>
+                Berkeley construction projects by valuation
+              </h4>
+            </div>
+            {/* LEGEND + DESCRIPTION [R2, C1] */}
+            {/* <div className='vm-legend-note-div'> */}
+            {/* LEGEND */}
 
-                    {/* DESCRIPTION */}
-                  <div className="vm-note-div">
-                    <p>
-                      <b>How to use this visualization:</b>
-                      <li>Click an item in the legend to filter projects by building type or valuation.</li>
-                      <li>Click a point on the map to view project details and a link to the location on Google Maps.</li>
-                    </p>
+            {/* DESCRIPTION */}
+            <div className="vm-note-div">
+              <p>
+                <b>How to use this visualization:</b>
+                <li>Click an item in the legend to filter projects by building type or valuation.</li>
+                <li>Click a point on the map to view project details and a link to the location on Google Maps.</li>
+              </p>
 
-                  </div>
+            </div>
 
-                    {/* </div> */}
-                  {/* VIZ [R2, C2] */}
-                  <div className="vm-map-div">
-                    {/* MAP VIZ */}
-                    {
-                      <MapContainer
-                        scrollWheelZoom={false}
-                        minZoom={12}
-                        zoom={13}
-                        center={[centerLat, centerLong]}
-                        bounds={[
-                          [
-                            valuationData.minLat - bufferLat,
-                            valuationData.minLong - bufferLong,
-                          ],
-                          [
-                            valuationData.maxLat + bufferLat,
-                            valuationData.maxLong + bufferLong,
-                          ],
-                        ]}
+            {/* </div> */}
+            {/* VIZ [R2, C2] */}
+            <div className="vm-map-div">
+              {/* MAP VIZ */}
+              {
+                <MapContainer
+                  scrollWheelZoom={true}
+                  minZoom={12.5}
+                  zoom={12.5}
+                  center={[centerLat, centerLong]}
+                  bounds={[
+                    [
+                      valuationData.minLat - bufferLat,
+                      valuationData.minLong - bufferLong,
+                    ],
+                    [
+                      valuationData.maxLat + bufferLat,
+                      valuationData.maxLong + bufferLong,
+                    ],
+                  ]}
+                >
+                  {/* create plot for points to appear on */}
+                  <TileLayer
+                    url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
+                  />
+
+                  {/* scatter plot points */}
+                  {valuationData.info.map((info, k) => {
+                    console.log('data', info);
+                    return <g className={`${k}-circle`}>
+                      <CircleMarker
+                        // key={k}
+                        center={[info.Coordinates[0], info.Coordinates[1]]}
+                        // radius={info.size}
+                        radius={6}
+                        stroke
+                        weight={1}
+                        fill
+                        color="#000"
+                        opacity={info.opacity}
+                        fillColor={info.color}
+                        fillOpacity={info.opacity}
+                        data={k}
                       >
-                        {/* create plot for points to appear on */}
-                        <TileLayer
-                          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
-                        />
 
-                        {/* scatter plot points */}
-                        {valuationData.info.map((info, k) => (
-                          <g className={`${k}-circle`}>
-                            <CircleMarker
-                              // key={k}
-                              center={[info.Coordinates[0], info.Coordinates[1]]}
-                                            // radius={info.size}
-                              radius={6}
-                              stroke
-                              weight={1}
-                              fill
-                              color="#000"
-                              opacity={info.opacity}
-                              fillColor={info.color}
-                              fillOpacity={info.opacity}
-                              data={k}
-                            >
-
-                              {/* point hover popup */}
-                              <Popup>
-                                <div style={{ fontWeight: 500, fontSize: '16px' }}>
-                                  <p>
-                                    {'Address: '}
-                                    <a href={`https://www.google.com/maps/place/${info.Address}`} target="_blank" rel="noreferrer">{info.Address}</a>
-                                  </p>
-                                  <p>
-                                    {'Type: '}
-                                    <span style={{ color: valuationColorDict[info['Building Type']][100000] }}>{info['Building Type']}</span>
-                                  </p>
-                                  <p>
-                                    {'Permit Issued: '}
-                                    {info['Date Issued']}
-                                  </p>
-                                  <p>
-                                    {'Valuation: '}
-                                    {valuationFormat(info.Valuation)}
-                                  </p>
-                                  <p className="popup-description">
-                                    {'Description: '}
-                                    {info['Work Description']}
-                                  </p>
-                                </div>
-                              </Popup>
-                            </CircleMarker>
-                          </g>
-                        ))}
-                      </MapContainer>
-                        }
-                  </div>
-                  <div className="vm-legend-div">
-                    <svg className="vm-legend-svg">
+                        {/* point hover popup */}
+                        <Popup>
+                          <div style={{ fontWeight: 500, fontSize: '16px' }}>
+                            <p>
+                              {'Address: '}
+                              <a href={`https://www.google.com/maps/place/${info.Address}`} target="_blank" rel="noreferrer">{info.Address}</a>
+                            </p>
+                            <p>
+                              {'Type: '}
+                              <span style={{ color: valuationColorDict[info['Building Type']][100000] }}>{info['Building Type']}</span>
+                            </p>
+                            <p>
+                              {'Permit Issued: '}
+                              {info['Date Issued']}
+                            </p>
+                            <p>
+                              {'Valuation: '}
+                              {valuationFormat(info.Valuation)}
+                            </p>
+                            <p className="popup-description">
+                              {'Description: '}
+                              {info['Work Description']}
+                            </p>
+                          </div>
+                        </Popup>
+                      </CircleMarker>
+                    </g>
+                  })}
+                </MapContainer>
+              }
+            </div>
+            <div className="vm-legend-div">
+              <svg className="vm-legend-svg">
+                <text
+                  className="svg-text legend-title"
+                  // x={isMobile ? '5vw' : '0vw'}
+                  x="3vw"
+                  y="5vh"
+                >
+                  Building Type
+                </text>
+                {
+                  Object.keys(valuationColorDict).map((k, i) => (
+                    <g
+                      className="legend-item"
+                      id={`${k}-legend-item`}
+                      onClick={() => {
+                        toggleLegendItem(k);
+                      }}
+                      style={{ pointerEvents: 'bounding-box' }}
+                    >
+                      <circle
+                        className="svg-circle"
+                        stroke="#000"
+                        fill={valuationColorDict[k][100000]}
+                        fillOpacity={1}
+                        cx="5vw"
+                        // cy={isMobile ? `${2.5 * (i + 1)}vh` : `${15 + 2.5 * (i + 1)}vh`}
+                        cy={`${2.5 * (i + 1) + 4.5}vh`}
+                        r={6}
+                      />
                       <text
-                        className="svg-text legend-title"
-                                // x={isMobile ? '5vw' : '0vw'}
-                        x="0vw"
+                        className="svg-text"
+                        x="8vw"
+                        // y={isMobile ? `${2.5 * (i + 1) + 0.5}vh` : `${15 + 2.5 * (i + 1) + 0.5}vh`}
+                        y={`${2.5 * (i + 1) + 0.5 + 4.5}vh`}
+                        style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
                       >
-                        Building Type
+                        {Object.keys(valuationColorDict)[i]}
                       </text>
-                      {
-                                Object.keys(valuationColorDict).map((k, i) => (
-                                  <g
-                                    className="legend-item"
-                                    id={`${k}-legend-item`}
-                                    onClick={() => {
-                                      toggleLegendItem(k);
-                                    }}
-                                    style={{ pointerEvents: 'bounding-box' }}
-                                  >
-                                    <circle
-                                      className="svg-circle"
-                                      stroke="#000"
-                                      fill={valuationColorDict[k][100000]}
-                                      fillOpacity={1}
-                                      cx="5vw"
-                                                // cy={isMobile ? `${2.5 * (i + 1)}vh` : `${15 + 2.5 * (i + 1)}vh`}
-                                      cy={`${2.5 * (i + 1)}vh`}
-                                      r={6}
-                                    />
-                                    <text
-                                      className="svg-text"
-                                      x="8vw"
-                                                // y={isMobile ? `${2.5 * (i + 1) + 0.5}vh` : `${15 + 2.5 * (i + 1) + 0.5}vh`}
-                                      y={`${2.5 * (i + 1) + 0.5}vh`}
-                                      style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
-                                    >
-                                      {Object.keys(valuationColorDict)[i]}
-                                    </text>
-                                  </g>
-                                ))
-                            }
+                    </g>
+                  ))
+                }
+                <text
+                  className="svg-text legend-title"
+                  // x={isMobile ? '50vw' : '0vw'} // right on mobile
+                  x="3vw" // right on mobile
+                  // y={isMobile ? '0vh' : '30vh'} // below on desktop
+                  y="18.5vh"
+                >
+                  Valuation in Dollars
+                </text>
+                {
+                  Object.keys(valuationColorDict.Residential).map((k, i) => (
+                    <g
+                      className="legend-item"
+                      id={`${k}-legend-item`}
+                      onClick={() => {
+                        toggleLegendItem(k);
+                      }}
+                      style={{ pointerEvents: 'bounding-box' }}
+                    >
+                      <circle
+                        className="svg-circle"
+                        stroke="#000"
+                        fill={valuationColorDict.Residential[k]}
+                        fillOpacity={valuationOpacityDict[k]}
+                        strokeOpacity={valuationOpacityDict[k]}
+                        // cx={isMobile ? '50vw' : '5vw'}
+                        cx="5vw"
+                        // cy={isMobile ? `${2.5 * (i + 1)}vh` : `${30 + 2.5 * (i + 1)}vh`}
+                        cy={`${13 + 2.5 * (i + 1) + 5}vh`}
+                        r={6}
+                      />
                       <text
-                        className="svg-text legend-title"
-                                // x={isMobile ? '50vw' : '0vw'} // right on mobile
-                        x="0vw" // right on mobile
-                                // y={isMobile ? '0vh' : '30vh'} // below on desktop
-                        y="15vh"
+                        className="svg-text"
+                        // x={isMobile ? '53vw' : '8vw'}
+                        x="8vw"
+                        // y={isMobile ? `${2.5 * (i + 1) + 0.5}vh` : `${30 + 2.5 * (i + 1) + 0.5}vh`}
+                        y={`${13 + 2.5 * (i + 1) + 0.5 + 5}vh`}
+                        style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
                       >
-                        Valuation in Dollars
+                        {valuationRangesList[i]}
                       </text>
-                      {
-                                Object.keys(valuationColorDict.Residential).map((k, i) => (
-                                  <g
-                                    className="legend-item"
-                                    id={`${k}-legend-item`}
-                                    onClick={() => {
-                                      toggleLegendItem(k);
-                                    }}
-                                    style={{ pointerEvents: 'bounding-box' }}
-                                  >
-                                    <circle
-                                      className="svg-circle"
-                                      stroke="#000"
-                                      fill={valuationColorDict.Residential[k]}
-                                      fillOpacity={valuationOpacityDict[k]}
-                                      strokeOpacity={valuationOpacityDict[k]}
-                                                // cx={isMobile ? '50vw' : '5vw'}
-                                      cx="5vw"
-                                                // cy={isMobile ? `${2.5 * (i + 1)}vh` : `${30 + 2.5 * (i + 1)}vh`}
-                                      cy={`${15 + 2.5 * (i + 1)}vh`}
-                                      r={6}
-                                    />
-                                    <text
-                                      className="svg-text"
-                                                // x={isMobile ? '53vw' : '8vw'}
-                                      x="8vw"
-                                                // y={isMobile ? `${2.5 * (i + 1) + 0.5}vh` : `${30 + 2.5 * (i + 1) + 0.5}vh`}
-                                      y={`${15 + 2.5 * (i + 1) + 0.5}vh`}
-                                      style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
-                                    >
-                                      {valuationRangesList[i]}
-                                    </text>
-                                  </g>
-                                ))
-                            }
-                    </svg>
-                    <input
-                      id="reset-button"
-                      type="button"
-                      value="reset"
-                      style={{ visibility: filterSelected ? 'visible' : 'hidden' }}
-                      onClick={() => { resetItems(); }}
-                    />
-                  </div>
+                    </g>
+                  ))
+                }
+              </svg>
+              <input
+                id="reset-button"
+                type="button"
+                value="reset"
+                style={{ visibility: filterSelected ? 'visible' : 'hidden' }}
+                onClick={() => { resetItems(); }}
+              />
+            </div>
 
-                  <div className="data-note-div">
-                    <p style={{ marginTop: 0 }}>
-                      <b>About the data:</b>
-                      {' '}
-                      This visualization includes construction projects that received permits between Jan. 2019 and Dec. 2022 in Berkeley. It does not include permits for additions or modifications to existing projects.
-                    </p>
-                  </div>
-                </div>
-                )}
+            <div className="data-note-div">
+              <p style={{ marginTop: 0 }}>
+                <b>About the data:</b>
+                {' '}
+                This visualization includes construction projects that received permits between Jan. 2019 and Dec. 2022 in Berkeley. It does not include permits for additions or modifications to existing projects.
+              </p>
+            </div>
+          </div>
+        )}
     </div>
   );
 }

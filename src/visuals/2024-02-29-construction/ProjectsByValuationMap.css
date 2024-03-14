@@ -1,14 +1,27 @@
 /* mobile-display styles */
 
+.valuation-map-container {
+  /* width: 60vw; */
+  display: block;
+  padding: 2vw;
+}
+
 /* MAP */
 .leaflet-container {
-  height: 100vw;
-  width: 100vw;
+  height: 90vw;
+  width: 90vw;
   margin: 30px auto;
   border-radius: 15px;
   box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
   z-index: 0 !important;
 }
+
+/* .vm-map-div {
+  grid-row-start: 2;
+  grid-row-end: 4;
+  grid-column-start: 2;
+  grid-column-end: 3;
+} */
 
 /* LEGEND */
 .vm-legend-svg {
@@ -33,15 +46,15 @@
 
 /* TITLE + NOTES */
 .vm-title-div {
-  padding-left: 2vw;
-  padding-right: 2vw;
+  /* padding-left: 2vw;
+  padding-right: 2vw; */
   font-size: large;
 }
 
 .data-note-div,
 .vm-note-div {
-  padding-left: 5vw;
-  padding-right: 5vw;
+  /* padding-left: 5vw;
+  padding-right: 5vw; */
   font-size: smaller;
   text-align: left;
 }
@@ -95,16 +108,24 @@
 
 /* desktop-size displays */
 @media only screen and (min-width: 1024px) {
+  .valuation-map-container {
+    /* width: 60vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   /* MAP */
   .leaflet-container {
     height: 60vh;
-    width: 60vw;
+    width: 70vh;
     margin: 30 auto;
   }
 
   .valuation-map-div {
+    width: 60vw;
     display: grid;
-    grid-template-rows: 1fr 7fr 3fr 1fr;
+    grid-template-rows: 2fr 10fr 5fr 2fr;
     /* Two rows, the first one will adjust to content, the second one will have 2 columns */
     grid-template-columns: 1fr 4fr;
     /* left column: legend and description, right column: map*/
@@ -121,15 +142,15 @@
     text-align: center;
   }
 
-  .vm-title-div > h4 {
+  .vm-title-div>h4 {
     margin-bottom: 0;
   }
 
-  .vm-legend-div,
+  /* .vm-legend-div,
   .vm-note-div,
   .data-note-div {
     padding-left: 4rem;
-  }
+  } */
 
   .vm-legend-div {
     position: inherit;
@@ -142,8 +163,10 @@
     grid-row: 3;
     grid-column-start: 1;
     grid-column-end: 2;
-    padding-right: 0;
-    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 20px;
+    text-align: justify;
+    /* padding-top: 10px; */
   }
 
   .data-note-div {
