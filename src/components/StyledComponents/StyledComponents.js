@@ -81,6 +81,13 @@ export const StyledArticleCard = styled(Card)({
     }
 });
 
+export const StyledFooterCard = styled(Card)({
+    width: '50%',
+    backgroundColor: '#e9edf0',
+    padding: '10px 25px 10px 25px',
+    margin: '10px 0px 20px 0px',
+})
+
 //  viz form control
 export const StyledFormControl = styled(FormControl)({
     margin: '1%',

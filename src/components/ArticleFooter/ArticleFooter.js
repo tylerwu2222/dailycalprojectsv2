@@ -1,11 +1,11 @@
 import React from 'react';
-import { withStyles } from '@material-ui/core/styles';
-import { styles } from '../styles/customTheme';
+import { StyledFooterCard } from '../StyledComponents/StyledComponents';
+import './ArticleFooter.css'
 
-const ArticleFooter = ({ classes, about }) => (
-  <div className={classes.footerContainer}>
+const ArticleFooter = ({ about = '' }) => (
+  <div className='footer-container'>
     <br />
-    <div className={classes.footerCard}>
+    <StyledFooterCard>
       <h3>
         <b> About this story </b>
       </h3>
@@ -25,9 +25,9 @@ const ArticleFooter = ({ classes, about }) => (
         <a href="https://github.com/dailycal-projects/dailycalprojects">GitHub</a>
         .
       </p>
-    </div>
+    </StyledFooterCard>
 
-    <div className={classes.footerCard}>
+    <StyledFooterCard>
       <h3>
         <b>
           Support us
@@ -40,9 +40,10 @@ const ArticleFooter = ({ classes, about }) => (
         {' '}
         to support our coverage.
       </p>
-    </div>
+    </StyledFooterCard>
     <p style={{ paddingLeft: '5px' }}> Copyright © 2022 The Daily Californian, The Independent Berkeley Student Publishing Co., Inc. </p>
+
   </div>
 );
 
-export default withStyles(styles)(ArticleFooter);
+export default ArticleFooter;

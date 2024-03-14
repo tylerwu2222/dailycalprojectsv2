@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react'
 import Markdown from 'markdown-to-jsx';
 import { MDXProvider } from '@mdx-js/react';
 import { HeaderTypography, SubheaderTypography, BylineTypography } from '../StyledComponents/StyledComponents';
+import ArticleFooter from '../ArticleFooter/ArticleFooter';
 
 import './ArticleTemplate.css';
 
@@ -156,11 +157,8 @@ export default function ArticleTemplate({
                 </MDXProvider>
             </div>
             {/* about area */}
-            <div className="article-content"></div>
-            {/* support area */}
-            <div className="article-content"></div>
-            {/* copyright area */}
-            <div className="article-content"></div>
+            {/* <ArticleFooter about={frontmatter.aboutStory} /> */}
+            <ArticleFooter />
         </div >
     )
 }

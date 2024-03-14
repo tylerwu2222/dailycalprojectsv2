@@ -58,5 +58,6 @@
     .article-content>div>p {
         padding: 0 20vw;
         text-align: left;
+        line-height: 1.5;
     }
 }
