@@ -22,7 +22,7 @@ const ArticleFooter = ({ about = '' }) => (
       <p>
         Code, data and text are open-source on
         {' '}
-        <a href="https://github.com/dailycal-projects/dailycalprojects">GitHub</a>
+        <a href="https://github.com/tylerwu2222/dailycalprojectsv2" target='_blank'>GitHub</a>
         .
       </p>
     </StyledFooterCard>
@@ -36,7 +36,7 @@ const ArticleFooter = ({ about = '' }) => (
       <p>
         We are a nonprofit, student-run newsroom. Please consider
         {' '}
-        <a href="https://donate.dailycal.org">donating</a>
+        <a href="https://donate.dailycal.org" target='_blank'>donating</a>
         {' '}
         to support our coverage.
       </p>

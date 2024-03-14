@@ -3,7 +3,7 @@
 .valuation-map-container {
   /* width: 60vw; */
   display: block;
-  padding: 2vw;
+  margin: 2vw;
 }
 
 /* MAP */
@@ -42,6 +42,8 @@
 
 #reset-button {
   text-align: left;
+  margin-top: 20px;
+  margin-left: 30px;
 }
 
 /* TITLE + NOTES */
@@ -163,8 +165,8 @@
     grid-row: 3;
     grid-column-start: 1;
     grid-column-end: 2;
-    padding-left: 30px;
-    padding-right: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
     text-align: justify;
     /* padding-top: 10px; */
   }

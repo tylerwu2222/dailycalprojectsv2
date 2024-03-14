@@ -31,7 +31,7 @@ const valuationColorDict = {
     10000000: '#52AD3F',
     999999999999: '#229908',
   },
-  Commercial: {
+  'Commercial': {
     100: '#F0EEE9',
     1000: '#DBC5B1',
     10000: '#D0B095',
@@ -71,29 +71,16 @@ const valuationRangesList = [
   '10,000,000+',
 ];
 
-// const valuationToColor = (valuation, type) => {
-//   const colorDictByType = valuationColorDict[type];
-//   let color;
-//   for (const valueThreshold in colorDictByType) {
-
-//     if (valuation <= valueThreshold) {
-//       color = colorDictByType[valueThreshold];
-//       break;
-//     }
-//   }
-//   return color;
-// };
-
 const valuationToColor = (valuation, type) => {
   const colorDictByType = valuationColorDict[type];
   let color;
+  for (const valueThreshold in colorDictByType) {
 
-  Object.keys(colorDictByType).forEach((valueThreshold) => {
     if (valuation <= valueThreshold) {
       color = colorDictByType[valueThreshold];
+      break;
     }
-  });
-
+  }
   return color;
 };
 
@@ -107,18 +94,6 @@ const valuationToOpacity = (valuation) => {
   }
   return opacity;
 };
-
-// const valuationToOpacity = (valuation) => {
-//   let opacity;
-
-//   Object.keys(valuationOpacityDict).forEach((valueThreshold) => {
-//     if (valuation <= valueThreshold) {
-//       opacity = valuationOpacityDict[valueThreshold];
-//     }
-//   });
-
-//   return opacity;
-// };
 
 // const valuation_to_size = (valuation) => {
 //   const size = Math.min(Math.max(5, Math.pow(valuation, 0.15)), 25);
@@ -136,34 +111,6 @@ function ProjectsByValuationMap() {
 
   const [filterSelected, setFilterSelected] = useState(false);
   const [currentSelectedCategory, setCurrentSelectedCategory] = useState('');
-  // const [isMobile, setIsMobile] = useState(false);
-
-  // let window = undefined;
-  // updates window width on page load/resize
-  // useEffect(() => {
-  //     const handleResize = () => {
-  //         if (typeof window !== 'undefined') {
-  //             setIsMobile(window.innerWidth < 1024);
-  //         }
-  //     };
-  //     // Initial check on mount
-  //     handleResize();
-
-  //     // Event listener for window resize
-  //     if (typeof window !== 'undefined') {
-  //         window.addEventListener('resize', handleResize);
-  //     }
-
-  //     // Cleanup the event listener on component unmount
-  //     return () => {
-  //         if (typeof window !== 'undefined') {
-  //             window.removeEventListener('resize', handleResize);
-  //         }
-  //     };
-  // }, []);
-
-  // let centerLat; let distanceLat; let bufferLat; let centerLong; let distanceLong; let
-  //   bufferLong;
 
   // longitude/latitude info
   const centerLat = (valuationData.minLat + valuationData.maxLat) / 2;
@@ -173,14 +120,6 @@ function ProjectsByValuationMap() {
   const distanceLong = valuationData.maxLong - valuationData.minLong;
   const bufferLong = distanceLong * 0.05;
 
-  // // deriving color & opacity info
-  // valuationData.info = valuationData.info.map((d) => {
-  //   d.color = valuationToColor(d.Valuation, d['Building Type']);
-  //   d.opacity = valuationToOpacity(d.Valuation);
-  //   // d.size = valuation_to_size(d.Valuation);
-  //   return d;
-  // });
-
   valuationData.info = valuationData.info.map((d) => ({
     ...d,
     color: valuationToColor(d.Valuation, d['Building Type']),
@@ -188,7 +127,7 @@ function ProjectsByValuationMap() {
     // size: valuation_to_size(d.Valuation),
   }));
 
-  console.log('v data', valuationData);
+  // console.log('v data', valuationData);
 
   // reset legend items to all
   const resetItems = () => {
@@ -203,32 +142,35 @@ function ProjectsByValuationMap() {
   // legend-item: on-click --> toggle visibility of corresponding points on map
   const toggleLegendItem = (category) => {
     const projectTypes = Object.keys(valuationColorDict);
-    let matchedHues; let
-      otherHues; // set based on clicked legend item
+    // console.log('pt', projectTypes);
+    let excludedHues; let
+      matchedHues; // set based on clicked legend item
 
     // if clicking same item, (second consecutive click) reset map
-    // also make reset button visible via filterSelected state
     if (currentSelectedCategory === category) {
-      // console.log('reset map');
       resetItems();
     } else {
       // initial click or click after reset --> filter for category
-      // else if(currentSelectedCategory == "") {
-      // first reset any previous classes
       resetItems();
       // if category type is project type, match all fills in that project type
       if (projectTypes.includes(category)) {
         // console.log('TYPE');
-        otherHues = Object.values(valuationColorDict[category]);
-      } else {
-        // if category type is valuation, match fills for valuation within each project type
-        // console.log('VALUATION');
-        otherHues = Object.keys(valuationColorDict).map((c) => valuationColorDict[c][category]);
+        // array of all color hex's within matched building type
+        matchedHues = Object.values(valuationColorDict[category]);
       }
-      matchedHues = Object.values(valuationColorDict).map((innerObj) => Object.values(innerObj)).flat().filter((item) => !otherHues.includes(item));
-      const selector = `.leaflet-interactive[fill="${matchedHues.join('"], .leaflet-interactive[fill="')}"]`;
-      const matchingPaths = document.querySelectorAll(selector);
-      matchingPaths.forEach((path) => {
+      // if category type is valuation, match fills for valuation within each project type
+      else {
+        // console.log('VALUATION');
+        // array of matching color hex's across each building type
+        matchedHues = Object.keys(valuationColorDict).map((c) => valuationColorDict[c][category]);
+      }
+      // console.log(matchedHues);
+      excludedHues = Object.values(valuationColorDict).map((innerObj) => Object.values(innerObj)).flat().filter((item) => !matchedHues.includes(item));
+      // console.log('excluded', excludedHues);
+      const selector = `.leaflet-interactive[fill="${excludedHues.join('"], .leaflet-interactive[fill="')}"]`;
+      // console.log('selector', selector);
+      const excludedPaths = document.querySelectorAll(selector);
+      excludedPaths.forEach((path) => {
         path.classList.add('fade-out');
       });
       setFilterSelected(true);
@@ -289,7 +231,7 @@ function ProjectsByValuationMap() {
 
                   {/* scatter plot points */}
                   {valuationData.info.map((info, k) => {
-                    console.log('data', info);
+                    // console.log('data', info);
                     return <g className={`${k}-circle`}>
                       <CircleMarker
                         // key={k}
