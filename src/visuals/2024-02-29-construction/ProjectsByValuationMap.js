@@ -239,8 +239,8 @@ function ProjectsByValuationMap() {
                         // radius={info.size}
                         radius={6}
                         // stroke
-                        weight={0}
-                        // weight={1}
+                        // weight={0}
+                        weight={1}
                         fill
                         color="#000"
                         opacity={info.opacity}
