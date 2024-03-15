@@ -238,8 +238,9 @@ function ProjectsByValuationMap() {
                         center={[info.Coordinates[0], info.Coordinates[1]]}
                         // radius={info.size}
                         radius={6}
-                        stroke
-                        weight={1}
+                        // stroke
+                        weight={0}
+                        // weight={1}
                         fill
                         color="#000"
                         opacity={info.opacity}
@@ -280,7 +281,70 @@ function ProjectsByValuationMap() {
               }
             </div>
             <div className="vm-legend-div">
-              <svg className="vm-legend-svg">
+              <div className="vm-legend-container">
+                <div className="legend-section">
+                  <p className="legend-title">Building Type</p>
+                  {Object.keys(valuationColorDict).map((k, i) => (
+                    <div
+                      key={k}
+                      className="legend-item"
+                      onClick={() => toggleLegendItem(k)}
+                    >
+                      {/* <span
+                        className="legend-circle"
+                        style={{ backgroundColor: valuationColorDict[k][100000] }}
+                      /> */}
+                      <svg className="legend-circle" width="12" height="12" paddingRight="5">
+                        <circle
+                          cx="6"
+                          cy="6"
+                          r="5"
+                          // fill={valuationColorDict.Residential[100000]}
+                          fill={valuationColorDict[k][100000]}
+                          fillOpacity={1}
+                        />
+                      </svg>
+                      <p
+                        className="legend-text"
+                        style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
+                      >
+                        {k}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+                <div className="legend-section">
+                  <p className="legend-title">Valuation in Dollars</p>
+                  {Object.keys(valuationColorDict.Residential).map((k, i) => (
+                    <div
+                      key={k}
+                      className="legend-item"
+                      onClick={() => toggleLegendItem(k)}
+                    >
+                      {/* <span
+                        className="legend-circle"
+                        style={{ backgroundColor: valuationColorDict.Residential[k] }}
+                      /> */}
+                      <svg className="legend-circle" width="12" height="12">
+                        <circle
+                          cx="6"
+                          cy="6"
+                          r="5"
+                          fill={valuationColorDict.Residential[k]}
+                        // stroke="#000"
+                        />
+                      </svg>
+                      <p
+                        className="legend-text"
+                        style={{ fontWeight: currentSelectedCategory === k ? 400 : 300 }}
+                      >
+                        {valuationRangesList[i]}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+              {/* <svg className="vm-legend-svg">
                 <text
                   className="svg-text legend-title"
                   // x={isMobile ? '5vw' : '0vw'}
@@ -365,14 +429,19 @@ function ProjectsByValuationMap() {
                     </g>
                   ))
                 }
-              </svg>
-              <input
-                id="reset-button"
-                type="button"
-                value="reset"
-                style={{ visibility: filterSelected ? 'visible' : 'hidden' }}
-                onClick={() => { resetItems(); }}
-              />
+              </svg> */}
+              <div
+                id="reset-button-container"
+                style={{display: filterSelected ? 'flex':'none'}}
+              >
+                <input
+                  id="reset-button"
+                  type="button"
+                  value="reset"
+                  style={{ visibility: filterSelected ? 'visible' : 'hidden' }}
+                  onClick={() => { resetItems(); }}
+                />
+              </div>
             </div>
 
             <div className="data-note-div">

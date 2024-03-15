@@ -9,28 +9,28 @@ import './ProjectsByFundingBar.css';
 const measureDescriptions = {
   'Measure T1': (
     <p>
-      Measure T1 provides $100 million of funding from bond revenue to pay for improvements to
+      Measure T1 provides $100 million of funding from bond revenue to pay for improvements to 
       <b>City infrastructure and facilities</b>
       .
     </p>
   ),
   'Capital Improvement Fund': (
     <p>
-      The Capital Improvement Fund provides funding for annual street rehabilitations, and most recently, the
+      The Capital Improvement Fund provides funding for annual street rehabilitations, and most recently, the 
       <b>Southside Complete Streets project</b>
       .
     </p>
   ),
   'State Transportation Tax': (
     <p>
-      A county-level tax applied to shipping within the county&apos;s jurisdiction; also used to fund
+      A county-level tax applied to shipping within the county&apos;s jurisdiction; also used to fund 
       <b>annual street rehabilitations</b>
       .
     </p>
   ),
   'Measure O': (
     <p style={{ color: '#215775' }}>
-      Measure O provides $135 million of funding from bond revenue to pay for
+      Measure O provides $135 million of funding from bond revenue to pay for 
       <b>affordable housing</b>
       {' '}
       projects.
@@ -38,7 +38,7 @@ const measureDescriptions = {
   ),
   'Measure M': (
     <p>
-      Measure M provided $30 million of funding from bond revenue to improve Berkeley’s streets and install
+      Measure M provided $30 million of funding from bond revenue to improve Berkeley’s streets and install 
       <b>green infrastructure</b>
       {' '}
       to protect water quality in the Bay.
@@ -46,27 +46,27 @@ const measureDescriptions = {
   ),
   'Measure F': (
     <p>
-      Starting in FY 2015, Measure F provided an additional 17% of annual funding to the Parks Tax, a parcel tax that pays for
+      Starting in FY 2015, Measure F provided an additional 17% of annual funding to the Parks Tax, a parcel tax that pays for 
       <b>park maintenance.</b>
     </p>
   ),
   'Measure B & BB': (
     <p>
-      Measure B was approved in 2000, and Measure BB in 2014 to provide sales tax funding for
+      Measure B was approved in 2000, and Measure BB in 2014 to provide sales tax funding for 
       <b>transportation projects</b>
       .
     </p>
   ),
   'Sanitary Sewer Fund': (
     <p>
-      The Sanitary Sewer Fund provides funds for rehabilitating
+      The Sanitary Sewer Fund provides funds for rehabilitating 
       <b>sewage systems</b>
       .
     </p>
   ),
   'Marina Fund': (
     <p>
-      The Marina Fund provides $15 million of funding for repairing docks and dredging in
+      The Marina Fund provides $15 million of funding for repairing docks and dredging in 
       <b>Berkeley&apos;s Marina</b>
       .
     </p>
@@ -74,14 +74,14 @@ const measureDescriptions = {
   'Vehicle Registration Fee (VRF)': (
     <p>
       {' '}
-      A 0.65% fee applied to the purchase price/value of the vehicle; also used to fund
+      A 0.65% fee applied to the purchase price/value of the vehicle; also used to fund 
       <b>annual street rehabilitations</b>
       .
     </p>
   ),
   'Senate Bill 1': (
     <p>
-      Also known as the Road Repair and Accountability Act, this invests $5.4 billion annually to fix
+      Also known as the Road Repair and Accountability Act, this invests $5.4 billion annually to fix 
       <b>roads, freeways and bridges</b>
       {' '}
       in communities across California.
