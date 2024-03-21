@@ -14,8 +14,7 @@ import './ArticleTemplate.css';
 
 function formatDate(inputDate) {
     // Parse the input date string into a Date object
-    const date = new Date(inputDate);
-  
+    const date = new Date(inputDate + 'T00:00:00');
     // Format the date as "Month day, year"
     const formattedDate = date.toLocaleDateString('en-US', { 
       year: 'numeric',
