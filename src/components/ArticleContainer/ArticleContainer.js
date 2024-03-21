@@ -10,7 +10,7 @@ import './ArticleContainer.css';
 
 export default function ArticleContainer({ posts }) {
     // const [selectedArticle, setSelectedArticle] = useState(null);
-    
+
 
     const posts_reversed = [...posts].reverse();
     return (
@@ -20,12 +20,16 @@ export default function ArticleContainer({ posts }) {
                 let url;
                 let target;
                 if ('oldLink' in post) {
-                    url = post['oldLink']
-                    target = '_blank'
+                    url = post['oldLink'];
+                    target = '_blank';
+                }
+                else if ('urlTitle' in post) {
+                    url = '/article/' + urlify(post.urlTitle);
+                    target = '_self';
                 }
                 else {
                     url = '/article/' + urlify(post.title);
-                    target = '_self'
+                    target = '_self';
                 }
                 return (
                     <ArticleCard

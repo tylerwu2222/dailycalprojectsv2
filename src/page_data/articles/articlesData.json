@@ -882,6 +882,31 @@
   },
   {
     "id": 49,
+    "fileName": "2023-12-22-coffee.mdx",
+    "filePath": "..\\..\\articles\\2023-12-22-coffee.mdx",
+    "visuals": [
+      "coffeeData.js",
+      "CoffeeMap.js",
+      "CoffeePricesBarChart.css",
+      "CoffeePricesBarChart.js"
+    ],
+    "date": "2023-12-22",
+    "title": "Coffee Shops Around the Berkeley Campus ",
+    "bylineName": [
+      "Rayan Taghizadeh",
+      "Lauren Lee"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/rayan%20taghizadeh/",
+      "https://www.dailycal.org/users/profile/lauren%20lee/"
+    ],
+    "subhead": "TBD",
+    "featuredImage": "../images/coffee.png",
+    "imageAttribution": "Sean Flaherty | Staff",
+    "aboutStory": "Data for this projects was sourced by the Projects Department."
+  },
+  {
+    "id": 50,
     "fileName": "2024-02-18-internal-audit.mdx",
     "filePath": "..\\..\\articles\\2024-02-18-internal-audit.mdx",
     "visuals": [
@@ -913,7 +938,7 @@
     "aboutStory": "Data for this project come from an internal survey shared to fall 2023 staffers."
   },
   {
-    "id": 50,
+    "id": 51,
     "fileName": "2024-02-29-construction.mdx",
     "filePath": "..\\..\\articles\\2024-02-29-construction.mdx",
     "visuals": [
@@ -926,7 +951,8 @@
       "RHNABarChart.js"
     ],
     "date": "2024-03-14",
-    "title": "Mapping construction at Berkeley",
+    "title": "How Affordable Housing Fits into Berkeley’s Construction Agenda",
+    "urlTitle": "Mapping construction at Berkeley",
     "bylineName": [
       "Anishi Patel",
       "Anika Sikka",
@@ -937,7 +963,7 @@
       "https://www.dailycal.org/users/profile/anika%20sikka/",
       "https://www.dailycal.org/users/profile/tyler%20wu/"
     ],
-    "subhead": "What gets built where",
+    "subhead": "Mapping Berkeley’s latest construction projects",
     "featuredImage": "../images/construction.png",
     "imageAttribution": "Kyle Garcia Takata | Senior Staff",
     "aboutStory": "Information for this project comes from the Levelset and Berkeley Capital projects."

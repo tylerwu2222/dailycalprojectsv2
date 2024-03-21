@@ -28,9 +28,16 @@ function App() {
         {/* <Route exact path="/team" element={<Team />}></Route> */}
         {/* <Route exact path="/contact" element={<Contact />}></Route> */}
         {posts.map(post => {
-          console.log('all post', post);
+          // console.log('all post', post);
           // if old link navigate to old site:
           if (!('oldLink' in post)) {
+            if ('urlTitle' in post) {
+              return (
+                <Route exact path={"/article/" + urlify(post.urlTitle)} element={<ArticleTemplate
+                  postData={post}
+                />}></Route>
+              )
+            }
             return (
               <Route exact path={"/article/" + urlify(post.title)} element={<ArticleTemplate
                 postData={post}
@@ -38,6 +45,7 @@ function App() {
               </Route>
             )
           }
+
         })
         }
       </Routes>
