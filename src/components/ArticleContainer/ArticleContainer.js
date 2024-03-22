@@ -1,4 +1,4 @@
-import React, { useState, createContext } from 'react'
+import React, { useState, useEffect, useContext } from 'react'
 // router
 import { Routes, Route, Link } from "react-router-dom";
 
@@ -7,15 +7,13 @@ import { urlify } from '../../scripts/textCleaning';
 
 // styles
 import './ArticleContainer.css';
+import { HomeContext } from '../../pages/Home/Home';
 
-export default function ArticleContainer({ posts }) {
-    // const [selectedArticle, setSelectedArticle] = useState(null);
-
-
-    const posts_reversed = [...posts].reverse();
+export default function ArticleContainer() {
+    const { dynamicPosts, setDynamicPosts } = useContext(HomeContext);
     return (
         <div className='articles-container'>
-            {posts_reversed.map(post => {
+            {dynamicPosts.map(post => {
                 // {posts.map(post => {
                 let url;
                 let target;
@@ -43,6 +41,7 @@ export default function ArticleContainer({ posts }) {
                 )
             }
             )}
+            <p style={{ display: dynamicPosts.length === 0 ? 'block' : 'none' }}>No posts matched these filters 😔</p>
         </div >
 
     )

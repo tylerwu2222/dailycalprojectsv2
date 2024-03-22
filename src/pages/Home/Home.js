@@ -12,14 +12,19 @@ import ArticleSearchContainer from '../../components/ArticleSearchContainer/Arti
 export const HomeContext = createContext({});
 
 export default function Home() {
-
-    const [dynamicPosts, setDynamicPosts] = useState(posts);
+    const posts_reversed = [...posts].reverse();
+    const [dynamicPosts, setDynamicPosts] = useState(posts_reversed);
 
     return (
         <div>
-            <HomeContext.Provider>
-                <ArticleSearchContainer />
-                <ArticleContainer posts={posts} />
+            <HomeContext.Provider
+                value={{
+                    dynamicPosts,
+                    setDynamicPosts
+                }}
+            >
+                <ArticleSearchContainer posts={posts_reversed} />
+                <ArticleContainer />
             </HomeContext.Provider>
         </div>
     )

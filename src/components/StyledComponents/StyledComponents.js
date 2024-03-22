@@ -1,4 +1,4 @@
-import { Card, Typography, FormControl } from "@mui/material";
+import { Card, Typography, TextField, FormControl } from "@mui/material";
 
 import { styled } from "@mui/material/styles";
 import { DC_site_fonts } from "../../styles/DC_site_fonts";
@@ -38,7 +38,7 @@ export const CardHeaderTypography = styled(Typography)({
     fontFamily: DC_site_fonts.header,
     color: DC_site_colors.headerBlack,
     fontSize: '18px',
-    '&:hover':{
+    '&:hover': {
         cursor: 'pointer',
         color: DC_site_colors.headerBlackHover
     }
@@ -68,17 +68,30 @@ export const StyledArticleCard = styled(Card)({
     padding: '7px',
 
     // outline: 'none',
-    
+
     border: '1px solid ' + DC_site_colors.dividerGrey,
     borderRadius: '7px',
-    
+
     boxShadow: 'none',
     transition: '0.5s ease-in-out',
-    
-    '&:hover':{
+
+    '&:hover': {
         cursor: 'pointer',
         border: '1px solid black',
     }
+});
+
+// INPUT
+// text input
+export const StyledSearchField = styled(TextField)({
+    width: '90%',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    'input': {
+        textAlign: 'center'
+    }
+    // color: '#4B99CF'
+    // backgroundColor: '#4B99CF',
 });
 
 export const StyledFooterCard = styled(Card)({
@@ -92,4 +105,5 @@ export const StyledFooterCard = styled(Card)({
 export const StyledFormControl = styled(FormControl)({
     margin: '1%',
     minWidth: 120,
-  });
+});
+
