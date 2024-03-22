@@ -43,9 +43,17 @@
 
 /* desktop-size displays */
 @media only screen and (min-width: 1024px) {
+
   .fund-chart-div,
   .fund-data-note-div {
-    width: 50%;
+    /* width: 50%; */
+    width: 55vw;
+  }
+
+  .fund-data-note-div {
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .fund-desc-div {
