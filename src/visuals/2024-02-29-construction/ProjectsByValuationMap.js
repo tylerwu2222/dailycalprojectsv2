@@ -6,9 +6,10 @@ import {
   // Tooltip,
   Popup,
 } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
 import valuationData from './data/permit_data.json';
 
+// styles
+import 'leaflet/dist/leaflet.css';
 import './ProjectsByValuationMap.css';
 
 // add color (based on valuation) to map

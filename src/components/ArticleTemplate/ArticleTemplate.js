@@ -16,14 +16,14 @@ function formatDate(inputDate) {
     // Parse the input date string into a Date object
     const date = new Date(inputDate + 'T00:00:00');
     // Format the date as "Month day, year"
-    const formattedDate = date.toLocaleDateString('en-US', { 
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
+    const formattedDate = date.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
     });
-  
+
     return formattedDate;
-  }
+}
 
 export default function ArticleTemplate({
     postData
@@ -79,7 +79,7 @@ export default function ArticleTemplate({
                     ArticleComponentObject[visFileName] = visual;
                     ArticleComponentOverridesObject[visFileName] = {
                         component: visual,
-                      };
+                    };
                     console.log('visual import', visual);
                 }
             }
@@ -101,7 +101,7 @@ export default function ArticleTemplate({
     // fetch text from mdx file
     useEffect(() => {
         importArticle();
-    },[postData]);
+    }, [postData]);
 
     return (
         <div className='article-container'>
@@ -132,14 +132,15 @@ export default function ArticleTemplate({
             </div>
 
             {/* image area */}
-            <div className='outer-article-image-container'>
+            {postData.featuredImage ? <div className='outer-article-image-container'>
                 <div className='article-image-container'>
                     <img src={postData.featuredImage} className='article-img' alt='feature-image'></img>
                     <div className='article-image-attribution-container'>
                         <BylineTypography>{postData.imageAttribution}</BylineTypography>
                     </div>
                 </div>
-            </div>
+            </div> : null
+            }
 
             {/* content area */}
             <div className="article-content">

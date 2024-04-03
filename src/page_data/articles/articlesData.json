@@ -967,5 +967,30 @@
     "featuredImage": "../images/construction.png",
     "imageAttribution": "Kyle Garcia Takata | Senior Staff",
     "aboutStory": "Information for this project comes from the Levelset and Berkeley Capital projects."
+  },
+  {
+    "id": 52,
+    "fileName": "2024-05-13-baypass.mdx",
+    "filePath": "..\\..\\articles\\2024-05-13-baypass.mdx",
+    "visuals": [
+      "BayPassCalculator.css",
+      "BayPassCalculator.js",
+      "data"
+    ],
+    "date": "2024-05-13",
+    "title": "Is the BayPass worth it?",
+    "bylineName": [
+      "Andy Chen",
+      "Sam Wang",
+      "Tyler Wu"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/andy%20chan/",
+      "https://www.dailycal.org/users/profile/sam%20wang/",
+      "https://www.dailycal.org/users/profile/tyler%20wu/"
+    ],
+    "subhead": "We created a tool to check",
+    "imageAttribution": "",
+    "aboutStory": "Information for this project comes from 511.org and the Metropolotin Transportation Commission."
   }
 ]
