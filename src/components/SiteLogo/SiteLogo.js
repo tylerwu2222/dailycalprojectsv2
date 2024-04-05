@@ -6,7 +6,9 @@ export default function SiteLogo() {
     return (
         <div id='logo-container'>
             <a className="nav-brand-link"
-                href="/"
+                // target='_blank'
+                href="https://dailycal-projects.netlify.app/"
+            // href="/"
             >
                 <img
                     id="DC-logo"

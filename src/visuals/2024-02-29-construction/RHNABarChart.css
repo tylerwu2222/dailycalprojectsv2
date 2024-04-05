@@ -35,6 +35,7 @@
 
 @media only screen and (min-width: 1024px) {
   .rhna-chart-div {
-    width: 50%;
+    /* width: 50%; */
+    width: 83%;
   }
 }

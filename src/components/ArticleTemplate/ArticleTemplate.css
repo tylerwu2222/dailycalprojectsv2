@@ -49,14 +49,27 @@
     text-align: left;
 }
 
-.article-content>div>p {
-    padding: 0 5vw;
+.article-content>div>p,
+.article-content>div>h1,
+.article-content>div>h2,
+.article-content>div>h3,
+.article-content>div>h4 {
+    margin-left: 5vw;
+    margin-right: 5vw;
     text-align: justify;
 }
 
 @media only screen and (min-width: 1024px) {
-    .article-content>div>p {
-        padding: 0 20vw;
+
+    /* give text extra vertical space and horizontal padding on desktop */
+    .article-content>div>p,
+    .article-content>div>h1,
+    .article-content>div>h2,
+    .article-content>div>h3,
+    .article-content>div>h4,
+    .article-content>div>div {
+        margin-left: 20vw;
+        margin-right: 20vw;
         text-align: left;
         line-height: 1.5;
     }
