@@ -1,23 +1,21 @@
-import './CoffeePricesBarChart.css';
-import React from 'react';
-import {
-  BarChart, Bar, XAxis, YAxis, ResponsiveContainer, CartesianGrid, Tooltip,
-} from 'recharts';
-import coffeeData from './coffeeData';
+// import './App.css';
+import React from "react";
+import { coffeeData } from "./coffeeData";
+import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, CartesianGrid, Tooltip } from "recharts";
+import './CoffeePricesBarChart.css'
 
 const sortedData = coffeeData.info.sort(
-  (a, b) => b.averagePrice - a.averagePrice,
-);
+    (a, b) => b.averagePrice - a.averagePrice
+  );
 
-function CoffeePricesBarChart() {
-  return (
-    <div style={{
-      display: 'block',
-      marginTop: 'auto',
-      left: '20px',
-    }}
-    >
-
+function CoffeeBarChart() {
+    return (
+  <div style={{
+          display: "block",
+          marginTop: "auto",
+          left: "20px"
+        }}>
+      
       <ResponsiveContainer height={1000}>
         <BarChart
           width={500}
@@ -28,25 +26,18 @@ function CoffeePricesBarChart() {
             top: 5,
             right: 30,
             left: 50,
-            bottom: 25,
+            bottom: 25
           }}
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis type="number" label={{ value: 'Average Price ($)', position: 'insideBottom', offset: -10 }} />
-          <YAxis
-            dataKey="shopName"
-            type="category"
-            tick={{ fontSize: 8 }}
-            label={{
-              value: 'Coffee Shop', position: 'insideLeft', angle: -90, offset: -20,
-            }}
-          />
-          <Tooltip formatter={(value) => `$${value.toFixed(2)}`} />
+          <XAxis type="number" label={{ value: "Average Price ($)", position: "insideBottom", offset: -10 }}/>
+          <YAxis dataKey="shopName" type="category" tick={{ fontSize: 8 }} label={{ value: "Coffee Shop", position: "insideLeft", angle: -90, offset: -20 }} />
+          <Tooltip formatter={(value) => `$${value.toFixed(2)}`}/> 
           <Bar dataKey="averagePrice" name="Average Price" fill="#a07fac" />
         </BarChart>
       </ResponsiveContainer>
-    </div>
-  );
-}
+      </div>
+    );
+  }
 
-export default CoffeePricesBarChart;
+  export default CoffeeBarChart;

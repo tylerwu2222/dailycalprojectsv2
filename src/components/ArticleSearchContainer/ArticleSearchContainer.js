@@ -15,7 +15,8 @@ export default function ArticleSearchContainer({ posts }) {
     useEffect(() => {
         setDynamicPosts(filterSort(posts, searchKeyword));
         // setFSPosts(filterSort(postData, searchKeyword, selectedTags, sortOption));
-    }, [posts, searchKeyword]);
+        // }, [posts, searchKeyword]);
+    }, [searchKeyword]);
 
     return (
         <div className='article-search-container'>

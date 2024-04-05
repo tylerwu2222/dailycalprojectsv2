@@ -31,6 +31,15 @@ function App() {
           // console.log('all post', post);
           // if old link navigate to old site:
           if (!('oldLink' in post)) {
+            if ('staging' in post) {
+              console.log('staged post url:', "/staging/" + urlify(post.title)); // uncomment to check staging links
+              return (
+                <Route exact path={"/staging/" + urlify(post.title)} element={<ArticleTemplate
+                  postData={post}
+                />}></Route>
+              )
+            }
+            // to use when need static url (different from title)
             if ('urlTitle' in post) {
               return (
                 <Route exact path={"/article/" + urlify(post.urlTitle)} element={<ArticleTemplate
