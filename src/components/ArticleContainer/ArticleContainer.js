@@ -29,16 +29,17 @@ export default function ArticleContainer() {
                     url = '/article/' + urlify(post.title);
                     target = '_self';
                 }
-                return (
+                // only render if post
+                let render = 'staging' in post ?
+                    <></> :
                     <ArticleCard
                         title={post.title}
                         date={post.date}
                         image={post.featuredImage}
                         url={url}
                         target={target}
-                    >
-                    </ArticleCard>
-                )
+                    ></ArticleCard>;
+                return (render)
             }
             )}
             <p style={{ display: dynamicPosts.length === 0 ? 'block' : 'none' }}>No posts matched these filters 😔</p>

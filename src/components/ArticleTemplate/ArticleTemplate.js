@@ -36,7 +36,7 @@ export default function ArticleTemplate({
     const [articleComponentOverrides, setArticleComponentOverrides] = useState({});
 
     console.log('navigated to article:', postData.title);
-    console.log('articleData', postData);
+    // console.log('articleData', postData);
 
 
 
@@ -64,7 +64,7 @@ export default function ArticleTemplate({
         }
 
         // 2) update visual components
-        console.log('visual comps', visuals);
+        // console.log('visual comps', visuals);
         const fileNameNoExt = fileName.split('.mdx')[0]
         let ArticleComponentObject = {};
         let ArticleComponentOverridesObject = {};
@@ -80,15 +80,15 @@ export default function ArticleTemplate({
                     ArticleComponentOverridesObject[visFileName] = {
                         component: visual,
                     };
-                    console.log('visual import', visual);
+                    // console.log('visual import', visual);
                 }
             }
             catch (error) {
                 console.error(`Error with visual ${v}:`, error);
             }
         };
-        console.log('ACO', ArticleComponentObject);
-        console.log('ACOO', ArticleComponentOverridesObject);
+        // console.log('ACO', ArticleComponentObject);
+        // console.log('ACOO', ArticleComponentOverridesObject);
         setArticleComponents(ArticleComponentObject);
         setArticleComponentOverrides(ArticleComponentOverridesObject);
         // setArticleComponentOverrides({

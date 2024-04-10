@@ -1,17 +1,12 @@
-.map {
+/* .map {
     height: 100vh;
     width: 100%;
-}
+} */
 
-.map-container {
+/* .map-container {
     flex-grow: 1;
     height: 100vh;
-}
-
-.shopNamez {
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-}
+} */
 
 .pLevels {
     font-family: Arial, Helvetica, sans-serif;
@@ -32,45 +27,6 @@ li {
     list-style-type: none;
     font-weight: normal;
     text-align: left;
-}
-
-.sidebar {
-    width: 300px;
-    height: 100vh;
-    overflow-y: auto;
-    border-right: 1px solid #ccc;
-    padding: 20px;
-    background-color: #e9edf0;
-}
-
-.reset-button {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background-color: rgb(255, 255, 255);
-    border: 3px solid #ccc;
-    padding: 5px 10px;
-    cursor: pointer;
-    font-size: 14px;
-    font-weight: bold;
-    z-index: 1000;
-}
-
-.coffee-shop {
-    margin-bottom: 10px;
-    padding: 10px;
-    border: 1px solid #000;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: color 0.3s ease;
-}
-
-.coffee-shop:hover {
-    color: #7e453a;
-}
-
-.shopName {
-    font-weight: bold;
 }
 
 .App {
@@ -115,18 +71,6 @@ p#address {
     to {
         transform: rotate(360deg);
     }
-}
-
-.star-icon {
-    position: relative;
-    display: inline-block;
-}
-
-.half-star {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin-top: 4px;
 }
 
 .coffee-address {

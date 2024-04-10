@@ -24,3 +24,9 @@ Using react-router-dom to navigate between pages.
     - Route paths are currently: /article/urlified-title
 - Links to article routes wrap the ArticleCard
 
+
+## STAGING
+to stage an article (make private), 
+add staging: true into the front-matter of the mdx file 
+--> run npm update articles
+to remove from staging and deploy, simply remove staging from the front-matter
