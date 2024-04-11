@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Text, ResponsiveContainer,
 } from 'recharts';
@@ -54,39 +54,21 @@ const reverseTooltipContent = (o) => {
 // };
 
 function RHNABarChart() {
-  // const [isMobile, setIsMobile] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
 
   // let window = undefined;
-  // useEffect(() => {
-  //   const handleResize = () => {
-  //     if (typeof window !== 'undefined') {
-  //       setIsMobile(window.innerWidth < 1024);
-  //     }
-  //   };
-  //   // Initial check on mount
-  //   handleResize();
-
-  //   // Event listener for window resize
-  //   if (typeof window !== 'undefined') {
-  //     window.addEventListener('resize', handleResize);
-  //   }
-
-  //   // Cleanup the event listener on component unmount
-  //   return () => {
-  //     if (typeof window !== 'undefined') {
-  //       window.removeEventListener('resize', handleResize);
-  //     }
-  //   };
-  // }, []);
+  useEffect(() => {
+    setIsMobile(window.innerWidth < 1024);
+  }, []);
 
   const containerStyle = {
-    // height: isMobile ? 400 : 500,
-    height: 500,
+    height: isMobile ? 350 : 500,
+    // height: 500,
     margin: {
       top: 20,
       right: 20,
       left: 20,
-      bottom: 50,
+      bottom: isMobile ? 20 : 50,
     },
   };
 

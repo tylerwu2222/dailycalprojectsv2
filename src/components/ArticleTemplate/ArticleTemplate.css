@@ -33,7 +33,7 @@
 }
 
 .article-image-container {
-    width: 60vw;
+    width: 90vw;
     height: auto;
     overflow: hidden;
     position: relative;
@@ -72,5 +72,9 @@
         margin-right: 20vw;
         text-align: left;
         line-height: 1.5;
+    }
+    
+    .article-image-container {
+        width: 60vw;
     }
 }
