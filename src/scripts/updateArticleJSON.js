@@ -11,7 +11,7 @@ const visualsDirectory = path.resolve(__dirname,'../visuals');
 const articles = fs.readdirSync(articlesDirectory);
 const visualFolders = fs.readdirSync(visualsDirectory);
 // path to hold articles data
-const jsonFilePath = path.resolve(__dirname, '../page_data/articles/articlesData.json');
+const jsonFilePath = path.resolve(__dirname, '../site_data/articles/articlesData.json');
 
 function updateJsonFiles() {
 
@@ -42,7 +42,7 @@ function updateJsonFiles() {
     );
     fs.writeFile(jsonFilePath, JSON.stringify(jsonData, null, 2));
     // await fs.writeFile(jsonFilePath, JSON.stringify(jsonData, null, 2));
-    console.log('JSON file updated successfully. Find files at src/page_data/articles/articlesData.json');
+    console.log('JSON file updated successfully. Find files at src/site_data/articles/articlesData.json');
   } catch (error) {
     console.error('Error updating JSON file:', error);
   }

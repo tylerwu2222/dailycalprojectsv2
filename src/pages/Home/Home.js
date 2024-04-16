@@ -1,7 +1,7 @@
 import React, { createContext, useState } from 'react'
 
 // data
-import posts from '../../page_data/articles/articlesData.json';
+import posts from '../../site_data/articles/articlesData.json';
 
 // components
 // import SiteLogo from '../../components/SiteLogo/SiteLogo'

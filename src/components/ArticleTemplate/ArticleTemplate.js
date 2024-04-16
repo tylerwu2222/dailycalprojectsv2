@@ -7,7 +7,7 @@ import ArticleFooter from '../ArticleFooter/ArticleFooter';
 
 import './ArticleTemplate.css';
 
-// import articles from '../../page_data/articles/articlesData.json';
+// import articles from '../../site_data/articles/articlesData.json';
 // import reddit from '../../articles/2022-11-07-reddit.mdx';
 // import PostsPerHourBarChart from '../../visuals/2022-11-07-reddit/PostsPerHourBarChart';
 // import * as matter from 'gray-matter';

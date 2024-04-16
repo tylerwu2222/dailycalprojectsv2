@@ -2,7 +2,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // data
-import posts from '../src/page_data/articles/articlesData.json'
+import posts from '../src/site_data/articles/articlesData.json'
 
 // components
 import SiteLogo from './components/SiteLogo/SiteLogo';
