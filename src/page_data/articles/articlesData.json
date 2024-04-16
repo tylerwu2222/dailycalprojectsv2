@@ -886,6 +886,7 @@
     "filePath": "..\\..\\articles\\2023-12-22-coffee.mdx",
     "visuals": [
       "coffeeData.js",
+      "CoffeeMap.css",
       "CoffeeMap.js",
       "CoffeePricesBarChart.css",
       "CoffeePricesBarChart.js"
