@@ -1,0 +1,79 @@
+.members-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10vw;
+}
+
+.current-members-container,
+.former-members-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.current-member-cards-container,
+.former-member-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 20px;
+}
+
+.member-card {
+    /* background-color: aqua; */
+    flex: 0 1 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    min-width: 15vw;
+    max-width: 30vw;
+    padding: 10px;
+    border: 1px antiquewhite solid;
+    border-radius: 10px;
+    text-wrap: wrap;
+}
+
+.member-card>p {
+    margin: 1px;
+}
+
+.member-name {
+    font-size: larger;
+    font-weight: 500;
+}
+
+.member-position {
+    font-size: medium;
+}
+
+.member-image {
+    max-width: 90vw;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+
+.member-bio {
+    margin: 3px 0px;
+    text-align: justify;
+}
+
+@media only screen and (min-width: 1024px) {
+    .member-card {
+        /* background-color: aqua; */
+        flex: 1 1 20%;
+    }
+
+    .current-member-cards-container,
+    .former-member-cards-container {
+        display: flex;
+        gap: 5vw;
+    }
+
+    .member-image {
+        max-height: 40vh;
+        max-width: 30vw;
+    }
+
+}

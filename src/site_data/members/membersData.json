@@ -1,0 +1,77 @@
+[
+    {
+        "Name": "Andy Chen",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Anika Sikka",
+        "Position": "Deputy Editor",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Arfa Momin",
+        "Position": "Editor",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Cameron Fozi",
+        "Position": "Editor ( - Fall 2022)",
+        "Former": true,
+        "Bio": ""
+    },
+    {
+        "Name": "Claire",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Lauren",
+        "Position": "",
+        "Former": true,
+        "Bio": ""
+    },
+    {
+        "Name": "Mark",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Paloma Torres",
+        "Position": "Editor (Spring 2023 - Fall 2024)",
+        "Former": true,
+        "Bio": ""
+    },
+    {
+        "Name": "Rayan",
+        "Position": "",
+        "Former": true,
+        "Bio": ""
+    },
+    {
+        "Name": "Sam Wang",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "Name": "Tyler Wu",
+        "Position": "Deputy Editor (Spring 2024)",
+        "Former": true,
+        "Bio": "Tyler likes coding, drawing, and making visualizations. He also helped make this site, (and this page specifically).",
+        "FaveViz": "Network",
+        "Site": "the pig pencil",
+        "SiteURL": "https://thepigpencil.com/"
+    },
+    {
+        "Name": "Veronica",
+        "Position": "",
+        "Former": true,
+        "Bio": ""
+    }
+]

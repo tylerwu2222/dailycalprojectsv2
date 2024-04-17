@@ -13,6 +13,7 @@ import { urlify } from './scripts/textCleaning';
 
 import './App.css';
 import Home from './pages/Home/Home';
+import Team from './pages/Team/Team';
 
 function App() {
   // const posts = ['p1','p2'];
@@ -25,7 +26,7 @@ function App() {
       </div>
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
-        {/* <Route exact path="/team" element={<Team />}></Route> */}
+        <Route exact path="/team" element={<Team />}></Route>
         {/* <Route exact path="/contact" element={<Contact />}></Route> */}
         {posts.map(post => {
           // console.log('all post', post);

@@ -10,7 +10,7 @@ const ArticleCard = ({
   <StyledArticleCard>
     <Link to={url} target ={target} style={{ textDecoration: 'none' }}>
       <div className='article-card-img-container'>
-        {image ? <img className='article-card-img' src={image} ></img> : <></>}
+        {image ? <img className='article-card-img' src={image} loading='lazy'></img> : <></>}
       </div>
       <CardHeaderTypography>
         {title}

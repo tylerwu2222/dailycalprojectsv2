@@ -60,7 +60,6 @@
 }
 
 @media only screen and (min-width: 1024px) {
-
     /* give text extra vertical space and horizontal padding on desktop */
     .article-content>div>p,
     .article-content>div>h1,
