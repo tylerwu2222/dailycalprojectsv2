@@ -7,19 +7,22 @@ import posts from '../src/site_data/articles/articlesData.json'
 // components
 import SiteLogo from './components/SiteLogo/SiteLogo';
 import ArticleTemplate from './components/ArticleTemplate/ArticleTemplate';
-
-import { urlify } from './scripts/textCleaning';
-
-import './App.css';
 import Home from './pages/Home/Home';
 import Team from './pages/Team/Team';
 import About from './pages/About/About';
+
+import ScrollToTop from './components/ScrollToTop/ScrollToTop';
+import { urlify } from './scripts/textCleaning';
+
+import './App.css';
+
 
 function App() {
   // const posts = ['p1','p2'];
 
   return (
     <Router>
+      <ScrollToTop />
       <div className="App">
         <SiteLogo />
       </div>
