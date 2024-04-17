@@ -1,26 +1,26 @@
-.members-container {
+.staffers-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0 10vw;
 }
 
-.current-members-container,
-.former-members-container{
+.current-staffers-container,
+.former-staffers-container{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.current-member-cards-container,
-.former-member-cards-container {
+.current-staffer-cards-container,
+.former-staffer-cards-container {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     padding: 10px 20px;
 }
 
-.member-card {
+.staffer-card {
     /* background-color: aqua; */
     flex: 0 1 90%;
     display: flex;
@@ -35,44 +35,48 @@
     text-wrap: wrap;
 }
 
-.member-card>p {
+.staffer-position{
+    text-align: center;
+}
+.staffer-card>p {
     margin: 1px;
 }
 
-.member-name {
+.staffer-name {
     font-size: larger;
     font-weight: 500;
 }
 
-.member-position {
+.staffer-position {
     font-size: medium;
 }
 
-.member-image {
+.staffer-image {
+    margin: 10px 0;
     max-width: 90vw;
     border: 1px black solid;
     border-radius: 10px;
 }
 
-.member-bio {
+.staffer-bio {
     margin: 3px 0px;
     text-align: justify;
 }
 
 @media only screen and (min-width: 1024px) {
-    .member-card {
+    .staffer-card {
         /* background-color: aqua; */
         flex: 1 1 20%;
     }
 
-    .current-member-cards-container,
-    .former-member-cards-container {
+    .current-staffer-cards-container,
+    .former-staffer-cards-container {
         display: flex;
         gap: 5vw;
     }
 
-    .member-image {
-        max-height: 40vh;
+    .staffer-image {
+        max-height: 30vh;
         max-width: 30vw;
     }
 

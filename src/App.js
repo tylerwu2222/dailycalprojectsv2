@@ -6,7 +6,6 @@ import posts from '../src/site_data/articles/articlesData.json'
 
 // components
 import SiteLogo from './components/SiteLogo/SiteLogo';
-import NavBar from './components/NavBar/NavBar';
 import ArticleTemplate from './components/ArticleTemplate/ArticleTemplate';
 
 import { urlify } from './scripts/textCleaning';
@@ -14,6 +13,7 @@ import { urlify } from './scripts/textCleaning';
 import './App.css';
 import Home from './pages/Home/Home';
 import Team from './pages/Team/Team';
+import About from './pages/About/About';
 
 function App() {
   // const posts = ['p1','p2'];
@@ -22,12 +22,13 @@ function App() {
     <Router>
       <div className="App">
         <SiteLogo />
-        <NavBar />
       </div>
       <Routes>
         <Route exact path="/" element={<Home />}></Route>
+        <Route exact path="/home" element={<Home />}></Route>
+        <Route exact path="/home/:searchQuery" element={<Home />}></Route>
         <Route exact path="/team" element={<Team />}></Route>
-        {/* <Route exact path="/contact" element={<Contact />}></Route> */}
+        <Route exact path="/about" element={<About />}></Route>
         {posts.map(post => {
           // console.log('all post', post);
           // if old link navigate to old site:

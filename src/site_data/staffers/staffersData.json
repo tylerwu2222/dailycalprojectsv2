@@ -1,77 +1,89 @@
 [
     {
-        "Name": "Andy Chen",
+        "FirstName": "Andy",
+        "LastName": "Chen",
         "Position": "",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Anika Sikka",
+        "FirstName": "Anika",
+        "LastName": "Sikka",
         "Position": "Deputy Editor",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Arfa Momin",
+        "FirstName": "Arfa",
+        "LastName": "Momin",
         "Position": "Editor",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Cameron Fozi",
-        "Position": "Editor ( - Fall 2022)",
-        "Former": true,
-        "Bio": ""
-    },
-    {
-        "Name": "Claire",
+        "FirstName": "Cameron",
+        "LastName": "Fozi",
         "Position": "",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Lauren",
-        "Position": "",
-        "Former": true,
-        "Bio": ""
-    },
-    {
-        "Name": "Mark",
+        "FirstName": "Claire",
+        "LastName": "",
         "Position": "",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Paloma Torres",
+        "FirstName": "Lauren",
+        "LastName": "",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "FirstName": "Mark",
+        "LastName": "",
+        "Position": "",
+        "Former": false,
+        "Bio": ""
+    },
+    {
+        "FirstName": "Paloma",
+        "LastName": "Torres",
         "Position": "Editor (Spring 2023 - Fall 2024)",
         "Former": true,
         "Bio": ""
     },
     {
-        "Name": "Rayan",
+        "FirstName": "Rayan",
+        "LastName": "",
         "Position": "",
         "Former": true,
         "Bio": ""
     },
     {
-        "Name": "Sam Wang",
+        "FirstName": "Sam",
+        "LastName": "Wang",
         "Position": "",
         "Former": false,
         "Bio": ""
     },
     {
-        "Name": "Tyler Wu",
+        "FirstName": "Tyler",
+        "LastName": "Wu",
         "Position": "Deputy Editor (Spring 2024)",
-        "Former": true,
+        "Former": false,
         "Bio": "Tyler likes coding, drawing, and making visualizations. He also helped make this site, (and this page specifically).",
         "FaveViz": "Network",
         "Site": "the pig pencil",
         "SiteURL": "https://thepigpencil.com/"
     },
     {
-        "Name": "Veronica",
+        "FirstName": "Veronica",
+        "LastName": "",
         "Position": "",
-        "Former": true,
+        "Former": false,
         "Bio": ""
     }
 ]

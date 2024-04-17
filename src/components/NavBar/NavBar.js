@@ -1,17 +1,20 @@
 import * as React from 'react';
-// import { withStyles } from '@material-ui/core/styles';
-// import { Link } from 'gatsby';
-// import { styles } from '../styles/customTheme';
+import { Link } from 'react-router-dom';
 
-// const NavBar = ({ classes }) => (
+import { CardHeaderTypography } from '../StyledComponents/StyledComponents';
+// import { styles } from '../styles/customTheme';
+import './NavBar.css'
+
 const NavBar = () => (
-  <div >
-    {/* <div className={classes.navHeader}> */}
-    <div>
-      {/* <div className={classes.navBar}> */}
-      {/* <Link to="/" className={classes.navText}>Home.</Link>
-      <Link to="/about/" className={classes.navText}> About.</Link> */}
-    </div>
+  <div className='navbar-container'>
+    <Link
+      to={"/team"}
+      style={{ textDecoration: 'none' }}
+    ><CardHeaderTypography>Team</CardHeaderTypography></Link>
+    <Link
+      to={"/about"}
+      style={{ textDecoration: 'none' }}
+    ><CardHeaderTypography>About</CardHeaderTypography></Link>
   </div>
 );
 
