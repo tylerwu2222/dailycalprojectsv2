@@ -77,7 +77,8 @@ export const StyledArticleCard = styled(Card)({
 
     '&:hover': {
         cursor: 'pointer',
-        border: '1px solid black',
+        // border: '1px solid black',
+        border: '1px solid ' + DC_site_colors.dailyCalBlue,
     }
 });
 
