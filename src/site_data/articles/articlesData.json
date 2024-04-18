@@ -882,33 +882,6 @@
   },
   {
     "id": 49,
-    "fileName": "2023-12-22-coffee.mdx",
-    "filePath": "..\\..\\articles\\2023-12-22-coffee.mdx",
-    "visuals": [
-      "coffeeData.js",
-      "CoffeeMap.css",
-      "CoffeeMap.js",
-      "CoffeePricesBarChart.css",
-      "CoffeePricesBarChart.js"
-    ],
-    "date": "2023-12-22",
-    "staging": true,
-    "title": "Coffee Shops Around the Berkeley Campus ",
-    "bylineName": [
-      "Rayan Taghizadeh",
-      "Lauren Lee"
-    ],
-    "bylineUrl": [
-      "https://www.dailycal.org/users/profile/rayan%20taghizadeh/",
-      "https://www.dailycal.org/users/profile/lauren%20lee/"
-    ],
-    "subhead": "TBD",
-    "featuredImage": "../images/coffee.png",
-    "imageAttribution": "Sean Flaherty | Staff",
-    "aboutStory": "Data for this projects was sourced by the Projects Department."
-  },
-  {
-    "id": 50,
     "fileName": "2024-02-18-internal-audit.mdx",
     "filePath": "..\\..\\articles\\2024-02-18-internal-audit.mdx",
     "visuals": [
@@ -940,7 +913,7 @@
     "aboutStory": "Data for this project come from an internal survey shared to fall 2023 staffers."
   },
   {
-    "id": 51,
+    "id": 50,
     "fileName": "2024-02-29-construction.mdx",
     "filePath": "..\\..\\articles\\2024-02-29-construction.mdx",
     "visuals": [
@@ -969,6 +942,31 @@
     "featuredImage": "../images/construction.png",
     "imageAttribution": "Kyle Garcia Takata | Senior Staff",
     "aboutStory": "Information for this project comes from the Levelset and Berkeley Capital projects."
+  },
+  {
+    "id": 51,
+    "fileName": "2024-04-18-coffee.mdx",
+    "filePath": "..\\..\\articles\\2024-04-18-coffee.mdx",
+    "visuals": [
+      "coffeeData.js",
+      "CoffeeMap.css",
+      "CoffeeMap.js",
+      "CoffeePricesBarChart.css",
+      "CoffeePricesBarChart.js"
+    ],
+    "date": "2024-04-18",
+    "title": "Every coffee shop around Berkeley, mapped",
+    "bylineName": [
+      "Rayan Taghizadeh",
+      "Lauren Lee"
+    ],
+    "bylineUrl": [
+      "https://www.dailycal.org/users/profile/rayan%20taghizadeh/",
+      "https://www.dailycal.org/users/profile/lauren%20lee/"
+    ],
+    "featuredImage": "../images/coffee.png",
+    "imageAttribution": "Sean Flaherty | Staff",
+    "aboutStory": "Data for this projects was sourced by the Projects Department."
   },
   {
     "id": 52,
