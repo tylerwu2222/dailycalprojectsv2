@@ -8,6 +8,11 @@
     height: 100vh;
 } */
 
+.coffee-bar-chart-container {
+    /* max-height: 80vh; */
+    /* overflow-y: scroll; */
+}
+
 .pLevels {
     font-family: Arial, Helvetica, sans-serif;
 }

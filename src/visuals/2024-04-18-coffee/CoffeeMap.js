@@ -20,7 +20,7 @@ function GradientBar() {
 function GradientLegend() {
   return (
     <div className="sidebar-gradient-legend">
-      <p className="pLevels" style={{ margin: 0 }}> Price Level:</p >
+      <p className="pLevels" style={{ margin: 0 }}> Price level:</p >
       <GradientBar />
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <p className="pLevels" style={{ margin: 0 }}>Less expensive</p>
@@ -100,7 +100,7 @@ function CoffeeMap() {
 
     return (
       <button onClick={resetZoom} className="reset-button">
-        Reset Map
+        Reset map
       </button>
     );
   };
