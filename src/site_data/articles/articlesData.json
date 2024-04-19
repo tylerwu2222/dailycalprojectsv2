@@ -945,8 +945,8 @@
   },
   {
     "id": 51,
-    "fileName": "2024-04-18-coffee.mdx",
-    "filePath": "..\\..\\articles\\2024-04-18-coffee.mdx",
+    "fileName": "2024-04-19-coffee.mdx",
+    "filePath": "..\\..\\articles\\2024-04-19-coffee.mdx",
     "visuals": [
       "coffeeData.js",
       "CoffeeMap.css",
@@ -954,7 +954,7 @@
       "CoffeePricesBarChart.css",
       "CoffeePricesBarChart.js"
     ],
-    "date": "2024-04-18",
+    "date": "2024-04-19",
     "title": "Every coffee shop around Berkeley, mapped",
     "bylineName": [
       "Rayan Taghizadeh",
