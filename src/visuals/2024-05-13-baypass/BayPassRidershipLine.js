@@ -29,15 +29,15 @@ export default function BayPassRidershipLine() {
     }, []);
 
     const containerStyle = {
-        height: isMobile ? 500 : 700,
+        height: isMobile ? 360 : 400,
         // height: 600,
         margin: {
-            top: 30,
+            top: isMobile ? 20 : 30,
             // right: isMobile ? 20 : 120,
-            right: 50,
-            left: isMobile ? 20 : 40,
+            right: isMobile ? 40 : 50,
+            left: isMobile ? 15 : 40,
             // bottom: isMobile ? 130 : 120
-            bottom: 20
+            bottom: isMobile ? 10 : 20
         }
     };
     const CustomizedLabelY = () => {

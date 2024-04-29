@@ -74,6 +74,8 @@ for (const obj of BART_stops_info) {
 
 export default function BayPassCalculator() {
   // const [operator, setOperator] = useState('BART');
+  const [isMobile, setIsMobile] = useState(false);
+
   // input states
   const [frequency, setFrequency] = useState('1');
   const [origin, setOrigin] = useState('Downtown Berkeley');
@@ -100,6 +102,10 @@ export default function BayPassCalculator() {
   // const bufferLong = 0;
 
   // EFFECTS
+  useEffect(() => {
+    setIsMobile(window.innerWidth < 1024);
+  }, []);
+
   // when origin, destination, or frequency changes, update non-BayPass fare
   useEffect(() => {
     // calculated fare = fare for one trip * frequency * round_trip or not
@@ -343,7 +349,7 @@ export default function BayPassCalculator() {
           <MapContainer
             scrollWheelZoom={false}
             minZoom={9}
-            zoom={10}
+            zoom={isMobile ? 9:10}
             center={[centerLat, centerLong]}
             bounds={[
               [
