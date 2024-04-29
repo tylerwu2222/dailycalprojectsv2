@@ -975,6 +975,8 @@
     "visuals": [
       "BayPassCalculator.css",
       "BayPassCalculator.js",
+      "BayPassRidershipLine.css",
+      "BayPassRidershipLine.js",
       "data"
     ],
     "date": "2024-05-13",
