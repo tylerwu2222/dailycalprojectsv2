@@ -970,8 +970,8 @@
   },
   {
     "id": 52,
-    "fileName": "2024-05-13-baypass.mdx",
-    "filePath": "..\\..\\articles\\2024-05-13-baypass.mdx",
+    "fileName": "2024-05-20-baypass.mdx",
+    "filePath": "..\\..\\articles\\2024-05-20-baypass.mdx",
     "visuals": [
       "BayPassCalculator.css",
       "BayPassCalculator.js",
@@ -979,9 +979,8 @@
       "BayPassRidershipLine.js",
       "data"
     ],
-    "date": "2024-05-13",
+    "date": "2024-05-20",
     "title": "Is the BayPass worth it?",
-    "staging": true,
     "bylineName": [
       "Andy Chen",
       "Sam Wang",
@@ -993,7 +992,8 @@
       "https://www.dailycal.org/users/profile/tyler%20wu/"
     ],
     "subhead": "We created a tool to check",
-    "imageAttribution": "",
-    "aboutStory": "Information for this project comes from 511.org and the Metropolotin Transportation Commission."
+    "featuredImage": "../images/baypass.png",
+    "imageAttribution": "Anita Liu | Senior Staff",
+    "aboutStory": "Information for this project comes from 511.org, bart.gov, and the Metropolotin Transportation Commission."
   }
 ]

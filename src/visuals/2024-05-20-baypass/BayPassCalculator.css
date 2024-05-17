@@ -1,3 +1,8 @@
+.bp-calculator-div {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
 .bp-controls-div {
     display: flex;
     flex-direction: column;
@@ -28,12 +33,27 @@
 }
 
 .bp-fare-output {
-    background-color: antiquewhite;
+    background-color: rgb(235, 235, 235);
     border-radius: 5px;
 }
 
+.bp-fare-output-grid {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    grid-template-rows: repeat(1fr, 3);
+}
+
 .bp-about-data {
+    font-size: small;
     color: rgb(145, 145, 145);
+}
+
+.red-text {
+    color: #E2565F;
+}
+
+.green-text {
+    color: #30B189;
 }
 
 @media only screen and (min-width: 1024px) {
@@ -56,5 +76,11 @@
         height: 85vh;
         width: 70vh;
         margin: 10px auto;
+    }
+
+    .bp-fare-output-grid>p,
+    .bp-fare-output-grid>b,
+    .bp-fare-output>p {
+        font-size: small;
     }
 }

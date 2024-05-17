@@ -65,7 +65,7 @@ export default function BayPassRidershipLine() {
     };
 
     return (
-        <>
+        <div className='bp-line-div'>
             <div className='bp-ridership-title-div'>
                 <h2>BART ridership recovery post-pandemic</h2>
             </div>
@@ -86,7 +86,7 @@ export default function BayPassRidershipLine() {
                             }
                         }}
                     >
-                        <FormControlLabel value={false} control={<Radio />} label="total ridership" />
+                        <FormControlLabel value={false} control={<Radio />} label="total monthly ridership" />
                         <FormControlLabel value={true} control={<Radio />} label="percent ridership" />
                     </RadioGroup>
                 </FormControl>
@@ -126,7 +126,7 @@ export default function BayPassRidershipLine() {
                             stroke="red"
                             label={isMobile ?
                                 { position: 'top', value: 'lockdown', fill: 'red', fontSize: 10 } :
-                                { position: 'top', value: 'COVID cases in Norcal', fill: 'red', fontSize: 10 }
+                                { position: 'top', value: 'COVID in Norcal', fill: 'red', fontSize: 10 }
                             }
                             strokeDasharray="3 3" />
                         <ReferenceLine
@@ -184,6 +184,15 @@ export default function BayPassRidershipLine() {
                     </LineChart>
                 </ResponsiveContainer>
             </div>
-        </>
+            <div>
+                <p className='bp-line-note'>
+                    <b>Note: </b>
+                    <i>Percent ridership</i> is the ridership compared to peak ridership pre-COVID. Ridership is based on number of entrances at a given stop.
+                </p>
+                <p className='bp-line-about-data'>
+                    <b>About the data: </b>This data was obtained from <a href="https://www.bart.gov/about/reports/ridership" target='_blank'>bart.gov</a>
+                </p>
+            </div>
+        </div>
     )
 }

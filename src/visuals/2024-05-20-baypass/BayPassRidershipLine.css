@@ -1,0 +1,13 @@
+.bp-line-div {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.bp-line-note,
+.bp-line-about-data {
+    font-size: small;
+}
+
+.bp-line-about-data {
+    color: rgb(145, 145, 145);
+}

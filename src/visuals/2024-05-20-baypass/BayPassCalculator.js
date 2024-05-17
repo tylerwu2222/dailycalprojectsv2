@@ -86,6 +86,7 @@ export default function BayPassCalculator() {
   const [fare, setFare] = useState(2.3); // weekly fare cost w/o BayPass
   const [bayPassAnnualFare, setBayPassAnnualFare] = useState(bayPassFareDefault); // Bay Pass annual cost
   const [bayPassWeeklyFare, setBayPassWeeklyFare] = useState(bayPassFareDefault / 52); // Bay Pass weekly cost
+  const [amountSaved, setAmountSaved] = useState(0);
   const [worthIt, setWorthIt] = useState(false);
   // path states
   const [tripPathCoordinates, setTripPathCoordinates] = useState([]);
@@ -120,8 +121,10 @@ export default function BayPassCalculator() {
     setBayPassWeeklyFare(calculatedFare);
   }, [bayPassAnnualFare]);
 
-  // when fare or bay pass weekly fare changes, check if still worth
+  // when fare or bay pass weekly fare changes, check if still worth (and amount saved)
   useEffect(() => {
+    const calculatedDifference = Math.round((fare - bayPassWeeklyFare) * 100) / 100;
+    setAmountSaved(calculatedDifference);
     setWorthIt(bayPassWeeklyFare <= fare);
   }, [fare, bayPassWeeklyFare]);
 
@@ -329,13 +332,22 @@ export default function BayPassCalculator() {
 
         {/* calculated fare */}
         <div className="bp-fare-output">
-          <p>Weekly cost without Bay Pass: <b>${fare}</b></p>
-          <p>Weekly cost with Bay Pass: <b>${bayPassWeeklyFare}</b></p>
-          <p>In this situation, Bay Pass {worthIt ? <b>would</b> : <b>would not</b>} be worth it. {fare === 0 ? <span>(but you should go out more!)</span> : null}</p>
+          <div className='bp-fare-output-grid'>
+            <p>Weekly cost without Bay Pass: </p>
+            <p><b>${fare}</b></p>
+
+            <p>Weekly cost with Bay Pass: </p>
+            <p><b>${bayPassWeeklyFare}</b></p>
+
+            <p>Each week, you would {worthIt ? <>save</> : <>lose</>}:</p>
+            <p><b className={worthIt ? 'green-text' : 'red-text'}>${worthIt ? amountSaved : -amountSaved}</b></p>
+          </div>
+
+          <p>Bay Pass {worthIt ? <b className='green-text'>would</b> : <b className='red-text'>would not</b>} be worth it. {fare === 0 ? <span>(but you should go out more!)</span> : null}</p>
         </div>
 
         <div className='bp-about-data'>
-          <p><b>About the data:</b> The data was obtained from 511.com (SF) and tranist.wiki.</p>
+          <p><b>About the data:</b> The data was obtained from <a href="https://511.org/open-data" target="_blank">511.org</a> and <a href="https://www.transit.wiki/BART_fares" target='_blank'>tranist.wiki</a></p>
         </div>
 
       </div>)
@@ -349,7 +361,7 @@ export default function BayPassCalculator() {
           <MapContainer
             scrollWheelZoom={false}
             minZoom={9}
-            zoom={isMobile ? 9:10}
+            zoom={isMobile ? 9 : 10}
             center={[centerLat, centerLong]}
             bounds={[
               [
@@ -410,9 +422,9 @@ export default function BayPassCalculator() {
 
 
   return (
-    <div className='bp-calculator-div'>
+    <div className='bp-calculator-div' id='bp-calculator-div'>
       <div className='bp-title-div'>
-        <h2>Bay Pass Fare Calculator for the BART</h2>
+        <h2>BayPass Fare Calculator for the BART</h2>
         {/* <h4>Is it worth it?</h4> */}
       </div>
       <p>
