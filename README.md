@@ -38,14 +38,14 @@ This script is still WIP, so for now, we have to do some manual work to add a ne
 3) add text and visualizations below the frontmatter like so:
 ![text content example](public/images/readme/text_content.png)
    
-   1) Note that visualization files should use PascalCase notation otherwise `update-articles` will not load the visualization. For example, if a bar chart vis file is named: `DailyCalBarChart.js`, then the exported function should be `DailyCalBarChart`.
+   1) Note that visualization files should use PascalCase notation otherwise `update-articles` will not load the visualization. For example, if a bar chart vis file is named: `DailyCalBarChart.js`, then the exported function should be called `DailyCalBarChart`.
 
 
 ## Staging an article
 When an article is in-progress, but we want to share with other Projects members or DC departments, we make a private staging link.
 To stage an article, add `staging: true` in the front-matter of the mdx file like so:
 
-Then run `npm update articles` (covered below).
+Then run `npm run update-articles` (covered below).
 ### Unstaging
 When an article is ready to deploy, simply remove `staging: true` from the front-matter and rerun `npm update articles`
 
