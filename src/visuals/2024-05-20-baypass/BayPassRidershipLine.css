@@ -11,3 +11,15 @@
 .bp-line-about-data {
     color: rgb(145, 145, 145);
 }
+
+.bp-ridership-legend{
+    display: flex;
+    justify-content: center;
+}
+
+.bp-ridership-radio-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: auto; */
+}

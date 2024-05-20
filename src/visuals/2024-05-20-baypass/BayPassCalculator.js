@@ -280,14 +280,14 @@ export default function BayPassCalculator() {
             onChange={(e) => setFrequency(e.target.value)}
             label="Frequency"
           >
-            <MenuItem value={'0.25'}>1/month</MenuItem>
-            <MenuItem value={'0.5'}>2/month</MenuItem>
-            <MenuItem value={'1'}>1/week</MenuItem>
-            <MenuItem value={'2'}>2/week</MenuItem>
-            <MenuItem value={'3'}>3/week</MenuItem>
-            <MenuItem value={'4'}>4/week</MenuItem>
-            <MenuItem value={'5'}>5/week</MenuItem>
-            <MenuItem value={'6'}>6/week</MenuItem>
+            <MenuItem value={'0.25'}>One per month</MenuItem>
+            <MenuItem value={'0.5'}>Two per month</MenuItem>
+            <MenuItem value={'1'}>One per week</MenuItem>
+            <MenuItem value={'2'}>Two per week</MenuItem>
+            <MenuItem value={'3'}>Three per week</MenuItem>
+            <MenuItem value={'4'}>Four per week</MenuItem>
+            <MenuItem value={'5'}>Five per week</MenuItem>
+            <MenuItem value={'6'}>Six per week</MenuItem>
             <MenuItem value={'7'}>Daily</MenuItem>
           </Select>
         </FormControl>
@@ -333,12 +333,10 @@ export default function BayPassCalculator() {
         {/* calculated fare */}
         <div className="bp-fare-output">
           <div className='bp-fare-output-grid'>
-            <p>Weekly cost without Bay Pass: </p>
+            <p>Weekly cost without BayPass: </p>
             <p><b>${fare}</b></p>
-
-            <p>Weekly cost with Bay Pass: </p>
+            <p>Weekly cost with BayPass: </p>
             <p><b>${bayPassWeeklyFare}</b></p>
-
             <p>Each week, you would {worthIt ? <>save</> : <>lose</>}:</p>
             <p><b className={worthIt ? 'green-text' : 'red-text'}>${worthIt ? amountSaved : -amountSaved}</b></p>
           </div>
@@ -347,7 +345,7 @@ export default function BayPassCalculator() {
         </div>
 
         <div className='bp-about-data'>
-          <p><b>About the data:</b> The data was obtained from <a href="https://511.org/open-data" target="_blank">511.org</a> and <a href="https://www.transit.wiki/BART_fares" target='_blank'>tranist.wiki</a></p>
+          <p><b>About the data:</b> The data was obtained from <a href="https://511.org/open-data" target="_blank">511.org</a> and <a href="https://www.transit.wiki/BART_fares" target='_blank'>tranist.wiki</a>.</p>
         </div>
 
       </div>)
@@ -424,7 +422,7 @@ export default function BayPassCalculator() {
   return (
     <div className='bp-calculator-div' id='bp-calculator-div'>
       <div className='bp-title-div'>
-        <h2>BayPass Fare Calculator for the BART</h2>
+        <h2>BayPass Fare Calculator for BART</h2>
         {/* <h4>Is it worth it?</h4> */}
       </div>
       <p>
