@@ -26,7 +26,7 @@
     z-index: 0 !important;
 }
 
-.bp-about-data,
+/* .bp-about-data, */
 .bp-fare-output {
     margin-top: 10px;
     padding: 5px 20px;
@@ -43,7 +43,11 @@
     grid-template-rows: repeat(1fr, 3);
 }
 
-.bp-about-data {
+.bp-map-note {
+    font-size: small;
+}
+
+.bp-map-about-data {
     font-size: small;
     color: rgb(145, 145, 145);
 }

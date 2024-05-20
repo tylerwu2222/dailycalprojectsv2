@@ -344,8 +344,9 @@ export default function BayPassCalculator() {
           <p>Bay Pass {worthIt ? <b className='green-text'>would</b> : <b className='red-text'>would not</b>} be worth it. {fare === 0 ? <span>(but you should go out more!)</span> : null}</p>
         </div>
 
-        <div className='bp-about-data'>
-          <p><b>About the data:</b> The data was obtained from <a href="https://511.org/open-data" target="_blank">511.org</a> and <a href="https://www.transit.wiki/BART_fares" target='_blank'>tranist.wiki</a>.</p>
+        <div>
+          <p className='bp-map-note'><b>Note:</b> The $270 reference point for BayPass is based on the current <a href="https://campuslifeserviceshome.ucsf.edu/transportation/faq-student-transit-pass" target='_blank'>transit fee</a> for UCSF students.</p>
+          <p className='bp-map-about-data'><b>About the data:</b> The data was obtained from <a href="https://511.org/open-data" target="_blank">511.org</a> and <a href="https://www.transit.wiki/BART_fares" target='_blank'>tranist.wiki</a>.</p>
         </div>
 
       </div>)
@@ -358,6 +359,7 @@ export default function BayPassCalculator() {
         {
           <MapContainer
             scrollWheelZoom={false}
+            dragging={isMobile ? false : true}
             minZoom={9}
             zoom={isMobile ? 9 : 10}
             center={[centerLat, centerLong]}
